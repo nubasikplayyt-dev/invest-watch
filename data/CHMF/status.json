@@ -1,0 +1,89 @@
+{
+  "asset_id": "CHMF",
+  "status": {
+    "verdict": "sell_candidate",
+    "updated": "2026-10-30"
+  },
+  "criteria": {
+    "C1": {
+      "status": "pass",
+      "note": "Чёрная металлургия (сталь) — базовая отрасль"
+    },
+    "C2": {
+      "status": "pass",
+      "note": "Вертикально интегрированный производитель стали: руда, уголь, прокат"
+    },
+    "C3": {
+      "status": "n/a",
+      "note": "нет фактов для оценки"
+    },
+    "C4": {
+      "status": "n/a",
+      "note": "нет фактов для оценки"
+    },
+    "C5": {
+      "status": "n/a",
+      "note": "нет фактов для оценки"
+    },
+    "C6": {
+      "status": "fail",
+      "note": "Дивидендов нет с отсечки 17.12.2024: за 2025 г. ГОСА не платить; за 1П 2026 и 9М 2026 отказ (20.10.2026) из-за отрицательного FCF (9М 2026 −27,6 млрд ₽). ЧП 9М 2026 19,3 млрд ₽ (−61%). ЧД/EBITDA 0,5x на 30.06.2026"
+    },
+    "C7": {
+      "status": "n/a",
+      "note": "не потребительская компания"
+    },
+    "C8": {
+      "status": "pass",
+      "note": "Часть стали экспортируется; основной рынок — РФ"
+    },
+    "P1": {
+      "status": "fail",
+      "note": "Дивиденды за 12 мес. 0 ₽ → 0% при цене 687,4 ₽ (30.10.2026) < 5%"
+    },
+    "P2": {
+      "status": "n/a",
+      "note": "Нет данных о цене стали к средней за цикл; спрос на сталь в РФ 2026 — оценка компании около −0,5%"
+    },
+    "P3": {
+      "status": "n/a",
+      "note": "не фонд недвижимости"
+    }
+  },
+  "watch": [
+    "Решение СД по дивидендам за 2026 г. (весна 2027)",
+    "FCF в 4К 2026 (компания ждёт отрицательный за год)",
+    "ЧД/EBITDA к порогу дивполитики 0,5x"
+  ],
+  "metrics": {
+    "price_rub": 687.4,
+    "price_date": "2026-10-30",
+    "div_ttm_rub": 0,
+    "yield_pct": 0,
+    "net_debt_to_ebitda": 0.5,
+    "net_debt_to_ebitda_period": "30.06.2026",
+    "payout_pct": 0
+  },
+  "sources": [
+    {
+      "title": "Reuters/The Moscow Times: Северсталь откажется от дивидендов несмотря на рост прибыли и FCF в 3 кв (20.10.2026)",
+      "url": "https://ru.themoscowtimes.com/2026/10/20/update-1-severstal-otkazhetsya-ot-dividendov-nesmotrya-na-rost-pribyli-i-fcf-v-3-kv-a209041"
+    },
+    {
+      "title": "ТАСС/Рамблер: Северсталь не выплатит дивиденды за I полугодие 2026 (20.07.2026)",
+      "url": "https://finance.rambler.ru/business/56782870-severstal-ne-vyplatit-dividendy-za-i-polugodie-2026-goda/"
+    },
+    {
+      "title": "Financial One: Северсталь 3К26 МСФО (ЧД 49,6 млрд ₽, 0,5x на 30.06)",
+      "url": "https://fomag.ru/news/severstal-finansovye-rezultaty-3k26-msfo-/"
+    },
+    {
+      "title": "Доход: история дивидендов (сверка)",
+      "url": "https://www.dohod.ru/ik/analytics/dividend/chmf"
+    },
+    {
+      "title": "Smart-lab: котировки (цена 30.10.2026, сверка)",
+      "url": "https://smart-lab.ru/q/shares/"
+    }
+  ]
+}

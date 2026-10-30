@@ -1,0 +1,101 @@
+{
+  "asset_id": "PLZL",
+  "status": {
+    "verdict": "sell_candidate",
+    "updated": "2026-10-30"
+  },
+  "criteria": {
+    "C1": {
+      "status": "pass",
+      "note": "Добыча золота"
+    },
+    "C2": {
+      "status": "pass",
+      "note": "Золотодобыча — шахты и карьеры"
+    },
+    "C3": {
+      "status": "n/a",
+      "note": "нет фактов для оценки"
+    },
+    "C4": {
+      "status": "n/a",
+      "note": "нет фактов для оценки"
+    },
+    "C5": {
+      "status": "n/a",
+      "note": "нет фактов для оценки"
+    },
+    "C6": {
+      "status": "fail",
+      "note": "08.07.2026 менеджмент рекомендовал приостановить дивиденды до 2030 г. ради капекса (Сухой Лог ~6 млрд $), СД 09.07 «принял к сведению»; причины — дорогой долг, рост издержек и налогов, снижение цены золота. Последняя выплата — 29,05 ₽ за 1К 2026"
+    },
+    "C7": {
+      "status": "n/a",
+      "note": "не потребительская компания"
+    },
+    "C8": {
+      "status": "pass",
+      "note": "Выручка привязана к долларовой цене золота — хедж от девальвации"
+    },
+    "P1": {
+      "status": "warn",
+      "note": "LTM 121,85 ₽ (36 ₽ 22.12.2025 + 56,8 ₽ 18.05.2026 + 29,05 ₽ 13.07.2026) / 1061,4 ₽ (30.10.2026) = 11,5%, но выплаты предложено приостановить до 2030 г."
+    },
+    "P2": {
+      "status": "warn",
+      "note": "Золото 4030$/унц (29.10.2026) — исторически высокий уровень, на 28% ниже пика 5608$ (янв. 2026)"
+    },
+    "P3": {
+      "status": "n/a",
+      "note": "не фонд недвижимости"
+    }
+  },
+  "watch": [
+    "Решения СД по дивидендам (выполнение рекомендации о паузе до 2030 г.)",
+    "Отчёт МСФО за 2026 г., чистый долг и капекс Сухого Лога",
+    "Цена золота"
+  ],
+  "metrics": {
+    "price_rub": 1061.4,
+    "price_date": "2026-10-30",
+    "div_ttm_rub": 121.85,
+    "yield_pct": 11.48,
+    "net_profit_1h2026_mln_usd": 829,
+    "gold_usd_oz": 4030.48,
+    "gold_date": "2026-10-29"
+  },
+  "sources": [
+    {
+      "title": "The Moscow Times/Reuters: менеджмент Полюса рекомендует приостановить дивиденды до 2030 г. (08.07.2026)",
+      "url": "https://ru.themoscowtimes.com/2026/07/08/menedzhment-polyusa-rekomenduet-sovetu-priostanovit-dividendy-do-30g-a200242"
+    },
+    {
+      "title": "The Moscow Times/Reuters: СД Полюса учтёт позицию менеджмента (13.07.2026)",
+      "url": "https://ru.themoscowtimes.com/2026/07/13/polyus-sd-uchtet-pozitsiyu-menedzhmenta-o-priostanovke-dividendov-do-30g-v-buduschem-raspredelenii-pribyli-a200682"
+    },
+    {
+      "title": "Коммерсантъ: Полюс — пауза в дивидендах, дивиденд 1К 2026 29,05 ₽ (08.07.2026)",
+      "url": "https://www.kommersant.ru/doc/8798715"
+    },
+    {
+      "title": "AK&M: прибыль Полюса по МСФО за 1П 2026 829 млн $",
+      "url": "https://www.akm.ru/news/pribyl_polyusa_za_pervoe_polugodie_2026_goda_po_sostavila_829_mln/"
+    },
+    {
+      "title": "Интерфакс: дивиденды PLZL",
+      "url": "https://www.interfax.ru/quote/PLZL/Dividends"
+    },
+    {
+      "title": "investmint: цена PLZL (30.10.2026)",
+      "url": "https://investmint.ru/plzl/"
+    },
+    {
+      "title": "dohod.ru: история дивидендов PLZL (сверка)",
+      "url": "https://dohod.ru/ik/analytics/dividend/plzl"
+    },
+    {
+      "title": "Trading Economics: цена золота",
+      "url": "https://ru.tradingeconomics.com/commodity/gold"
+    }
+  ]
+}

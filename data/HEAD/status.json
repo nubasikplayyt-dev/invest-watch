@@ -1,0 +1,90 @@
+{
+  "asset_id": "HEAD",
+  "status": {
+    "verdict": "sell_candidate",
+    "updated": "2026-10-30"
+  },
+  "criteria": {
+    "C1": {
+      "status": "fail",
+      "note": "Онлайн-платформа поиска работы (IT) — не «вечная тема» по критерию"
+    },
+    "C2": {
+      "status": "warn",
+      "note": "IT-платформа объявлений о вакансиях; зависит от рынка труда — прогноз выручки 2026 снижен до ~0% роста (~41 млрд ₽)"
+    },
+    "C3": {
+      "status": "n/a",
+      "note": "нет фактов для оценки"
+    },
+    "C4": {
+      "status": "n/a",
+      "note": "нет фактов для оценки"
+    },
+    "C5": {
+      "status": "n/a",
+      "note": "нет фактов для оценки"
+    },
+    "C6": {
+      "status": "pass",
+      "note": "2К26: скорр. чистая прибыль 4,8 млрд ₽ (−2% г/г), FCF 3,7 млрд; дивиденды 233 ₽ (отсечка 12.05.2026) и 200 ₽ (28.09.2026), выплаты дважды в год"
+    },
+    "C7": {
+      "status": "n/a",
+      "note": "B2B-сервис для работодателей"
+    },
+    "C8": {
+      "status": "n/a",
+      "note": "не экспортёр"
+    },
+    "P1": {
+      "status": "pass",
+      "note": "LTM 433 ₽ / 2690 ₽ (30.10.2026) = 16,1%"
+    },
+    "P2": {
+      "status": "n/a",
+      "note": "не сырьевик"
+    },
+    "P3": {
+      "status": "n/a",
+      "note": "не фонд недвижимости"
+    }
+  },
+  "watch": [
+    "Результаты за 3К 2026",
+    "Решение по дивидендам за 2П/2026 (весна 2027)",
+    "Выручка 2026 против прогноза ~41 млрд ₽"
+  ],
+  "metrics": {
+    "price_rub": 2690,
+    "price_date": "2026-10-30",
+    "div_ttm_rub": 433,
+    "yield_pct": 16.1
+  },
+  "sources": [
+    {
+      "title": "Fomag: Хэдхантер выплатит по 200 ₽ на акцию, отсечка 28.09.2026 (21.09.2026)",
+      "url": "https://fomag.ru/news/khedkhanter-vyplatit-aktsioneram-po-200-rub-na-aktsiyu/"
+    },
+    {
+      "title": "АКМ: Хэдхантер планирует промежуточные дивиденды 200 ₽",
+      "url": "https://www.akm.ru/news/khedkhanter_planiruet_vyplatit_promezhutochnye_dividendy_iz_rascheta_200_rub_na_aktsiyu/"
+    },
+    {
+      "title": "AKM: HeadHunter plans dividends for 2025 of 233 RUB per share",
+      "url": "https://www.akm.ru/eng/news/the-headhunter-plans-to-pay-dividends-for-2025-at-the-rate-of-233-rubles-per-share/"
+    },
+    {
+      "title": "Mail.ru Финансы: результаты 2К 2026 и снижение прогноза (14.08.2026)",
+      "url": "https://finance.mail.ru/article/analitiki-market-power-otsenili-perspektivyi-hedhantera-posle-snizheniya-prognoza-69222731/"
+    },
+    {
+      "title": "Investfuture: котировка HEAD (Мосбиржа)",
+      "url": "https://investfuture.ru/instruments/21dee41d-9d9f-4620-821e-201702f22d30"
+    },
+    {
+      "title": "Доход.ру: история дивидендов HEAD (сверка)",
+      "url": "https://dohod.ru/ik/analytics/dividend/head"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "asset_id": "FLOT",
+  "currency": "RUB",
+  "by_year": [
+    {
+      "year": 2016,
+      "total": 3.04
+    },
+    {
+      "year": 2017,
+      "total": 3.12
+    },
+    {
+      "year": 2018,
+      "total": 0.8623
+    },
+    {
+      "year": 2019,
+      "total": 0.7295
+    },
+    {
+      "year": 2020,
+      "total": 3.65
+    },
+    {
+      "year": 2021,
+      "total": 6.67
+    },
+    {
+      "year": 2022,
+      "total": 0.0
+    },
+    {
+      "year": 2023,
+      "total": 4.29
+    },
+    {
+      "year": 2024,
+      "total": 17.59
+    },
+    {
+      "year": 2025,
+      "total": 0.0
+    },
+    {
+      "year": 2026,
+      "total": 4.87
+    }
+  ],
+  "payments": [
+    {
+      "record_date": "2016-07-11",
+      "amount": 3.04
+    },
+    {
+      "record_date": "2017-06-26",
+      "amount": 3.12
+    },
+    {
+      "record_date": "2018-07-09",
+      "amount": 0.8623
+    },
+    {
+      "record_date": "2019-07-06",
+      "amount": 0.7295
+    },
+    {
+      "record_date": "2020-08-14",
+      "amount": 3.65
+    },
+    {
+      "record_date": "2021-07-05",
+      "amount": 6.67
+    },
+    {
+      "record_date": "2023-07-05",
+      "amount": 4.29
+    },
+    {
+      "record_date": "2024-01-07",
+      "amount": 6.32
+    },
+    {
+      "record_date": "2024-07-20",
+      "amount": 11.27
+    },
+    {
+      "record_date": "2026-07-16",
+      "amount": 4.87
+    }
+  ]
+}

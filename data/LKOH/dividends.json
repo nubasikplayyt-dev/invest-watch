@@ -1,0 +1,136 @@
+{
+  "asset_id": "LKOH",
+  "currency": "RUB",
+  "by_year": [
+    {
+      "year": 2016,
+      "total": 187
+    },
+    {
+      "year": 2017,
+      "total": 205
+    },
+    {
+      "year": 2018,
+      "total": 225
+    },
+    {
+      "year": 2019,
+      "total": 347
+    },
+    {
+      "year": 2020,
+      "total": 396
+    },
+    {
+      "year": 2021,
+      "total": 553
+    },
+    {
+      "year": 2022,
+      "total": 793
+    },
+    {
+      "year": 2023,
+      "total": 885
+    },
+    {
+      "year": 2024,
+      "total": 1012
+    },
+    {
+      "year": 2025,
+      "total": 541
+    },
+    {
+      "year": 2026,
+      "total": 675
+    }
+  ],
+  "payments": [
+    {
+      "record_date": "2016-07-12",
+      "amount": 112
+    },
+    {
+      "record_date": "2016-12-23",
+      "amount": 75
+    },
+    {
+      "record_date": "2017-07-10",
+      "amount": 120
+    },
+    {
+      "record_date": "2017-12-22",
+      "amount": 85
+    },
+    {
+      "record_date": "2018-07-11",
+      "amount": 130
+    },
+    {
+      "record_date": "2018-12-21",
+      "amount": 95
+    },
+    {
+      "record_date": "2019-07-09",
+      "amount": 155
+    },
+    {
+      "record_date": "2019-12-20",
+      "amount": 192
+    },
+    {
+      "record_date": "2020-07-10",
+      "amount": 350
+    },
+    {
+      "record_date": "2020-12-18",
+      "amount": 46
+    },
+    {
+      "record_date": "2021-07-05",
+      "amount": 213
+    },
+    {
+      "record_date": "2021-12-21",
+      "amount": 340
+    },
+    {
+      "record_date": "2022-12-21",
+      "amount": 537
+    },
+    {
+      "record_date": "2022-12-21",
+      "amount": 256
+    },
+    {
+      "record_date": "2023-06-05",
+      "amount": 438
+    },
+    {
+      "record_date": "2023-12-17",
+      "amount": 447
+    },
+    {
+      "record_date": "2024-05-07",
+      "amount": 498
+    },
+    {
+      "record_date": "2024-12-17",
+      "amount": 514
+    },
+    {
+      "record_date": "2025-06-03",
+      "amount": 541
+    },
+    {
+      "record_date": "2026-01-12",
+      "amount": 397
+    },
+    {
+      "record_date": "2026-05-04",
+      "amount": 278
+    }
+  ]
+}

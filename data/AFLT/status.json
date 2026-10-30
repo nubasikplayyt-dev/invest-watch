@@ -1,0 +1,90 @@
+{
+  "asset_id": "AFLT",
+  "status": {
+    "verdict": "sell_candidate",
+    "updated": "2026-10-30"
+  },
+  "criteria": {
+    "C1": {
+      "status": "fail",
+      "note": "Авиаперевозки прямо исключены владельцем в C1 (CRITERIA.md)"
+    },
+    "C2": {
+      "status": "warn",
+      "note": "Авиакомпания: капиталоёмкий бизнес с чистым долгом 511,5 млрд ₽ (30.06.2026)"
+    },
+    "C3": {
+      "status": "n/a",
+      "note": "нет фактов для оценки"
+    },
+    "C4": {
+      "status": "fail",
+      "note": "Менеджмент Аэрофлота — анти-пример владельца в C4 (CRITERIA.md)"
+    },
+    "C5": {
+      "status": "n/a",
+      "note": "нет фактов для оценки"
+    },
+    "C6": {
+      "status": "warn",
+      "note": "Выплаты прерывались: нет отсечек 2020–2024; возобновлены в 2025 (5,27 ₽) и 2026 (5,29 ₽, 100% скорр. прибыли МСФО 2025); чистый долг 511,5 млрд ₽, скорр. прибыль 1П 2026 — 0,47 млрд ₽"
+    },
+    "C7": {
+      "status": "n/a",
+      "note": "нет фактов для оценки"
+    },
+    "C8": {
+      "status": "n/a",
+      "note": "не экспортёр"
+    },
+    "P1": {
+      "status": "pass",
+      "note": "5,29 ₽ за 12 мес. (отсечка 17.07.2026) / 37,74 ₽ (30.10.2026) ≈ 14,0%"
+    },
+    "P2": {
+      "status": "n/a",
+      "note": "не сырьевик"
+    },
+    "P3": {
+      "status": "n/a",
+      "note": "не фонд недвижимости"
+    }
+  },
+  "watch": [
+    "МСФО за 9М 2026",
+    "Чистый долг и рекомендация дивидендов за 2026 г. (весна 2027)"
+  ],
+  "metrics": {
+    "price_rub": 37.74,
+    "price_date": "2026-10-30",
+    "div_ttm_rub": 5.29,
+    "yield_pct": 14.02,
+    "payout_pct": 100,
+    "payout_period": "2025 (скорр. прибыль МСФО)",
+    "net_debt_bn_rub": 511.5,
+    "net_debt_date": "2026-06-30",
+    "adj_ebitda_1h2026_bn_rub": 83.1
+  },
+  "sources": [
+    {
+      "title": "The Moscow Times: СД Аэрофлота рекомендовал дивиденды за 2025 г. 5,29 ₽, 29.05.2026",
+      "url": "https://ru.themoscowtimes.com/2026/05/29/sd-aeroflota-rekomendoval-dividendy-za-25g-v-razmere-529-rakts-a196650"
+    },
+    {
+      "title": "РБК: МСФО Аэрофлота за 1П 2026, 31.08.2026",
+      "url": "https://www.rbc.ru/industries/news/6a95511f9a794760cecd73bf"
+    },
+    {
+      "title": "АКМ: убыток акционеров Аэрофлота по МСФО за 1П 2026 — 367 млн ₽",
+      "url": "https://www.akm.ru/news/ubytok_aktsionerov_aeroflota_po_msfo_za_pervoe_polugodie_sostavil_367_mln_rub/"
+    },
+    {
+      "title": "dohod.ru: история дивидендов Аэрофлота (сверка)",
+      "url": "https://www.dohod.ru/ik/analytics/dividend/aflt"
+    },
+    {
+      "title": "investmint: Аэрофлот (цена)",
+      "url": "https://investmint.ru/aflt/"
+    }
+  ]
+}

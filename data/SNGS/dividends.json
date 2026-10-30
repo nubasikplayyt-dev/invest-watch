@@ -1,0 +1,96 @@
+{
+  "asset_id": "SNGS",
+  "currency": "RUB",
+  "by_year": [
+    {
+      "year": 2016,
+      "total": 0.6
+    },
+    {
+      "year": 2017,
+      "total": 0.6
+    },
+    {
+      "year": 2018,
+      "total": 0.65
+    },
+    {
+      "year": 2019,
+      "total": 0.65
+    },
+    {
+      "year": 2020,
+      "total": 0.65
+    },
+    {
+      "year": 2021,
+      "total": 0.7
+    },
+    {
+      "year": 2022,
+      "total": 0.8
+    },
+    {
+      "year": 2023,
+      "total": 0.8
+    },
+    {
+      "year": 2024,
+      "total": 0.85
+    },
+    {
+      "year": 2025,
+      "total": 0.9
+    },
+    {
+      "year": 2026,
+      "total": 0.85
+    }
+  ],
+  "payments": [
+    {
+      "record_date": "2016-07-18",
+      "amount": 0.6
+    },
+    {
+      "record_date": "2017-07-19",
+      "amount": 0.6
+    },
+    {
+      "record_date": "2018-07-19",
+      "amount": 0.65
+    },
+    {
+      "record_date": "2019-07-18",
+      "amount": 0.65
+    },
+    {
+      "record_date": "2020-07-20",
+      "amount": 0.65
+    },
+    {
+      "record_date": "2021-07-20",
+      "amount": 0.7
+    },
+    {
+      "record_date": "2022-07-20",
+      "amount": 0.8
+    },
+    {
+      "record_date": "2023-07-20",
+      "amount": 0.8
+    },
+    {
+      "record_date": "2024-07-18",
+      "amount": 0.85
+    },
+    {
+      "record_date": "2025-07-17",
+      "amount": 0.9
+    },
+    {
+      "record_date": "2026-07-16",
+      "amount": 0.85
+    }
+  ]
+}

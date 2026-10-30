@@ -1,0 +1,107 @@
+{
+  "asset_id": "ROSN",
+  "status": {
+    "verdict": "watch",
+    "updated": "2026-10-30"
+  },
+  "criteria": {
+    "C1": {
+      "status": "pass",
+      "note": "Добыча и переработка нефти"
+    },
+    "C2": {
+      "status": "pass",
+      "note": "Нефтедобыча и НПЗ — простая сырьевая модель"
+    },
+    "C3": {
+      "status": "pass",
+      "note": "Контроль государства через АО «Роснефтегаз»; с 22.10.2025 в блокирующих санкциях США (OFAC) — работает, давит на результаты"
+    },
+    "C4": {
+      "status": "n/a",
+      "note": "нет фактов для оценки"
+    },
+    "C5": {
+      "status": "n/a",
+      "note": "нет фактов для оценки"
+    },
+    "C6": {
+      "status": "warn",
+      "note": "Прибыль МСФО 2025 293 млрд ₽ (2024: 1084 млрд); payout ~50%; дивиденды за 2025 13,83 ₽ против 51,15 ₽ годом ранее; ЧД/EBITDA 1,8x (1П 2026); прибыль 1П 2026 200 млрд ₽ (−18%)"
+    },
+    "C7": {
+      "status": "n/a",
+      "note": "не потребительская компания"
+    },
+    "C8": {
+      "status": "pass",
+      "note": "Экспортёр нефти и нефтепродуктов"
+    },
+    "P1": {
+      "status": "fail",
+      "note": "LTM 13,83 ₽ (11,56 ₽ отсечка 12.01.2026 + 2,27 ₽ 09.07.2026) / 385,9 ₽ (29.10.2026) = 3,6% < 5%"
+    },
+    "P2": {
+      "status": "warn",
+      "note": "Brent >106$ (12.10.2026, ICE) против ~82$ в среднем за 2024 и ~69$ за 2025 — высокая фаза цикла"
+    },
+    "P3": {
+      "status": "n/a",
+      "note": "не фонд недвижимости"
+    }
+  },
+  "watch": [
+    "Решение СД по дивидендам за 9М 2026 (обычно ноябрь–декабрь)",
+    "Отчёт МСФО за 9М 2026",
+    "Санкции США/ЕС против Роснефти и цена Urals"
+  ],
+  "metrics": {
+    "price_rub": 385.9,
+    "price_date": "2026-10-29",
+    "div_ttm_rub": 13.83,
+    "yield_pct": 3.58,
+    "net_debt_to_ebitda": 1.8,
+    "net_debt_to_ebitda_period": "1П 2026",
+    "payout_pct": 50,
+    "net_profit_2025_bn_rub": 293,
+    "net_profit_1h2026_bn_rub": 200
+  },
+  "sources": [
+    {
+      "title": "Интерфакс: дивиденды и котировка ROSN",
+      "url": "https://www.interfax.ru/quote/ROSN/Dividends"
+    },
+    {
+      "title": "The Moscow Times/Reuters: СД Роснефти рекомендовал 2,27 ₽ за 2025 г. (15.05.2026)",
+      "url": "https://ru.themoscowtimes.com/2026/05/15/sd-rosnefti-rekomendoval-finalnye-dividendy-za-25g-227-rakts-a195453"
+    },
+    {
+      "title": "The Moscow Times: прибыль Роснефти за 2025 г. (01.04.2026)",
+      "url": "https://ru.themoscowtimes.com/2026/04/01/rosneft-otchitalas-okrushenii-pribili-v-4-raza-a191508"
+    },
+    {
+      "title": "The Moscow Times/Reuters: МСФО 1П 2026 (28.08.2026)",
+      "url": "https://ru.themoscowtimes.com/2026/08/28/rosneft-sokratila-pribyl-aktsionerov-po-msfo-v-i-pol-na-18-do-200-mlrd-r-iz-za-nedenezhnykh-faktorov-a204703"
+    },
+    {
+      "title": "Interfax: санкции OFAC против Роснефти (23.10.2025)",
+      "url": "https://interfax.com/newsroom/top-stories/114447/"
+    },
+    {
+      "title": "investmint: история дивидендов ROSN (сверка)",
+      "url": "https://investmint.ru/rosn/divs/"
+    },
+    {
+      "title": "dohod.ru: история дивидендов ROSN (сверка)",
+      "url": "https://dohod.ru/ik/analytics/dividend/rosn"
+    },
+    {
+      "title": "Financial One: Brent превысила 106$ (12.10.2026)",
+      "url": "https://fomag.ru/news-streem/tsena-brent-na-birzhe-ice-prevyshala-106-za-barrel-vpervye-s-29-sentyabrya/"
+    },
+    {
+      "title": "Т—Ж: цены на нефть (средние 2024–2025)",
+      "url": "https://t-j.ru/oil-price-2026/"
+    }
+  ]
+}

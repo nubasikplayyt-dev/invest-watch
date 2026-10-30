@@ -1,0 +1,65 @@
+{
+  "asset_id": "SVCB",
+  "currency": "RUB",
+  "by_year": [
+    {
+      "year": 2016,
+      "total": 0
+    },
+    {
+      "year": 2017,
+      "total": 0
+    },
+    {
+      "year": 2018,
+      "total": 0
+    },
+    {
+      "year": 2019,
+      "total": 0
+    },
+    {
+      "year": 2020,
+      "total": 0
+    },
+    {
+      "year": 2021,
+      "total": 0
+    },
+    {
+      "year": 2022,
+      "total": 0
+    },
+    {
+      "year": 2023,
+      "total": 0
+    },
+    {
+      "year": 2024,
+      "total": 1.14
+    },
+    {
+      "year": 2025,
+      "total": 0.35
+    },
+    {
+      "year": 2026,
+      "total": 0.35
+    }
+  ],
+  "payments": [
+    {
+      "record_date": "2024-07-08",
+      "amount": 1.14
+    },
+    {
+      "record_date": "2025-07-08",
+      "amount": 0.35
+    },
+    {
+      "record_date": "2026-07-13",
+      "amount": 0.35
+    }
+  ],
+  "note": "Акции на Мосбирже с декабря 2023 г. (IPO); 2016–2023 — нет публичных выплат на акцию"
+}

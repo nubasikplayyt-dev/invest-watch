@@ -1,0 +1,78 @@
+{
+  "asset_id": "ENPG",
+  "status": {
+    "verdict": "sell_candidate",
+    "updated": "2026-10-30"
+  },
+  "criteria": {
+    "C1": {
+      "status": "pass",
+      "note": "Гидрогенерация и алюминий (через Русал)"
+    },
+    "C2": {
+      "status": "pass",
+      "note": "ГЭС + выплавка алюминия"
+    },
+    "C3": {
+      "status": "n/a",
+      "note": "нет фактов для оценки"
+    },
+    "C4": {
+      "status": "n/a",
+      "note": "нет фактов для оценки"
+    },
+    "C5": {
+      "status": "n/a",
+      "note": "нет фактов для оценки"
+    },
+    "C6": {
+      "status": "fail",
+      "note": "Дивидендов нет с 2018 г.; ГОСА (июнь 2026) решило не выплачивать дивиденды за 2025 г."
+    },
+    "C7": {
+      "status": "n/a",
+      "note": "не потребительская компания"
+    },
+    "C8": {
+      "status": "pass",
+      "note": "Экспортёр алюминия"
+    },
+    "P1": {
+      "status": "fail",
+      "note": "LTM 0% при цене 322,65 ₽ (30.10.2026), порог 5%"
+    },
+    "P2": {
+      "status": "n/a",
+      "note": "нет данных о средней цене алюминия за цикл"
+    },
+    "P3": {
+      "status": "n/a",
+      "note": "не фонд недвижимости"
+    }
+  },
+  "watch": [
+    "Решение по дивидендам за 2026 г. (весна–лето 2027)",
+    "Дивиденды Русала (источник выплат Эн+)",
+    "МСФО за 9М/2026"
+  ],
+  "metrics": {
+    "price_rub": 322.65,
+    "price_date": "2026-10-30",
+    "div_ttm_rub": 0,
+    "yield_pct": 0.0
+  },
+  "sources": [
+    {
+      "title": "Smart-lab: котировки акций Мосбиржи (30.10.2026, ~19:08 МСК)",
+      "url": "https://smart-lab.ru/q/shares/"
+    },
+    {
+      "title": "Investfuture: Эн+ отказывается от дивидендов за 2025 год (26.06.2026)",
+      "url": "https://investfuture.ru/articles/en-otkazyvaetsya-ot-dividendov-za-2025-god-i-obnovlyaet-sovet-direktorov-37073076"
+    },
+    {
+      "title": "Dohod.ru: дивиденды ЭН+ ГРУП",
+      "url": "https://www.dohod.ru/ik/analytics/dividend/enpg"
+    }
+  ]
+}

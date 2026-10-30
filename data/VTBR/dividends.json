@@ -1,0 +1,85 @@
+{
+  "asset_id": "VTBR",
+  "currency": "RUB",
+  "by_year": [
+    {
+      "year": 2016,
+      "total": 5.85
+    },
+    {
+      "year": 2017,
+      "total": 5.85
+    },
+    {
+      "year": 2018,
+      "total": 17.27
+    },
+    {
+      "year": 2019,
+      "total": 5.49
+    },
+    {
+      "year": 2020,
+      "total": 3.87
+    },
+    {
+      "year": 2021,
+      "total": 7.0
+    },
+    {
+      "year": 2022,
+      "total": 0.0
+    },
+    {
+      "year": 2023,
+      "total": 0.0
+    },
+    {
+      "year": 2024,
+      "total": 0.0
+    },
+    {
+      "year": 2025,
+      "total": 25.58
+    },
+    {
+      "year": 2026,
+      "total": 9.71
+    }
+  ],
+  "payments": [
+    {
+      "record_date": "2016-07-04",
+      "amount": 5.85
+    },
+    {
+      "record_date": "2017-05-10",
+      "amount": 5.85
+    },
+    {
+      "record_date": "2018-06-04",
+      "amount": 17.27
+    },
+    {
+      "record_date": "2019-06-24",
+      "amount": 5.49
+    },
+    {
+      "record_date": "2020-10-05",
+      "amount": 3.87
+    },
+    {
+      "record_date": "2021-07-15",
+      "amount": 7.0
+    },
+    {
+      "record_date": "2025-07-11",
+      "amount": 25.58
+    },
+    {
+      "record_date": "2026-07-20",
+      "amount": 9.71
+    }
+  ],
+  "note": "Суммы до 2024 г. пересчитаны с учётом обратного сплита 5000:1 (2024); 2021 — 0,087+6,91 ≈ 7,0 ₽"
+}

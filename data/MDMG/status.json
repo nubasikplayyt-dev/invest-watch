@@ -1,0 +1,93 @@
+{
+  "asset_id": "MDMG",
+  "status": {
+    "verdict": "buy_zone",
+    "updated": "2026-10-30"
+  },
+  "criteria": {
+    "C1": {
+      "status": "pass",
+      "note": "Медицина, роды и педиатрия"
+    },
+    "C2": {
+      "status": "pass",
+      "note": "Сеть клиник и госпиталей"
+    },
+    "C3": {
+      "status": "n/a",
+      "note": "нет фактов для оценки"
+    },
+    "C4": {
+      "status": "n/a",
+      "note": "нет фактов для оценки"
+    },
+    "C5": {
+      "status": "n/a",
+      "note": "нет фактов для оценки"
+    },
+    "C6": {
+      "status": "pass",
+      "note": "Дивиденды дважды в год с 2024 г.; за 2025 г. 89 ₽ (>60% МСФО); 1П26 38 ₽; чистая прибыль 1П26 5,3 млрд ₽ (+5,1%); ЧД/EBITDA 0,4x"
+    },
+    "C7": {
+      "status": "pass",
+      "note": "Платная медицина, цены не регулируются государством; выручка LFL 3К26 +13,2%"
+    },
+    "C8": {
+      "status": "n/a",
+      "note": "не экспортёр"
+    },
+    "P1": {
+      "status": "pass",
+      "note": "LTM 85 ₽ (47 ₽ отсечка 14.07.2026 + 38 ₽ 19.10.2026) = 6,6% при цене 1 292 ₽ (30.10.2026)"
+    },
+    "P2": {
+      "status": "n/a",
+      "note": "не сырьевик"
+    },
+    "P3": {
+      "status": "n/a",
+      "note": "не фонд недвижимости"
+    }
+  },
+  "watch": [
+    "МСФО за 9М 2026 (чистая прибыль)",
+    "Рекомендация дивидендов за 2П/2026 (весна 2027)",
+    "Чистый долг при капексе на новые госпитали"
+  ],
+  "metrics": {
+    "price_rub": 1292,
+    "price_date": "2026-10-30",
+    "div_ttm_rub": 85,
+    "yield_pct": 6.6,
+    "net_debt_to_ebitda": 0.4,
+    "net_debt_to_ebitda_period": "1П 2026",
+    "payout_pct": 60
+  },
+  "sources": [
+    {
+      "title": "Smart-lab: котировки акций Мосбиржи (30.10.2026, ~19:08 МСК)",
+      "url": "https://smart-lab.ru/q/shares/"
+    },
+    {
+      "title": "ТАСС/Финансы Mail: СД рекомендовал 47 ₽ за 2025 г. (18.05.2026)",
+      "url": "https://finance.mail.ru/article/mat-i-ditya-mozhet-vyiplatit-dividendyi-po-itogam-2025-goda-v-47-rublej-na-aktsiyu-69209155/"
+    },
+    {
+      "title": "Financial One: дивиденд 38 ₽ за 1П 2026 (30.09.2026)",
+      "url": "https://fomag.ru/news-streem/kompaniya-mat-i-ditya-mozhet-vyplatit-dividendy-za-6-mesyatsev-v-38-rub-na-aktsiyu/"
+    },
+    {
+      "title": "МД Медикал: операционные результаты 1П 2026 (31.07.2026)",
+      "url": "https://www.mcclinics.ru/upload/iblock/1d4/2sbmd18wi353gpelebpcfj9kds8mof53.pdf"
+    },
+    {
+      "title": "Investmint: новости и дивиденды MDMG",
+      "url": "https://investmint.ru/mdmg/news/"
+    },
+    {
+      "title": "Dohod.ru: история дивидендов MDMG",
+      "url": "https://www.dohod.ru/ik/analytics/dividend/mdmg"
+    }
+  ]
+}

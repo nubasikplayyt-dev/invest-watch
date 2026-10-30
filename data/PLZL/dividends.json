@@ -1,0 +1,117 @@
+{
+  "asset_id": "PLZL",
+  "currency": "RUB",
+  "by_year": [
+    {
+      "year": 2016,
+      "total": 0.0
+    },
+    {
+      "year": 2017,
+      "total": 25.67
+    },
+    {
+      "year": 2018,
+      "total": 27.82
+    },
+    {
+      "year": 2019,
+      "total": 30.66
+    },
+    {
+      "year": 2020,
+      "total": 48.5
+    },
+    {
+      "year": 2021,
+      "total": 65.47
+    },
+    {
+      "year": 2022,
+      "total": 0.0
+    },
+    {
+      "year": 2023,
+      "total": 0.0
+    },
+    {
+      "year": 2024,
+      "total": 130.18
+    },
+    {
+      "year": 2025,
+      "total": 179.85
+    },
+    {
+      "year": 2026,
+      "total": 85.85
+    }
+  ],
+  "payments": [
+    {
+      "record_date": "2017-07-17",
+      "amount": 15.24
+    },
+    {
+      "record_date": "2017-09-25",
+      "amount": 10.43
+    },
+    {
+      "record_date": "2018-06-10",
+      "amount": 14.71
+    },
+    {
+      "record_date": "2018-10-18",
+      "amount": 13.11
+    },
+    {
+      "record_date": "2019-05-16",
+      "amount": 14.36
+    },
+    {
+      "record_date": "2019-10-10",
+      "amount": 16.3
+    },
+    {
+      "record_date": "2020-08-28",
+      "amount": 24.48
+    },
+    {
+      "record_date": "2020-10-20",
+      "amount": 24.02
+    },
+    {
+      "record_date": "2021-06-07",
+      "amount": 38.72
+    },
+    {
+      "record_date": "2021-10-13",
+      "amount": 26.75
+    },
+    {
+      "record_date": "2024-12-13",
+      "amount": 130.18
+    },
+    {
+      "record_date": "2025-04-25",
+      "amount": 73.0
+    },
+    {
+      "record_date": "2025-10-13",
+      "amount": 70.85
+    },
+    {
+      "record_date": "2025-12-22",
+      "amount": 36.0
+    },
+    {
+      "record_date": "2026-05-18",
+      "amount": 56.8
+    },
+    {
+      "record_date": "2026-07-13",
+      "amount": 29.05
+    }
+  ],
+  "note": "Суммы до 2025 г. пересчитаны на сплит 1:10 (2025). Выплат с отсечкой в 2016 г. не найдено; 2022–2023 — пауза"
+}

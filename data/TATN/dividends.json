@@ -1,0 +1,160 @@
+{
+  "asset_id": "TATN",
+  "currency": "RUB",
+  "by_year": [
+    {
+      "year": 2016,
+      "total": 10.96
+    },
+    {
+      "year": 2017,
+      "total": 50.59
+    },
+    {
+      "year": 2018,
+      "total": 42.43
+    },
+    {
+      "year": 2019,
+      "total": 119.11
+    },
+    {
+      "year": 2020,
+      "total": 9.94
+    },
+    {
+      "year": 2021,
+      "total": 28.82
+    },
+    {
+      "year": 2022,
+      "total": 58.83
+    },
+    {
+      "year": 2023,
+      "total": 62.11
+    },
+    {
+      "year": 2024,
+      "total": 98.54
+    },
+    {
+      "year": 2025,
+      "total": 74.85
+    },
+    {
+      "year": 2026,
+      "total": 52.62
+    }
+  ],
+  "payments": [
+    {
+      "record_date": "2016-07-08",
+      "amount": 10.96
+    },
+    {
+      "record_date": "2017-07-07",
+      "amount": 22.81
+    },
+    {
+      "record_date": "2017-12-23",
+      "amount": 27.78
+    },
+    {
+      "record_date": "2018-07-06",
+      "amount": 12.16
+    },
+    {
+      "record_date": "2018-10-12",
+      "amount": 30.27
+    },
+    {
+      "record_date": "2019-01-09",
+      "amount": 22.26
+    },
+    {
+      "record_date": "2019-07-05",
+      "amount": 32.38
+    },
+    {
+      "record_date": "2019-09-27",
+      "amount": 40.11
+    },
+    {
+      "record_date": "2019-12-30",
+      "amount": 24.36
+    },
+    {
+      "record_date": "2020-10-12",
+      "amount": 9.94
+    },
+    {
+      "record_date": "2021-07-09",
+      "amount": 12.3
+    },
+    {
+      "record_date": "2021-10-12",
+      "amount": 16.52
+    },
+    {
+      "record_date": "2022-01-10",
+      "amount": 9.98
+    },
+    {
+      "record_date": "2022-07-08",
+      "amount": 16.14
+    },
+    {
+      "record_date": "2022-10-11",
+      "amount": 32.71
+    },
+    {
+      "record_date": "2023-01-10",
+      "amount": 6.86
+    },
+    {
+      "record_date": "2023-07-11",
+      "amount": 27.71
+    },
+    {
+      "record_date": "2023-10-11",
+      "amount": 27.54
+    },
+    {
+      "record_date": "2024-01-09",
+      "amount": 35.17
+    },
+    {
+      "record_date": "2024-07-09",
+      "amount": 25.17
+    },
+    {
+      "record_date": "2024-10-08",
+      "amount": 38.2
+    },
+    {
+      "record_date": "2025-01-08",
+      "amount": 17.39
+    },
+    {
+      "record_date": "2025-06-02",
+      "amount": 43.11
+    },
+    {
+      "record_date": "2025-10-14",
+      "amount": 14.35
+    },
+    {
+      "record_date": "2026-01-11",
+      "amount": 8.13
+    },
+    {
+      "record_date": "2026-07-15",
+      "amount": 11.61
+    },
+    {
+      "record_date": "2026-10-13",
+      "amount": 32.88
+    }
+  ]
+}

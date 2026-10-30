@@ -1,0 +1,100 @@
+{
+  "asset_id": "RTKM",
+  "currency": "RUB",
+  "by_year": [
+    {
+      "year": 2016,
+      "total": 5.92
+    },
+    {
+      "year": 2017,
+      "total": 5.39
+    },
+    {
+      "year": 2018,
+      "total": 5.05
+    },
+    {
+      "year": 2019,
+      "total": 5.0
+    },
+    {
+      "year": 2020,
+      "total": 5.0
+    },
+    {
+      "year": 2021,
+      "total": 5.0
+    },
+    {
+      "year": 2022,
+      "total": 4.56
+    },
+    {
+      "year": 2023,
+      "total": 5.45
+    },
+    {
+      "year": 2024,
+      "total": 6.06
+    },
+    {
+      "year": 2025,
+      "total": 2.71
+    },
+    {
+      "year": 2026,
+      "total": 2.71
+    }
+  ],
+  "payments": [
+    {
+      "record_date": "2016-07-08",
+      "amount": 5.92
+    },
+    {
+      "record_date": "2017-07-07",
+      "amount": 5.39
+    },
+    {
+      "record_date": "2018-07-08",
+      "amount": 5.05
+    },
+    {
+      "record_date": "2019-01-13",
+      "amount": 2.5
+    },
+    {
+      "record_date": "2019-07-04",
+      "amount": 2.5
+    },
+    {
+      "record_date": "2020-08-21",
+      "amount": 5.0
+    },
+    {
+      "record_date": "2021-07-12",
+      "amount": 5.0
+    },
+    {
+      "record_date": "2022-07-20",
+      "amount": 4.56
+    },
+    {
+      "record_date": "2023-12-01",
+      "amount": 5.45
+    },
+    {
+      "record_date": "2024-09-27",
+      "amount": 6.06
+    },
+    {
+      "record_date": "2025-08-13",
+      "amount": 2.71
+    },
+    {
+      "record_date": "2026-07-20",
+      "amount": 2.71
+    }
+  ]
+}

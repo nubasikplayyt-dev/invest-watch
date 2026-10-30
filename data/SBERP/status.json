@@ -1,0 +1,89 @@
+{
+  "asset_id": "SBERP",
+  "status": {
+    "verdict": "watch",
+    "updated": "2026-10-30"
+  },
+  "criteria": {
+    "C1": {
+      "status": "pass",
+      "note": "Банковское дело старше 500 лет"
+    },
+    "C2": {
+      "status": "warn",
+      "note": "Банк с плечом не брутально прост; расходы на экосистему и ИИ (как в data/SBER)"
+    },
+    "C3": {
+      "status": "pass",
+      "note": "Государство через ФНБ владеет 50%+1 обыкн. акций; крупнейший банк страны; в санкциях с 2022 г."
+    },
+    "C4": {
+      "status": "n/a",
+      "note": "нет фактов для оценки"
+    },
+    "C5": {
+      "status": "pass",
+      "note": "Мажоритарий — государство (ФНБ); политика 50% прибыли МСФО соблюдается с выплат 2023 г."
+    },
+    "C6": {
+      "status": "pass",
+      "note": "Прибыль МСФО 2025 ~1,7 трлн ₽, дивиденд 37,64 ₽ (50%); 9М 2026 1,53 трлн ₽ (+17%), ROE 24%; выплаты ежегодно, кроме 2022 г."
+    },
+    "C7": {
+      "status": "n/a",
+      "note": "не потребительская компания"
+    },
+    "C8": {
+      "status": "n/a",
+      "note": "не экспортёр"
+    },
+    "P1": {
+      "status": "pass",
+      "note": "LTM 37,64 ₽ (отсечка 20.07.2026) / 294,9 ₽ SBERP (29.10.2026) = 12,8%"
+    },
+    "P2": {
+      "status": "n/a",
+      "note": "не сырьевик; учитывать кредитный цикл и стоимость риска (9М 2026 снизилась на 0,4 п.п.)"
+    },
+    "P3": {
+      "status": "n/a",
+      "note": "не фонд недвижимости"
+    }
+  },
+  "watch": [
+    "Стоимость риска и резервы в 4К 2026",
+    "Отчёт МСФО за 2026 г. и рекомендация дивидендов за 2026 г. (весна 2027)",
+    "Норматив достаточности капитала группы ≥13,3% (условие payout 50%)"
+  ],
+  "metrics": {
+    "price_rub": 294.9,
+    "price_date": "2026-10-29",
+    "div_ttm_rub": 37.64,
+    "yield_pct": 12.76,
+    "payout_pct": 50,
+    "net_profit_9m2026_trn_rub": 1.53,
+    "roe_9m2026_pct": 24.0
+  },
+  "sources": [
+    {
+      "title": "Интерфакс: дивиденды и котировка SBERP",
+      "url": "https://www.interfax.ru/quote/SBERP/Dividends"
+    },
+    {
+      "title": "The Moscow Times/Reuters: Сбербанк МСФО 3К/9М 2026 (28.10.2026)",
+      "url": "https://ru.themoscowtimes.com/2026/10/28/update-1-sberbank-uvelichil-pribyl-v-3-kv-do-511-mlrd-r-aktsii-rastut-a209808"
+    },
+    {
+      "title": "The Moscow Times/Reuters: прибыль Сбербанка за 2025 г. (26.02.2026)",
+      "url": "https://ru.themoscowtimes.com/2026/02/26/update-1-cberbank-v-25g-zarabotal-rekordnuyu-pribyl-v-17-trln-r-a188136"
+    },
+    {
+      "title": "Эксперт: набсовет рекомендовал 37,64 ₽ за 2025 г.",
+      "url": "https://expert.ru/news/nabsovet-sberbanka-rekomendoval-dividendy-za-2025-god-v-razmere-37-64-rublya-na-aktsiyu"
+    },
+    {
+      "title": "investmint: история дивидендов SBERP (сверка)",
+      "url": "https://investmint.ru/sberp/"
+    }
+  ]
+}

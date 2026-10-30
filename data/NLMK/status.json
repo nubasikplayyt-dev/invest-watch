@@ -1,0 +1,91 @@
+{
+  "asset_id": "NLMK",
+  "status": {
+    "verdict": "sell_candidate",
+    "updated": "2026-10-30"
+  },
+  "criteria": {
+    "C1": {
+      "status": "pass",
+      "note": "Чёрная металлургия (сталь) — базовая отрасль"
+    },
+    "C2": {
+      "status": "pass",
+      "note": "Производитель стали и проката, своя железная руда"
+    },
+    "C3": {
+      "status": "n/a",
+      "note": "нет фактов для оценки"
+    },
+    "C4": {
+      "status": "n/a",
+      "note": "нет фактов для оценки"
+    },
+    "C5": {
+      "status": "n/a",
+      "note": "Нет фактов для оценки; мажоритарий — В. Лисин (79,3% через Fletcher Group)"
+    },
+    "C6": {
+      "status": "fail",
+      "note": "Последняя отсечка 27.05.2024 (25,43 ₽ за 2023 г.); за 2024 и 2025 гг. дивиденды не выплачивались (СД 24.04.2026 рекомендовал не платить за 2025). ЧП МСФО 1П 2026 20,5 млрд ₽ (−54%). Чистый долг отрицательный (Эксперт РА, 21.10.2026)"
+    },
+    "C7": {
+      "status": "n/a",
+      "note": "не потребительская компания"
+    },
+    "C8": {
+      "status": "pass",
+      "note": "Экспортёр стали"
+    },
+    "P1": {
+      "status": "fail",
+      "note": "Дивиденды за 12 мес. 0 ₽ → 0% при цене 74,32 ₽ (30.10.2026) < 5%"
+    },
+    "P2": {
+      "status": "n/a",
+      "note": "Нет данных о цене стали к средней за цикл; рынок стали в РФ слабый в 2026 г."
+    },
+    "P3": {
+      "status": "n/a",
+      "note": "не фонд недвижимости"
+    }
+  },
+  "watch": [
+    "Решение СД по дивидендам за 9М 2026 / 2026 г.",
+    "МСФО за 9М/2026 г.",
+    "Налог на сверхприбыль и акциз на импорт стали"
+  ],
+  "metrics": {
+    "price_rub": 74.32,
+    "price_date": "2026-10-30",
+    "div_ttm_rub": 0,
+    "yield_pct": 0,
+    "payout_pct": 0
+  },
+  "sources": [
+    {
+      "title": "ТАСС/InvestFuture: СД НЛМК предложил не выплачивать дивиденды за 2025 год (24.04.2026)",
+      "url": "https://investfuture.ru/articles/sovet-direktorov-nlmk-predlozhil-otmenit-dividendy-za-2025-god-36300372"
+    },
+    {
+      "title": "SteelOrbis: NLMK H1 2026 earnings (05.08.2026)",
+      "url": "https://www.steelorbis.com/steel-news/latest-news/russias-nlmk-reports-sharp-decline-in-h1-2026-earnings-1469060.htm"
+    },
+    {
+      "title": "Коммерсантъ: РСБУ НЛМК за 1П 2026 (30.07.2026)",
+      "url": "https://www.kommersant.ru/doc/8848600"
+    },
+    {
+      "title": "Investmint: лента новостей НЛМК (РСБУ 9М 2026, рейтинг Эксперт РА) — указатель",
+      "url": "https://investmint.ru/nlmk/news/"
+    },
+    {
+      "title": "Доход: история дивидендов (сверка)",
+      "url": "https://www.dohod.ru/ik/analytics/dividend/nlmk"
+    },
+    {
+      "title": "Smart-lab: котировки (цена 30.10.2026, сверка)",
+      "url": "https://smart-lab.ru/q/shares/"
+    }
+  ]
+}

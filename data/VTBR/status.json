@@ -1,0 +1,97 @@
+{
+  "asset_id": "VTBR",
+  "status": {
+    "verdict": "watch",
+    "updated": "2026-10-30"
+  },
+  "criteria": {
+    "C1": {
+      "status": "pass",
+      "note": "Банковское дело старше 500 лет"
+    },
+    "C2": {
+      "status": "warn",
+      "note": "Банк с плечом — не брутально простая модель; крупные непрофильные сделки (партнёрство с RWB)"
+    },
+    "C3": {
+      "status": "pass",
+      "note": "Государство владеет >50% уставного капитала и сохранит контроль после SPO; в санкциях с 2022 г."
+    },
+    "C4": {
+      "status": "n/a",
+      "note": "нет фактов для оценки"
+    },
+    "C5": {
+      "status": "warn",
+      "note": "Payout за 2025 г. снижен до 25% прибыли при целевых 50% (возврат к 50% — к 2027–2029); за 2022–2023 гг. дивиденды не выплачивались; повторные SPO (2025, план 2026 до 6,3 млрд акций по 87 ₽ ≈ +49% к числу акций)"
+    },
+    "C6": {
+      "status": "warn",
+      "note": "Прибыль МСФО 2025 502,1 млрд ₽, дивиденд 9,71 ₽ (25%); 1П 2026 225,2 млрд ₽ (−19,8%), 8М 2026 ~315 млрд ₽ (−4%); нерегулярные выплаты (0 за 2022–2023); потребность в капитале"
+    },
+    "C7": {
+      "status": "n/a",
+      "note": "не потребительская компания"
+    },
+    "C8": {
+      "status": "n/a",
+      "note": "не экспортёр"
+    },
+    "P1": {
+      "status": "pass",
+      "note": "LTM 9,71 ₽ (отсечка 20.07.2026) / 56,37 ₽ (30.10.2026) = 17,2%"
+    },
+    "P2": {
+      "status": "n/a",
+      "note": "не сырьевик"
+    },
+    "P3": {
+      "status": "n/a",
+      "note": "не фонд недвижимости"
+    }
+  },
+  "watch": [
+    "Итоги SPO (6,3 млрд акций по 87 ₽), перенесённого на конец октября 2026",
+    "Отчёт МСФО за 9М 2026",
+    "Достаточность капитала и payout за 2026 г. (весна 2027)"
+  ],
+  "metrics": {
+    "price_rub": 56.37,
+    "price_date": "2026-10-30",
+    "div_ttm_rub": 9.71,
+    "yield_pct": 17.23,
+    "payout_pct": 25,
+    "net_profit_2025_bn_rub": 502.1,
+    "net_profit_1h2026_bn_rub": 225.2
+  },
+  "sources": [
+    {
+      "title": "The Moscow Times/Reuters: набсовет ВТБ рекомендовал 9,71 ₽ и допэмиссию (26.05.2026)",
+      "url": "https://ru.themoscowtimes.com/2026/05/26/nabsovet-vtb-rekomendoval-vyplatit-dividendy-za-25g-v-razmere-971-r-na-aktsiyu-provesti-dopemissiyu-a196318"
+    },
+    {
+      "title": "Коммерсантъ: МСФО ВТБ за 1П 2026 (28.07.2026)",
+      "url": "https://www.kommersant.ru/doc/8846258"
+    },
+    {
+      "title": "The Moscow Times/Reuters: ВТБ за 8М 2026, SPO перенесён (29.09.2026)",
+      "url": "https://ru.themoscowtimes.com/2026/09/29/vtb-udvoil-pribyl-v-avguste-za-8-mes-zarabotal-315-mlrd-r-pri-targete-600-mlrd-r-a207239"
+    },
+    {
+      "title": "The Moscow Times/Reuters: ВТБ сдвинул SPO на октябрь (24.09.2026)",
+      "url": "https://ru.themoscowtimes.com/2026/09/24/vtb-sdvinul-spo-na-oktyabr-uveren-v-sdelke-a206891"
+    },
+    {
+      "title": "Интерфакс: дивиденды VTBR",
+      "url": "https://www.interfax.ru/quote/VTBR/Dividends"
+    },
+    {
+      "title": "investmint: дивиденды и цена VTBR (сверка)",
+      "url": "https://investmint.ru/vtbr/divs/"
+    },
+    {
+      "title": "dohod.ru: история дивидендов VTBR (сверка)",
+      "url": "https://dohod.ru/ik/analytics/dividend/vtbr"
+    }
+  ]
+}

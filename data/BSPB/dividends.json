@@ -1,0 +1,112 @@
+{
+  "asset_id": "BSPB",
+  "currency": "RUB",
+  "by_year": [
+    {
+      "year": 2016,
+      "total": 1.05
+    },
+    {
+      "year": 2017,
+      "total": 1.05
+    },
+    {
+      "year": 2018,
+      "total": 1.62
+    },
+    {
+      "year": 2019,
+      "total": 3.71
+    },
+    {
+      "year": 2020,
+      "total": 3.33
+    },
+    {
+      "year": 2021,
+      "total": 4.56
+    },
+    {
+      "year": 2022,
+      "total": 11.81
+    },
+    {
+      "year": 2023,
+      "total": 40.24
+    },
+    {
+      "year": 2024,
+      "total": 50.63
+    },
+    {
+      "year": 2025,
+      "total": 46.33
+    },
+    {
+      "year": 2026,
+      "total": 45.4
+    }
+  ],
+  "payments": [
+    {
+      "record_date": "2016-06-07",
+      "amount": 1.05
+    },
+    {
+      "record_date": "2017-05-31",
+      "amount": 1.05
+    },
+    {
+      "record_date": "2018-06-04",
+      "amount": 1.62
+    },
+    {
+      "record_date": "2019-06-10",
+      "amount": 3.71
+    },
+    {
+      "record_date": "2020-12-11",
+      "amount": 3.33
+    },
+    {
+      "record_date": "2021-06-07",
+      "amount": 4.56
+    },
+    {
+      "record_date": "2022-08-29",
+      "amount": 11.81
+    },
+    {
+      "record_date": "2023-05-10",
+      "amount": 21.16
+    },
+    {
+      "record_date": "2023-10-09",
+      "amount": 19.08
+    },
+    {
+      "record_date": "2024-05-06",
+      "amount": 23.37
+    },
+    {
+      "record_date": "2024-09-30",
+      "amount": 27.26
+    },
+    {
+      "record_date": "2025-05-05",
+      "amount": 29.72
+    },
+    {
+      "record_date": "2025-10-06",
+      "amount": 16.61
+    },
+    {
+      "record_date": "2026-05-12",
+      "amount": 26.23
+    },
+    {
+      "record_date": "2026-10-05",
+      "amount": 19.17
+    }
+  ]
+}

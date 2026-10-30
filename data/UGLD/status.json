@@ -1,0 +1,101 @@
+{
+  "asset_id": "UGLD",
+  "status": {
+    "verdict": "sell_candidate",
+    "updated": "2026-10-30"
+  },
+  "criteria": {
+    "C1": {
+      "status": "pass",
+      "note": "Добыча золота — тысячелетняя тема"
+    },
+    "C2": {
+      "status": "pass",
+      "note": "Золотодобывающая компания"
+    },
+    "C3": {
+      "status": "warn",
+      "note": "В 2025 г. 67% акций по суду обращены в доход государства; аресты счетов сняты в конце марта 2026; 3,0 млрд ₽ списаны по исполнительному производству; АКРА в окт. 2026 понизило рейтинг до AA-(RU)"
+    },
+    "C4": {
+      "status": "n/a",
+      "note": "смена CEO в 2026 (О. Ширяев); нет фактов для оценки"
+    },
+    "C5": {
+      "status": "warn",
+      "note": "Смена контроля: 67,2% куплены у Росимущества «БТС-Мост Холдинг» (Р. Байсаров) за 93,2 млрд ₽ (июнь–июль 2026); обязательная оферта по 0,7425 ₽ (авг.–окт. 2026)"
+    },
+    "C6": {
+      "status": "fail",
+      "note": "Дивиденды не выплачиваются: за 2023, 2024, 2025 гг. решения не платить (ГОСА 06.07.2026); 1П 2026 МСФО: ЧД 69,2 млрд ₽, ЧД/EBITDA 1,1x, FCF +19,2 млрд ₽"
+    },
+    "C7": {
+      "status": "n/a",
+      "note": "не потребительская компания"
+    },
+    "C8": {
+      "status": "n/a",
+      "note": "экспорт не подтверждён; выручка привязана к долларовой цене золота"
+    },
+    "P1": {
+      "status": "fail",
+      "note": "LTM 0% при цене 0,6688 ₽ (30.10.2026)"
+    },
+    "P2": {
+      "status": "warn",
+      "note": "Золото у исторических максимумов: рекорд $4390/унц. в окт. 2025, фьючерсы выше $4950/унц. в 2026 — пик цикла"
+    },
+    "P3": {
+      "status": "n/a",
+      "note": "не фонд недвижимости"
+    }
+  },
+  "watch": [
+    "Итоги обязательной оферты БТС-Мост по 0,7425 ₽ и размер free-float",
+    "Рекомендация дивидендов за 2026 г. (весна 2027)",
+    "Инициативы по повышению налогов на золотодобычу",
+    "Цена золота"
+  ],
+  "metrics": {
+    "price_rub": 0.6688,
+    "price_date": "2026-10-30",
+    "div_ttm_rub": 0,
+    "yield_pct": 0,
+    "net_debt_to_ebitda": 1.1,
+    "net_debt_to_ebitda_period": "1П 2026 (МСФО)"
+  },
+  "sources": [
+    {
+      "title": "Financial One, 28.08.2026: ЮГК — результаты 1П 2026 МСФО",
+      "url": "https://fomag.ru/news/yugk-finansovye-rezultaty-1p26-msfo/"
+    },
+    {
+      "title": "Financial One, 17.08.2026: ЮГК объявила об оферте",
+      "url": "https://fomag.ru/news/yugk-obyavila-ob-oferte/"
+    },
+    {
+      "title": "Финансы Mail, 07.07.2026: ЮГК станет «БТС-Золото»",
+      "url": "https://finance.mail.ru/article/yugk-stanet-bts-zoloto-chego-zhdat-investoram-posle-smenyi-sobstvennika-69216626/"
+    },
+    {
+      "title": "Финансы Mail, 06.07.2026: акционеры отказались от дивидендов за 2025",
+      "url": "https://finance.mail.ru/article/aktsioneryi-yuzhuralzolota-otkazalis-ot-vyiplatyi-dividendov-za-2025-god-69216389/"
+    },
+    {
+      "title": "Investmint: решения по дивидендам UGLD (сверка)",
+      "url": "https://investmint.ru/ugld/"
+    },
+    {
+      "title": "Инвестфьючер: котировка UGLD 30.10.2026",
+      "url": "https://investfuture.ru/dividends/ugld"
+    },
+    {
+      "title": "Investfuture, рекорд золота окт. 2025",
+      "url": "https://investfuture.ru/articles/istoricheskiy-rekord-tsena-zolota-dostigla-4-390-0-dollarov-za-untsiyu-v-oktyabre-2025-1168605408"
+    },
+    {
+      "title": "Investfuture: фьючерсы на золото выше $4950",
+      "url": "https://investfuture.ru/articles/fyuchersy-na-zoloto-byut-rekordy-preodolev-otmetku-4-950-za-untsiyu-7799C3B197D8EDC843258D87007F6F56"
+    }
+  ]
+}

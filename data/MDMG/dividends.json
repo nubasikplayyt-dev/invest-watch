@@ -1,0 +1,92 @@
+{
+  "asset_id": "MDMG",
+  "currency": "RUB",
+  "by_year": [
+    {
+      "year": 2016,
+      "total": 0.0
+    },
+    {
+      "year": 2017,
+      "total": 0.0
+    },
+    {
+      "year": 2018,
+      "total": 0.0
+    },
+    {
+      "year": 2019,
+      "total": 0.0
+    },
+    {
+      "year": 2020,
+      "total": 0.0
+    },
+    {
+      "year": 2021,
+      "total": 37.39
+    },
+    {
+      "year": 2022,
+      "total": 8.51
+    },
+    {
+      "year": 2023,
+      "total": 0.0
+    },
+    {
+      "year": 2024,
+      "total": 183.0
+    },
+    {
+      "year": 2025,
+      "total": 64.0
+    },
+    {
+      "year": 2026,
+      "total": 85.0
+    }
+  ],
+  "payments": [
+    {
+      "record_date": "2021-05-05",
+      "amount": 19.33
+    },
+    {
+      "record_date": "2021-09-24",
+      "amount": 18.06
+    },
+    {
+      "record_date": "2022-11-07",
+      "amount": 8.51
+    },
+    {
+      "record_date": "2024-06-20",
+      "amount": 141
+    },
+    {
+      "record_date": "2024-09-09",
+      "amount": 22
+    },
+    {
+      "record_date": "2024-11-29",
+      "amount": 20
+    },
+    {
+      "record_date": "2025-05-19",
+      "amount": 22
+    },
+    {
+      "record_date": "2025-10-20",
+      "amount": 42
+    },
+    {
+      "record_date": "2026-07-14",
+      "amount": 47
+    },
+    {
+      "record_date": "2026-10-19",
+      "amount": 38
+    }
+  ]
+}

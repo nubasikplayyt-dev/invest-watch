@@ -1,0 +1,91 @@
+{
+  "asset_id": "TATN",
+  "status": {
+    "verdict": "hold",
+    "updated": "2026-10-30"
+  },
+  "criteria": {
+    "C1": {
+      "status": "pass",
+      "note": "Добыча и переработка нефти"
+    },
+    "C2": {
+      "status": "pass",
+      "note": "Вертикально интегрированная нефтяная компания: добыча, НПЗ ТАНЕКО, АЗС, шины"
+    },
+    "C3": {
+      "status": "n/a",
+      "note": "нет фактов для оценки"
+    },
+    "C4": {
+      "status": "n/a",
+      "note": "нет фактов для оценки"
+    },
+    "C5": {
+      "status": "n/a",
+      "note": "нет фактов для оценки"
+    },
+    "C6": {
+      "status": "pass",
+      "note": "МСФО 1П 2026: чистая прибыль 165,2 млрд ₽ (×2,8 г/г); дивиденд 1П 2026 — 32,88 ₽ = 50% прибыли РСБУ; выплаты ежегодно 2016–2026, 2–4 раза в год; за 2025 г. дивиденд снизился до 34,09 ₽; ЧД/EBITDA не найден"
+    },
+    "C7": {
+      "status": "n/a",
+      "note": "не потребительская компания"
+    },
+    "C8": {
+      "status": "pass",
+      "note": "Экспортёр: экспортная выручка нефти и нефтепродуктов 1П 2026 — 338,2 млрд ₽"
+    },
+    "P1": {
+      "status": "warn",
+      "note": "LTM 8,2% (52,62 ₽: 8,13+11,61+32,88) при цене 642,7 ₽ (29.10.2026) — выше порога 5%, но на высоких ценах нефти (см. P2)"
+    },
+    "P2": {
+      "status": "warn",
+      "note": "Brent ~$106/барр. (12.10.2026, ТАСС) против ~$63 в январе 2026 — цены на верхней части цикла; нормализованная доходность не рассчитана"
+    },
+    "P3": {
+      "status": "n/a",
+      "note": "не фонд недвижимости"
+    }
+  },
+  "watch": [
+    "Решение СД по дивидендам за 9М 2026 (ноябрь 2026)",
+    "Отчёт МСФО за 9М 2026",
+    "Цена Brent/Urals против средних прошлых лет"
+  ],
+  "metrics": {
+    "price_rub": 642.7,
+    "price_date": "2026-10-29",
+    "div_ttm_rub": 52.62,
+    "yield_pct": 8.19,
+    "payout_pct": 50
+  },
+  "sources": [
+    {
+      "title": "Интерфакс: Татнефть ао — дивиденды и котировка",
+      "url": "https://www.interfax.ru/quote/TATN/Dividends"
+    },
+    {
+      "title": "ДОХОДЪ: история дивидендов TATN (сверка дат отсечки)",
+      "url": "https://dohod.ru/ik/analytics/dividend/tatn"
+    },
+    {
+      "title": "The Moscow Times, 20.08.2026: Татнефть рекомендовала 32,88 ₽ за 1П 2026",
+      "url": "https://ru.themoscowtimes.com/2026/08/20/tatneft-rekomendovala-dividendy-za-i-polv-razmere-3288-rakts-a203946"
+    },
+    {
+      "title": "Финансы Mail, 27.08.2026: Татнефть МСФО 1П 2026",
+      "url": "https://finance.mail.ru/article/chistaya-pribyl-tatnefti-po-msfo-v-i-polugodii-vyrosla-pochti-vtroe-69224658/"
+    },
+    {
+      "title": "ТАСС via Financial One, 12.10.2026: Brent выше $106",
+      "url": "https://fomag.ru/news-streem/tsena-brent-na-birzhe-ice-prevyshala-106-za-barrel-vpervye-s-29-sentyabrya/"
+    },
+    {
+      "title": "Финансы Mail, 09.01.2026: Brent выше $63 впервые с 8 декабря",
+      "url": "https://finance.mail.ru/article/tsena-brent-prevyishala-63-vpervyie-s-8-dekabrya-69194449/"
+    }
+  ]
+}

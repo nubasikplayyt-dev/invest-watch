@@ -1,0 +1,164 @@
+{
+  "asset_id": "CHMF",
+  "currency": "RUB",
+  "by_year": [
+    {
+      "year": 2016,
+      "total": 73.14
+    },
+    {
+      "year": 2017,
+      "total": 110.06
+    },
+    {
+      "year": 2018,
+      "total": 156.37
+    },
+    {
+      "year": 2019,
+      "total": 121.7
+    },
+    {
+      "year": 2020,
+      "total": 106.39
+    },
+    {
+      "year": 2021,
+      "total": 253.42
+    },
+    {
+      "year": 2022,
+      "total": 0
+    },
+    {
+      "year": 2023,
+      "total": 0
+    },
+    {
+      "year": 2024,
+      "total": 309.93
+    },
+    {
+      "year": 2025,
+      "total": 0
+    },
+    {
+      "year": 2026,
+      "total": 0
+    }
+  ],
+  "payments": [
+    {
+      "record_date": "2016-07-05",
+      "amount": 8.25
+    },
+    {
+      "record_date": "2016-07-05",
+      "amount": 20.27
+    },
+    {
+      "record_date": "2016-09-16",
+      "amount": 19.66
+    },
+    {
+      "record_date": "2016-12-13",
+      "amount": 24.96
+    },
+    {
+      "record_date": "2017-06-20",
+      "amount": 24.44
+    },
+    {
+      "record_date": "2017-06-20",
+      "amount": 27.73
+    },
+    {
+      "record_date": "2017-09-26",
+      "amount": 22.28
+    },
+    {
+      "record_date": "2017-12-05",
+      "amount": 35.61
+    },
+    {
+      "record_date": "2018-06-19",
+      "amount": 38.32
+    },
+    {
+      "record_date": "2018-06-19",
+      "amount": 27.72
+    },
+    {
+      "record_date": "2018-09-25",
+      "amount": 45.94
+    },
+    {
+      "record_date": "2018-12-04",
+      "amount": 44.39
+    },
+    {
+      "record_date": "2019-05-07",
+      "amount": 32.08
+    },
+    {
+      "record_date": "2019-06-18",
+      "amount": 35.43
+    },
+    {
+      "record_date": "2019-09-17",
+      "amount": 26.72
+    },
+    {
+      "record_date": "2019-12-03",
+      "amount": 27.47
+    },
+    {
+      "record_date": "2020-06-16",
+      "amount": 27.35
+    },
+    {
+      "record_date": "2020-06-16",
+      "amount": 26.26
+    },
+    {
+      "record_date": "2020-09-08",
+      "amount": 15.44
+    },
+    {
+      "record_date": "2020-12-08",
+      "amount": 37.34
+    },
+    {
+      "record_date": "2021-06-01",
+      "amount": 46.77
+    },
+    {
+      "record_date": "2021-06-01",
+      "amount": 36.27
+    },
+    {
+      "record_date": "2021-09-02",
+      "amount": 84.45
+    },
+    {
+      "record_date": "2021-12-14",
+      "amount": 85.93
+    },
+    {
+      "record_date": "2024-06-18",
+      "amount": 38.3
+    },
+    {
+      "record_date": "2024-06-18",
+      "amount": 191.51
+    },
+    {
+      "record_date": "2024-09-10",
+      "amount": 31.06
+    },
+    {
+      "record_date": "2024-12-17",
+      "amount": 49.06
+    }
+  ]
+}

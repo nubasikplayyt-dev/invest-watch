@@ -1,0 +1,140 @@
+{
+  "asset_id": "MAGN",
+  "currency": "RUB",
+  "by_year": [
+    {
+      "year": 2016,
+      "total": 1.03
+    },
+    {
+      "year": 2017,
+      "total": 3.219
+    },
+    {
+      "year": 2018,
+      "total": 5.307
+    },
+    {
+      "year": 2019,
+      "total": 3.58
+    },
+    {
+      "year": 2020,
+      "total": 3.767
+    },
+    {
+      "year": 2021,
+      "total": 8.665
+    },
+    {
+      "year": 2022,
+      "total": 2.66
+    },
+    {
+      "year": 2023,
+      "total": 0
+    },
+    {
+      "year": 2024,
+      "total": 5.244
+    },
+    {
+      "year": 2025,
+      "total": 0
+    },
+    {
+      "year": 2026,
+      "total": 0
+    }
+  ],
+  "payments": [
+    {
+      "record_date": "2016-06-07",
+      "amount": 0.31
+    },
+    {
+      "record_date": "2016-10-11",
+      "amount": 0.72
+    },
+    {
+      "record_date": "2017-06-06",
+      "amount": 1.24
+    },
+    {
+      "record_date": "2017-10-10",
+      "amount": 0.869
+    },
+    {
+      "record_date": "2017-12-19",
+      "amount": 1.11
+    },
+    {
+      "record_date": "2018-06-13",
+      "amount": 0.806
+    },
+    {
+      "record_date": "2018-06-25",
+      "amount": 0.801
+    },
+    {
+      "record_date": "2018-10-09",
+      "amount": 1.59
+    },
+    {
+      "record_date": "2018-12-18",
+      "amount": 2.11
+    },
+    {
+      "record_date": "2019-06-11",
+      "amount": 1.4
+    },
+    {
+      "record_date": "2019-06-20",
+      "amount": 1.49
+    },
+    {
+      "record_date": "2019-10-15",
+      "amount": 0.69
+    },
+    {
+      "record_date": "2020-01-15",
+      "amount": 1.65
+    },
+    {
+      "record_date": "2020-06-17",
+      "amount": 1.51
+    },
+    {
+      "record_date": "2020-09-23",
+      "amount": 0.607
+    },
+    {
+      "record_date": "2021-01-14",
+      "amount": 2.39
+    },
+    {
+      "record_date": "2021-06-17",
+      "amount": 0.945
+    },
+    {
+      "record_date": "2021-06-17",
+      "amount": 1.8
+    },
+    {
+      "record_date": "2021-09-27",
+      "amount": 3.53
+    },
+    {
+      "record_date": "2022-01-13",
+      "amount": 2.66
+    },
+    {
+      "record_date": "2024-06-10",
+      "amount": 2.75
+    },
+    {
+      "record_date": "2024-10-17",
+      "amount": 2.494
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "asset_id": "DOMRF",
+  "currency": "RUB",
+  "by_year": [
+    {
+      "year": 2021,
+      "total": 220.26
+    },
+    {
+      "year": 2022,
+      "total": 173.67
+    },
+    {
+      "year": 2023,
+      "total": 93.08
+    },
+    {
+      "year": 2024,
+      "total": 92.72
+    },
+    {
+      "year": 2025,
+      "total": 146.5
+    },
+    {
+      "year": 2026,
+      "total": 246.88
+    }
+  ],
+  "payments": [
+    {
+      "record_date": "2021-07-20",
+      "amount": 220.26
+    },
+    {
+      "record_date": "2022-10-20",
+      "amount": 173.67
+    },
+    {
+      "record_date": "2023-07-20",
+      "amount": 93.08
+    },
+    {
+      "record_date": "2024-07-18",
+      "amount": 92.72
+    },
+    {
+      "record_date": "2025-07-20",
+      "amount": 146.5
+    },
+    {
+      "record_date": "2026-07-20",
+      "amount": 246.88
+    }
+  ]
+}

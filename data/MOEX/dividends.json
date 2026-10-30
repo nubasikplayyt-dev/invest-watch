@@ -1,0 +1,96 @@
+{
+  "asset_id": "MOEX",
+  "currency": "RUB",
+  "by_year": [
+    {
+      "year": 2016,
+      "total": 7.11
+    },
+    {
+      "year": 2017,
+      "total": 10.17
+    },
+    {
+      "year": 2018,
+      "total": 5.47
+    },
+    {
+      "year": 2019,
+      "total": 7.7
+    },
+    {
+      "year": 2020,
+      "total": 7.93
+    },
+    {
+      "year": 2021,
+      "total": 9.45
+    },
+    {
+      "year": 2022,
+      "total": 0
+    },
+    {
+      "year": 2023,
+      "total": 4.84
+    },
+    {
+      "year": 2024,
+      "total": 17.35
+    },
+    {
+      "year": 2025,
+      "total": 26.11
+    },
+    {
+      "year": 2026,
+      "total": 19.57
+    }
+  ],
+  "payments": [
+    {
+      "record_date": "2016-05-16",
+      "amount": 7.11
+    },
+    {
+      "record_date": "2017-05-16",
+      "amount": 7.68
+    },
+    {
+      "record_date": "2017-09-29",
+      "amount": 2.49
+    },
+    {
+      "record_date": "2018-05-15",
+      "amount": 5.47
+    },
+    {
+      "record_date": "2019-05-14",
+      "amount": 7.7
+    },
+    {
+      "record_date": "2020-05-15",
+      "amount": 7.93
+    },
+    {
+      "record_date": "2021-05-14",
+      "amount": 9.45
+    },
+    {
+      "record_date": "2023-06-16",
+      "amount": 4.84
+    },
+    {
+      "record_date": "2024-05-13",
+      "amount": 17.35
+    },
+    {
+      "record_date": "2025-07-10",
+      "amount": 26.11
+    },
+    {
+      "record_date": "2026-07-09",
+      "amount": 19.57
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "asset_id": "RUAL",
+  "status": {
+    "verdict": "sell_candidate",
+    "updated": "2026-10-30"
+  },
+  "criteria": {
+    "C1": {
+      "status": "pass",
+      "note": "Алюминий — базовый металл"
+    },
+    "C2": {
+      "status": "pass",
+      "note": "Производство глинозёма и алюминия"
+    },
+    "C3": {
+      "status": "n/a",
+      "note": "нет фактов для оценки"
+    },
+    "C4": {
+      "status": "n/a",
+      "note": "нет фактов для оценки"
+    },
+    "C5": {
+      "status": "warn",
+      "note": "Многолетний конфликт акционеров: SUAL Partners (~25,5%) против En+ (~57%, О. Дерипаска); иск SUAL к Дерипаске, Русалу и En+ в Лондоне (июль 2026), требования ВОСА по промежуточным дивидендам"
+    },
+    "C6": {
+      "status": "fail",
+      "note": "Дивидендов нет с выплаты за 1П 2022; за 2025 г. и 1П 2026 не платить (ВОСА 04.09.2026). ЧД 8,9 млрд $, ЧД/EBITDA 5,8x на 30.06.2026; FCF 1П 2026 около −0,6 млрд $"
+    },
+    "C7": {
+      "status": "n/a",
+      "note": "не потребительская компания"
+    },
+    "C8": {
+      "status": "pass",
+      "note": "Экспортёр алюминия"
+    },
+    "P1": {
+      "status": "fail",
+      "note": "Дивиденды за 12 мес. 0 ₽ → 0% при цене 24,505 ₽ (30.10.2026) < 5%"
+    },
+    "P2": {
+      "status": "n/a",
+      "note": "Нет данных о цене алюминия к средней за цикл; средняя цена реализации 1П 2026 3 230 $/т (+23,6% г/г)"
+    },
+    "P3": {
+      "status": "n/a",
+      "note": "не фонд недвижимости"
+    }
+  },
+  "watch": [
+    "СД 09.11.2026: рекомендация по дивидендам за 9М 2026 по требованию SUAL; реестр к ВОСА 11.11.2026",
+    "Чистый долг и FCF за 2П 2026",
+    "Иск SUAL в Лондоне; санкционный риск по Aughinish"
+  ],
+  "metrics": {
+    "price_rub": 24.505,
+    "price_date": "2026-10-30",
+    "div_ttm_rub": 0,
+    "yield_pct": 0,
+    "net_debt_to_ebitda": 5.8,
+    "net_debt_to_ebitda_period": "30.06.2026",
+    "payout_pct": 0
+  },
+  "sources": [
+    {
+      "title": "Финмаркет: Русал не будет платить дивиденды за 2025 г. (15.05.2026)",
+      "url": "https://www.finmarket.ru/news/6621415"
+    },
+    {
+      "title": "Reuters/The Moscow Times: акционеры Русала решили не платить дивиденды за 1П 2026 (04.09.2026)",
+      "url": "https://ru.themoscowtimes.com/2026/09/04/aktsionery-rusala-reshili-ne-platit-dividendy-za-1-pol-26g-a205354"
+    },
+    {
+      "title": "Financial One: Русал 1П 2026 (долг, FCF)",
+      "url": "https://fomag.ru/news/rusal-dorogoy-alyuminiy-podderzhal-rezultaty-no-dolg-i-otritsatelnyy-denezhnyy-potok-ostayutsya-prob/"
+    },
+    {
+      "title": "The Currency: иск SUAL против Дерипаски, Русала и En+ (02.07.2026)",
+      "url": "https://thecurrency.news/articles/232273/as-pressure-grows-around-aughinish-fresh-legal-action-piles-in-on-oleg-deripaska/"
+    },
+    {
+      "title": "Investmint: лента новостей Русала (требование ВОСА, СД 09.11.2026) — указатель",
+      "url": "https://investmint.ru/rual/news/"
+    },
+    {
+      "title": "Доход: история дивидендов (сверка)",
+      "url": "https://www.dohod.ru/ik/analytics/dividend/rual"
+    },
+    {
+      "title": "Smart-lab: котировки (цена 30.10.2026, сверка)",
+      "url": "https://smart-lab.ru/q/shares/"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "asset_id": "MTSS",
+  "currency": "RUB",
+  "by_year": [
+    {
+      "year": 2016,
+      "total": 26.0
+    },
+    {
+      "year": 2017,
+      "total": 26.0
+    },
+    {
+      "year": 2018,
+      "total": 26.0
+    },
+    {
+      "year": 2019,
+      "total": 28.66
+    },
+    {
+      "year": 2020,
+      "total": 42.75
+    },
+    {
+      "year": 2021,
+      "total": 37.06
+    },
+    {
+      "year": 2022,
+      "total": 33.85
+    },
+    {
+      "year": 2023,
+      "total": 34.29
+    },
+    {
+      "year": 2024,
+      "total": 35
+    },
+    {
+      "year": 2025,
+      "total": 35
+    },
+    {
+      "year": 2026,
+      "total": 35
+    }
+  ],
+  "payments": [
+    {
+      "record_date": "2016-07-05",
+      "amount": 14.01
+    },
+    {
+      "record_date": "2016-10-14",
+      "amount": 11.99
+    },
+    {
+      "record_date": "2017-07-10",
+      "amount": 15.6
+    },
+    {
+      "record_date": "2017-10-13",
+      "amount": 10.4
+    },
+    {
+      "record_date": "2018-07-09",
+      "amount": 23.4
+    },
+    {
+      "record_date": "2018-10-09",
+      "amount": 2.6
+    },
+    {
+      "record_date": "2019-07-09",
+      "amount": 19.98
+    },
+    {
+      "record_date": "2019-10-14",
+      "amount": 8.68
+    },
+    {
+      "record_date": "2020-01-10",
+      "amount": 13.25
+    },
+    {
+      "record_date": "2020-07-09",
+      "amount": 20.57
+    },
+    {
+      "record_date": "2020-10-12",
+      "amount": 8.93
+    },
+    {
+      "record_date": "2021-07-08",
+      "amount": 26.51
+    },
+    {
+      "record_date": "2021-10-12",
+      "amount": 10.55
+    },
+    {
+      "record_date": "2022-07-12",
+      "amount": 33.85
+    },
+    {
+      "record_date": "2023-06-29",
+      "amount": 34.29
+    },
+    {
+      "record_date": "2024-07-16",
+      "amount": 35
+    },
+    {
+      "record_date": "2025-07-07",
+      "amount": 35
+    },
+    {
+      "record_date": "2026-07-09",
+      "amount": 35
+    }
+  ]
+}

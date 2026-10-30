@@ -1,0 +1,92 @@
+{
+  "asset_id": "GMKN",
+  "status": {
+    "verdict": "sell_candidate",
+    "updated": "2026-10-30"
+  },
+  "criteria": {
+    "C1": {
+      "status": "pass",
+      "note": "Добыча никеля, меди, металлов платиновой группы"
+    },
+    "C2": {
+      "status": "pass",
+      "note": "Горнодобывающий и металлургический бизнес"
+    },
+    "C3": {
+      "status": "n/a",
+      "note": "нет фактов для оценки"
+    },
+    "C4": {
+      "status": "n/a",
+      "note": "нет фактов для оценки"
+    },
+    "C5": {
+      "status": "warn",
+      "note": "Конфликт крупнейших акционеров: Русал (26%) судится с Потаниным (37%) в Лондоне с 10.2022; Потанин под санкциями Великобритании и США"
+    },
+    "C6": {
+      "status": "fail",
+      "note": "Дивидендов не было с отсечки 26.12.2023 до 12.10.2026 (за 2024 и 2025 — отказ); за 1П 2026 лишь 1,85 ₽ (28,3 млрд ₽) при прибыли 153,2 млрд ₽; ЧД/EBITDA 1,3x на 30.06.2026"
+    },
+    "C7": {
+      "status": "n/a",
+      "note": "не потребительская компания"
+    },
+    "C8": {
+      "status": "pass",
+      "note": "Экспортёр металлов"
+    },
+    "P1": {
+      "status": "fail",
+      "note": "1,61%: 1,85 ₽ за 12 мес. (отсечка 12.10.2026) при цене 114,78 ₽ (30.10.2026)"
+    },
+    "P2": {
+      "status": "n/a",
+      "note": "нет данных о средней цене металлов за цикл; компания связывает рост выручки 1П 2026 с ростом цен на цветные и драгметаллы"
+    },
+    "P3": {
+      "status": "n/a",
+      "note": "не фонд недвижимости"
+    }
+  },
+  "watch": [
+    "Рекомендация СД по дивидендам за 2026 г. (весна 2027)",
+    "Свободный денежный поток и ЧД/EBITDA за 2026 г.",
+    "Ход спора Русал — Интеррос"
+  ],
+  "metrics": {
+    "price_rub": 114.78,
+    "price_date": "2026-10-30",
+    "div_ttm_rub": 1.85,
+    "yield_pct": 1.61,
+    "net_debt_to_ebitda": 1.3,
+    "net_debt_to_ebitda_period": "30.06.2026"
+  },
+  "sources": [
+    {
+      "title": "Ведомости (пресс-релиз): Норникель, МСФО 1П 2026",
+      "url": "https://www.vedomosti.ru/press_releases/2026/07/31/nornikel-obyavlyaet-promezhutochnie-konsolidirovannie-finansovie-rezultati-po-msfo-za-pervoe-polugodie-2026-goda"
+    },
+    {
+      "title": "Эксперт: СД Норникеля рекомендовал дивиденды впервые с 2023 года (26.08.2026)",
+      "url": "https://expert.ru/news/sovet-direktorov-nornikelya-rekomendoval-dividendy-vpervye-s-2023-goda"
+    },
+    {
+      "title": "Kitco (Reuters): Nornickel recommends 1.85 roubles",
+      "url": "https://www.kitco.com/news/off-the-wire/2026-08-26/russias-nornickel-recommends-6-month-dividend-185-roubles-share"
+    },
+    {
+      "title": "Интерфакс: акционеры Норникеля одобрили невыплату дивидендов за 2024 г.",
+      "url": "https://www.interfax.ru/business/1033368"
+    },
+    {
+      "title": "Mining.com (Reuters): Rusal plans further lawsuit against Potanin (23.03.2023)",
+      "url": "https://www.mining.com/web/rusal-plans-further-lawsuit-against-potanin-over-nornickel-pact/"
+    },
+    {
+      "title": "Investmint: история дивидендов GMKN (с учётом сплита 1:100) — сверка",
+      "url": "https://investmint.ru/gmkn/divs/"
+    }
+  ]
+}

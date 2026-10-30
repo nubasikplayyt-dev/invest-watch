@@ -1,0 +1,87 @@
+{
+  "asset_id": "SVCB",
+  "status": {
+    "verdict": "sell_candidate",
+    "updated": "2026-10-30"
+  },
+  "criteria": {
+    "C1": {
+      "status": "pass",
+      "note": "Банковское дело старше 500 лет"
+    },
+    "C2": {
+      "status": "warn",
+      "note": "Банк с плечом, плюс страховой бизнес (покупка Capital Life) — не брутально прост"
+    },
+    "C3": {
+      "status": "n/a",
+      "note": "нет фактов для оценки"
+    },
+    "C4": {
+      "status": "n/a",
+      "note": "нет фактов для оценки"
+    },
+    "C5": {
+      "status": "n/a",
+      "note": "нет фактов для оценки"
+    },
+    "C6": {
+      "status": "fail",
+      "note": "Дивиденд за 2025 г. 0,35 ₽ (7,9 млрд ₽) ≈15% ЧП МСФО 53,2 млрд ₽ — ниже минимума дивполитики 25% второй год подряд. ЧП 1П 2026 45 млрд ₽ (×2,6)"
+    },
+    "C7": {
+      "status": "n/a",
+      "note": "не потребительская компания"
+    },
+    "C8": {
+      "status": "n/a",
+      "note": "не экспортёр"
+    },
+    "P1": {
+      "status": "fail",
+      "note": "0,35 ₽ за 12 мес. (отсечка 13.07.2026) → 3,3% при цене 10,70 ₽ (30.10.2026) < 5%"
+    },
+    "P2": {
+      "status": "n/a",
+      "note": "не сырьевик"
+    },
+    "P3": {
+      "status": "n/a",
+      "note": "не фонд недвижимости"
+    }
+  },
+  "watch": [
+    "МСФО за 9М 2026 (ноябрь)",
+    "Рекомендация дивидендов за 2026 г. (весна 2027) — соблюдение 25–50% по политике",
+    "Требования ЦБ к капиталу"
+  ],
+  "metrics": {
+    "price_rub": 10.7,
+    "price_date": "2026-10-30",
+    "div_ttm_rub": 0.35,
+    "yield_pct": 3.27,
+    "payout_pct": 15
+  },
+  "sources": [
+    {
+      "title": "Reuters/The Moscow Times: набсовет Совкомбанка рекомендовал дивиденды за 2025 г. на уровне 2024 г. (28.05.2026)",
+      "url": "https://ru.themoscowtimes.com/2026/05/28/update-1-nabsovet-sovkombanka-rekomendoval-dividendy-za-2025-god-na-urovne-2024-goda-a196532"
+    },
+    {
+      "title": "ТАСС/InvestFuture: Совкомбанк не пересмотрит дивполитику (14.08.2026)",
+      "url": "https://investfuture.ru/articles/sovkombank-ne-peresmotrit-dividendnuyu-politiku-pri-roste-pribyli-v-2-6-raza-37596006"
+    },
+    {
+      "title": "Investmint: дивиденды Совкомбанка (сверка)",
+      "url": "https://investmint.ru/svcb/divs/"
+    },
+    {
+      "title": "Доход: история дивидендов (сверка)",
+      "url": "https://www.dohod.ru/ik/analytics/dividend/svcb"
+    },
+    {
+      "title": "Smart-lab: котировки (цена 30.10.2026, сверка)",
+      "url": "https://smart-lab.ru/q/shares/"
+    }
+  ]
+}

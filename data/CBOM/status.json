@@ -1,0 +1,78 @@
+{
+  "asset_id": "CBOM",
+  "status": {
+    "verdict": "sell_candidate",
+    "updated": "2026-10-30"
+  },
+  "criteria": {
+    "C1": {
+      "status": "pass",
+      "note": "Банковское дело старше 500 лет"
+    },
+    "C2": {
+      "status": "warn",
+      "note": "Банк с плечом — не брутально прост"
+    },
+    "C3": {
+      "status": "n/a",
+      "note": "нет фактов для оценки"
+    },
+    "C4": {
+      "status": "n/a",
+      "note": "нет фактов для оценки"
+    },
+    "C5": {
+      "status": "n/a",
+      "note": "нет фактов для оценки"
+    },
+    "C6": {
+      "status": "fail",
+      "note": "Единственная выплата за 10 лет — 0,11 ₽ за 2018 г. (отсечка 07.06.2019); за 2025 г. набсовет 26.05.2026 рекомендовал не платить при ЧП 20,49 млрд ₽, хотя политика — от 25% ЧП МСФО"
+    },
+    "C7": {
+      "status": "n/a",
+      "note": "не потребительская компания"
+    },
+    "C8": {
+      "status": "n/a",
+      "note": "не экспортёр"
+    },
+    "P1": {
+      "status": "fail",
+      "note": "Дивиденды за 12 мес. 0 ₽ → 0% при цене 10,426 ₽ (30.10.2026) < 5%"
+    },
+    "P2": {
+      "status": "n/a",
+      "note": "не сырьевик"
+    },
+    "P3": {
+      "status": "n/a",
+      "note": "не фонд недвижимости"
+    }
+  },
+  "watch": [
+    "МСФО за 9М 2026",
+    "Решение по дивидендам за 2026 г. (весна 2027)"
+  ],
+  "metrics": {
+    "price_rub": 10.426,
+    "price_date": "2026-10-30",
+    "div_ttm_rub": 0,
+    "yield_pct": 0,
+    "payout_pct": 0
+  },
+  "sources": [
+    {
+      "title": "РИА Новости/InvestFuture: МКБ отказывается от дивидендов за 2025 год (26.05.2026)",
+      "url": "https://investfuture.ru/articles/mkb-otkazyvaetsya-ot-dividendov-za-2025-god-radi-ukrepleniya-kapitala-1180486860"
+    },
+    {
+      "title": "InvestFuture: дивиденды МКБ (сверка)",
+      "url": "https://investfuture.ru/dividends/cbom"
+    },
+    {
+      "title": "Smart-lab: котировки (цена 30.10.2026, сверка)",
+      "url": "https://smart-lab.ru/q/shares/"
+    }
+  ]
+}

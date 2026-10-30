@@ -1,0 +1,96 @@
+{
+  "asset_id": "SNGSP",
+  "currency": "RUB",
+  "by_year": [
+    {
+      "year": 2016,
+      "total": 6.92
+    },
+    {
+      "year": 2017,
+      "total": 0.6
+    },
+    {
+      "year": 2018,
+      "total": 1.38
+    },
+    {
+      "year": 2019,
+      "total": 7.62
+    },
+    {
+      "year": 2020,
+      "total": 0.97
+    },
+    {
+      "year": 2021,
+      "total": 6.72
+    },
+    {
+      "year": 2022,
+      "total": 4.73
+    },
+    {
+      "year": 2023,
+      "total": 0.8
+    },
+    {
+      "year": 2024,
+      "total": 12.29
+    },
+    {
+      "year": 2025,
+      "total": 8.5
+    },
+    {
+      "year": 2026,
+      "total": 0.85
+    }
+  ],
+  "payments": [
+    {
+      "record_date": "2016-07-18",
+      "amount": 6.92
+    },
+    {
+      "record_date": "2017-07-19",
+      "amount": 0.6
+    },
+    {
+      "record_date": "2018-07-19",
+      "amount": 1.38
+    },
+    {
+      "record_date": "2019-07-18",
+      "amount": 7.62
+    },
+    {
+      "record_date": "2020-07-20",
+      "amount": 0.97
+    },
+    {
+      "record_date": "2021-07-20",
+      "amount": 6.72
+    },
+    {
+      "record_date": "2022-07-20",
+      "amount": 4.73
+    },
+    {
+      "record_date": "2023-07-20",
+      "amount": 0.8
+    },
+    {
+      "record_date": "2024-07-18",
+      "amount": 12.29
+    },
+    {
+      "record_date": "2025-07-17",
+      "amount": 8.5
+    },
+    {
+      "record_date": "2026-07-16",
+      "amount": 0.85
+    }
+  ]
+}

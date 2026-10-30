@@ -1,0 +1,107 @@
+{
+  "asset_id": "LKOH",
+  "status": {
+    "verdict": "watch",
+    "updated": "2026-10-30"
+  },
+  "criteria": {
+    "C1": {
+      "status": "pass",
+      "note": "Добыча и переработка нефти"
+    },
+    "C2": {
+      "status": "pass",
+      "note": "Вертикально интегрированная нефтяная компания: добыча, переработка, сбыт"
+    },
+    "C3": {
+      "status": "warn",
+      "note": "С 22.10.2025 в списке SDN OFAC; зарубежные активы (LUKOIL International) деконсолидированы и выставлены на продажу; Carlyle отказалась от покупки (Reuters, окт. 2026); лицензия OFAC на переговоры продлена до 24.04.2027"
+    },
+    "C4": {
+      "status": "n/a",
+      "note": "нет фактов для оценки"
+    },
+    "C5": {
+      "status": "n/a",
+      "note": "нет фактов для оценки"
+    },
+    "C6": {
+      "status": "pass",
+      "note": "МСФО 1П 2026: ЧД/EBITDA −0,27 (чистая денежная позиция), FCF 550,9 млрд ₽ (×1,7), прибыль 430,9 млрд ₽; дивиденды ежегодно 2016–2026 дважды в год; политика ≥100% скорр. FCF; финал за 2025 г. снижен до 278 ₽, за 9М 2026 рекомендовано 535 ₽"
+    },
+    "C7": {
+      "status": "n/a",
+      "note": "не потребительская компания"
+    },
+    "C8": {
+      "status": "pass",
+      "note": "Экспортёр нефти и нефтепродуктов"
+    },
+    "P1": {
+      "status": "warn",
+      "note": "LTM 10,8% (675 ₽: 397+278) при цене 6243,5 ₽ (29.10.2026) — выше порога 5%, но на высоких ценах нефти (см. P2)"
+    },
+    "P2": {
+      "status": "warn",
+      "note": "Brent ~$106/барр. (12.10.2026, ТАСС) против ~$63 в январе 2026 — цены на верхней части цикла; нормализованная доходность не рассчитана"
+    },
+    "P3": {
+      "status": "n/a",
+      "note": "не фонд недвижимости"
+    }
+  },
+  "watch": [
+    "ВОСА 20.11.2026 по дивиденду 535 ₽ за 9М 2026, отсечка 09.12.2026",
+    "Сделка по продаже LUKOIL International и лицензия OFAC (до 24.04.2027)",
+    "Отчёт МСФО за 9М 2026",
+    "Цена Brent/Urals против средних прошлых лет"
+  ],
+  "metrics": {
+    "price_rub": 6243.5,
+    "price_date": "2026-10-29",
+    "div_ttm_rub": 675,
+    "yield_pct": 10.81,
+    "net_debt_to_ebitda": -0.27,
+    "net_debt_to_ebitda_period": "1П 2026 МСФО",
+    "recommended_div_rub": 535,
+    "recommended_div_record_date": "2026-12-09"
+  },
+  "sources": [
+    {
+      "title": "Интерфакс: ЛУКОЙЛ — дивиденды и котировка",
+      "url": "https://www.interfax.ru/quote/LKOH/Dividends"
+    },
+    {
+      "title": "ДОХОДЪ: история дивидендов LKOH (сверка дат отсечки)",
+      "url": "https://dohod.ru/ik/analytics/dividend/lkoh"
+    },
+    {
+      "title": "Эксперт, 09.10.2026: СД ЛУКОЙЛа рекомендовал дивиденды за 9 месяцев",
+      "url": "https://expert.ru/news/sovet-direktorov-lukoyla-rekomendoval-dividendy-po-itogam-devyati-mesyatsev"
+    },
+    {
+      "title": "Выберу.ру, 09.10.2026: ЛУКОЙЛ — 535 ₽, отсечка 09.12.2026 (сверка)",
+      "url": "https://www.vbr.ru/novosti/investicii/2026/10/09/-lykoil--zaplatit-dividendi--skolko-zarabotaut-investori/"
+    },
+    {
+      "title": "Нефтегаз.ру, 21.09.2026: ЛУКОЙЛ МСФО 1П 2026",
+      "url": "https://neftegaz.ru/news/companies/936643-lukoyl-v-1-m-polugodii-2026-g-snizil-pererabotku-nefti-na-9-6/"
+    },
+    {
+      "title": "Интерфакс, 18.09.2026: лицензия OFAC на продажу LUKOIL International",
+      "url": "https://www.interfax.ru/world/1116935"
+    },
+    {
+      "title": "The Moscow Times (Reuters), 16.10.2026: лицензия OFAC продлена до 24.04.2027",
+      "url": "https://ru.themoscowtimes.com/2026/10/16/update-1-minfin-ssha-prodlil-litsenziyu-na-prodazhu-nekotorykh-aktivov-lukoyla-do-24-apr-27g-a208811"
+    },
+    {
+      "title": "ТАСС via Financial One, 12.10.2026: Brent выше $106",
+      "url": "https://fomag.ru/news-streem/tsena-brent-na-birzhe-ice-prevyshala-106-za-barrel-vpervye-s-29-sentyabrya/"
+    },
+    {
+      "title": "Финансы Mail, 09.01.2026: Brent выше $63 впервые с 8 декабря",
+      "url": "https://finance.mail.ru/article/tsena-brent-prevyishala-63-vpervyie-s-8-dekabrya-69194449/"
+    }
+  ]
+}

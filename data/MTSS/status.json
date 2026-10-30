@@ -1,0 +1,97 @@
+{
+  "asset_id": "MTSS",
+  "status": {
+    "verdict": "watch",
+    "updated": "2026-10-30"
+  },
+  "criteria": {
+    "C1": {
+      "status": "pass",
+      "note": "Связь — базовая потребность; ядро — мобильная и фиксированная связь"
+    },
+    "C2": {
+      "status": "warn",
+      "note": "Экосистема: помимо связи финтех (МТС Банк), медиа, adtech, облака; прибыль 2К26 (66,9 млрд ₽) за счёт продажи доли в башенном бизнесе"
+    },
+    "C3": {
+      "status": "n/a",
+      "note": "нет фактов для оценки"
+    },
+    "C4": {
+      "status": "n/a",
+      "note": "нет фактов для оценки"
+    },
+    "C5": {
+      "status": "n/a",
+      "note": "нет фактов для оценки"
+    },
+    "C6": {
+      "status": "warn",
+      "note": "ЧД 474,1 млрд ₽, ЧД/OIBDA LTM 1,6 (2К26); дивиденд за 2025 — 69,9 млрд ₽ (35 ₽) при чистой прибыли 2025 35,3 млрд ₽ (~198%); новая политика 2027–2028 (16.09.2026): до 20% OIBDA, не менее 70 млрд ₽/год, ~70% дивидендами и ~30% байбэком"
+    },
+    "C7": {
+      "status": "n/a",
+      "note": "нет фактов для оценки"
+    },
+    "C8": {
+      "status": "n/a",
+      "note": "не экспортёр"
+    },
+    "P1": {
+      "status": "pass",
+      "note": "LTM 35 ₽ (отсечка 09.07.2026) / 177,05 ₽ (27.10.2026) = 19,8%"
+    },
+    "P2": {
+      "status": "n/a",
+      "note": "не сырьевик"
+    },
+    "P3": {
+      "status": "n/a",
+      "note": "не фонд недвижимости"
+    }
+  },
+  "watch": [
+    "Первая выплата по новой политике — по итогам 9М 2026 (возможна в январе 2027): размер на акцию",
+    "Результаты за 3К 2026: ЧД/OIBDA",
+    "Байбэк в рамках новой политики (с июля 2027)"
+  ],
+  "metrics": {
+    "price_rub": 177.05,
+    "price_date": "2026-10-27",
+    "div_ttm_rub": 35,
+    "yield_pct": 19.77,
+    "net_debt_to_ebitda": 1.6,
+    "net_debt_to_ebitda_period": "2К 2026 (ЧД/OIBDA LTM)",
+    "payout_pct": 198
+  },
+  "sources": [
+    {
+      "title": "МТС: рекомендация СД по дивидендам за 2025 г., 35 ₽, отсечка 09.07.2026 (22.05.2026)",
+      "url": "https://moskva.mts.ru/about/media-centr/soobshheniya-kompanii/novosti-mts-v-rossii-i-mire/2026-05-22/mts-obyavlyaet-rekomendacii-soveta-direktorov-po-razmeru-dividendov-za-2025-god"
+    },
+    {
+      "title": "МТС IR: результаты за 2К 2026 (25.08.2026)",
+      "url": "https://ir.mts.ru/news_and_events/corporate_releases/details/742437"
+    },
+    {
+      "title": "Ведомости: МТС привязал дивиденды к OIBDA (17.09.2026)",
+      "url": "https://www.vedomosti.ru/investments/articles/2026/09/17/1229413-mts-privyazal-dividendnie-viplati-k-oibda"
+    },
+    {
+      "title": "Коммерсантъ: чистая прибыль МТС в 2025 г. 35,3 млрд ₽",
+      "url": "https://www.kommersant.ru/doc/8480613"
+    },
+    {
+      "title": "The Moscow Times/Reuters: результаты МТС за 1К 2026 (22.05.2026)",
+      "url": "https://ru.themoscowtimes.com/2026/05/22/update-1-pribyl-mts-vyrosla-v-1-kv-26g-na-464-gg-a196007"
+    },
+    {
+      "title": "Коммерсантъ: котировка MTSS",
+      "url": "https://www.kommersant.ru/quotes/ru0007775219"
+    },
+    {
+      "title": "Доход.ру: история дивидендов MTSS (сверка)",
+      "url": "https://dohod.ru/ik/analytics/dividend/mtss"
+    }
+  ]
+}

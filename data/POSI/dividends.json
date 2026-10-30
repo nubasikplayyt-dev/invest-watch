@@ -1,0 +1,64 @@
+{
+  "asset_id": "POSI",
+  "currency": "RUB",
+  "by_year": [
+    {
+      "year": 2022,
+      "total": 19.56
+    },
+    {
+      "year": 2023,
+      "total": 72.61
+    },
+    {
+      "year": 2024,
+      "total": 99.19
+    },
+    {
+      "year": 2025,
+      "total": 0.0
+    },
+    {
+      "year": 2026,
+      "total": 28.08
+    }
+  ],
+  "payments": [
+    {
+      "record_date": "2022-05-08",
+      "amount": 14.4
+    },
+    {
+      "record_date": "2022-11-14",
+      "amount": 5.16
+    },
+    {
+      "record_date": "2023-04-16",
+      "amount": 37.87
+    },
+    {
+      "record_date": "2023-05-22",
+      "amount": 18.94
+    },
+    {
+      "record_date": "2023-12-03",
+      "amount": 15.8
+    },
+    {
+      "record_date": "2024-04-20",
+      "amount": 47.3
+    },
+    {
+      "record_date": "2024-05-24",
+      "amount": 4.56
+    },
+    {
+      "record_date": "2024-05-24",
+      "amount": 47.33
+    },
+    {
+      "record_date": "2026-05-17",
+      "amount": 28.08
+    }
+  ]
+}

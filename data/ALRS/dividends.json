@@ -1,0 +1,100 @@
+{
+  "asset_id": "ALRS",
+  "currency": "RUB",
+  "by_year": [
+    {
+      "year": 2016,
+      "total": 2.09
+    },
+    {
+      "year": 2017,
+      "total": 8.93
+    },
+    {
+      "year": 2018,
+      "total": 11.17
+    },
+    {
+      "year": 2019,
+      "total": 7.95
+    },
+    {
+      "year": 2020,
+      "total": 2.63
+    },
+    {
+      "year": 2021,
+      "total": 18.33
+    },
+    {
+      "year": 2022,
+      "total": 0
+    },
+    {
+      "year": 2023,
+      "total": 3.77
+    },
+    {
+      "year": 2024,
+      "total": 4.51
+    },
+    {
+      "year": 2025,
+      "total": 0
+    },
+    {
+      "year": 2026,
+      "total": 0
+    }
+  ],
+  "payments": [
+    {
+      "record_date": "2016-07-19",
+      "amount": 2.09
+    },
+    {
+      "record_date": "2017-07-20",
+      "amount": 8.93
+    },
+    {
+      "record_date": "2018-07-14",
+      "amount": 5.24
+    },
+    {
+      "record_date": "2018-10-15",
+      "amount": 5.93
+    },
+    {
+      "record_date": "2019-07-15",
+      "amount": 4.11
+    },
+    {
+      "record_date": "2019-10-14",
+      "amount": 3.84
+    },
+    {
+      "record_date": "2020-07-13",
+      "amount": 2.63
+    },
+    {
+      "record_date": "2021-07-04",
+      "amount": 9.54
+    },
+    {
+      "record_date": "2021-10-19",
+      "amount": 8.79
+    },
+    {
+      "record_date": "2023-10-18",
+      "amount": 3.77
+    },
+    {
+      "record_date": "2024-05-31",
+      "amount": 2.02
+    },
+    {
+      "record_date": "2024-10-19",
+      "amount": 2.49
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "asset_id": "MAGN",
+  "status": {
+    "verdict": "sell_candidate",
+    "updated": "2026-10-30"
+  },
+  "criteria": {
+    "C1": {
+      "status": "pass",
+      "note": "Сталь — базовый материал"
+    },
+    "C2": {
+      "status": "pass",
+      "note": "Металлургический комбинат полного цикла — простая модель"
+    },
+    "C3": {
+      "status": "n/a",
+      "note": "нет фактов для оценки"
+    },
+    "C4": {
+      "status": "n/a",
+      "note": "нет фактов для оценки"
+    },
+    "C5": {
+      "status": "n/a",
+      "note": "нет фактов для оценки"
+    },
+    "C6": {
+      "status": "fail",
+      "note": "Последний дивиденд — 2,494 ₽ за 1П 2024 (отсечка 17.10.2024); за 2П 2024 и 2025 г. СД рекомендовал не платить; чистый убыток МСФО 2025 — 14,8 млрд ₽, 1П 2026 — 19,1 млрд ₽"
+    },
+    "C7": {
+      "status": "n/a",
+      "note": "не потребительская компания"
+    },
+    "C8": {
+      "status": "n/a",
+      "note": "доля экспорта не подтверждена первоисточником"
+    },
+    "P1": {
+      "status": "fail",
+      "note": "Дивидендов за 12 мес. нет: 0% при цене 22,65 ₽ (29.10.2026)"
+    },
+    "P2": {
+      "status": "n/a",
+      "note": "нет данных о цене стали против средней за цикл; факты: EBITDA 1П 2026 24,7 млрд ₽ (−40,9% г/г), маржа 2 кв. 10,5%"
+    },
+    "P3": {
+      "status": "n/a",
+      "note": "не фонд недвижимости"
+    }
+  },
+  "watch": [
+    "МСФО за 9М 2026 (не опубликована на 28.10.2026; сообщалось о возможном переходе на полугодовую отчётность)",
+    "Решение СД о дивидендах — возобновление выплат",
+    "Свободный денежный поток и чистая денежная позиция"
+  ],
+  "metrics": {
+    "price_rub": 22.65,
+    "price_date": "2026-10-29",
+    "div_ttm_rub": 0,
+    "yield_pct": 0.0,
+    "net_profit_2025_bn_rub": -14.8,
+    "net_profit_1h2026_bn_rub": -19.11,
+    "ebitda_1h2026_bn_rub": 24.71,
+    "fcf_1h2026_bn_rub": 2.62,
+    "net_cash_bn_rub": 80.7,
+    "net_cash_date": "2026-06-30"
+  },
+  "sources": [
+    {
+      "title": "Reuters/The Moscow Times: ММК может отказаться от дивидендов за 2025 г., 27.04.2026",
+      "url": "https://ru.themoscowtimes.com/2026/04/27/update-1-mmk-mozhet-otkazatsya-ot-dividendov-za-25g-a193819"
+    },
+    {
+      "title": "SteelOrbis: результаты ММК за 1П 2026, 24.07.2026",
+      "url": "https://www.steelorbis.com/steel-news/latest-news/mmk-groups-steel-sales-rebound-in-q2-2026-h1-ebitda-falls-amid-lower-prices-1466701.htm"
+    },
+    {
+      "title": "Fomag: ММК — производство и РСБУ 9М 2026",
+      "url": "https://fomag.ru/news/mmk-proizvodstvo-stali-vyroslo-na-23-no-analitiki-zhdut-snizheniya-sprosa-daydzhest-fomag/"
+    },
+    {
+      "title": "dohod.ru: история дивидендов ММК (сверка)",
+      "url": "https://www.dohod.ru/ik/analytics/dividend/magn"
+    },
+    {
+      "title": "investmint: дивиденды ММК (сверка, цена)",
+      "url": "https://investmint.ru/magn/divs/"
+    }
+  ]
+}

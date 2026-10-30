@@ -1,0 +1,83 @@
+{
+  "asset_id": "VKCO",
+  "status": {
+    "verdict": "sell_candidate",
+    "updated": "2026-10-30"
+  },
+  "criteria": {
+    "C1": {
+      "status": "fail",
+      "note": "IT/интернет-компания (соцсети, медиа, облачные сервисы, реклама) — не «вечная тема» по критериям владельца"
+    },
+    "C2": {
+      "status": "fail",
+      "note": "Многосегментная технологическая экосистема, не простая модель"
+    },
+    "C3": {
+      "status": "n/a",
+      "note": "нет фактов для оценки"
+    },
+    "C4": {
+      "status": "n/a",
+      "note": "нет фактов для оценки"
+    },
+    "C5": {
+      "status": "n/a",
+      "note": "нет фактов для оценки"
+    },
+    "C6": {
+      "status": "fail",
+      "note": "Дивиденды не выплачиваются (2023–2025 — 0, чистые убытки); ЧД 73,3 млрд ₽, ЧД/EBITDA 2,7x на 30.09.2026; скорр. EBITDA 9М26 20,2 млрд ₽"
+    },
+    "C7": {
+      "status": "n/a",
+      "note": "нет фактов для оценки"
+    },
+    "C8": {
+      "status": "n/a",
+      "note": "не экспортёр"
+    },
+    "P1": {
+      "status": "fail",
+      "note": "LTM 0% при цене 159,2 ₽ (30.10.2026)"
+    },
+    "P2": {
+      "status": "n/a",
+      "note": "не сырьевик"
+    },
+    "P3": {
+      "status": "n/a",
+      "note": "не фонд недвижимости"
+    }
+  },
+  "watch": [
+    "Выполнение прогноза скорр. EBITDA 2026 > 24 млрд ₽ и ЧД/EBITDA 2–3x",
+    "Любое решение СД о дивидендах"
+  ],
+  "metrics": {
+    "price_rub": 159.2,
+    "price_date": "2026-10-30",
+    "div_ttm_rub": 0,
+    "yield_pct": 0,
+    "net_debt_to_ebitda": 2.7,
+    "net_debt_to_ebitda_period": "30.09.2026 (без аренды)"
+  },
+  "sources": [
+    {
+      "title": "VK, 28.10.2026: пресс-релиз по результатам за 3К и 9М 2026",
+      "url": "https://vk.company/ru/press/releases/12477/"
+    },
+    {
+      "title": "CNews, 29.10.2026: VK вышел на чистый денежный поток",
+      "url": "https://www.cnews.ru/news/top/2026-10-29_vk_vyshel_na_chistyj_denezhnyj"
+    },
+    {
+      "title": "Инвестфьючер: дивиденды VKCO (сверка)",
+      "url": "https://investfuture.ru/dividends/vkco"
+    },
+    {
+      "title": "Investmint: котировка VKCO 30.10.2026",
+      "url": "https://investmint.ru/mail/"
+    }
+  ]
+}

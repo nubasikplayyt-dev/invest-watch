@@ -1,0 +1,80 @@
+{
+  "asset_id": "GAZP",
+  "currency": "RUB",
+  "by_year": [
+    {
+      "year": 2016,
+      "total": 7.89
+    },
+    {
+      "year": 2017,
+      "total": 8.0397
+    },
+    {
+      "year": 2018,
+      "total": 8.04
+    },
+    {
+      "year": 2019,
+      "total": 16.61
+    },
+    {
+      "year": 2020,
+      "total": 15.24
+    },
+    {
+      "year": 2021,
+      "total": 12.55
+    },
+    {
+      "year": 2022,
+      "total": 51.03
+    },
+    {
+      "year": 2023,
+      "total": 0
+    },
+    {
+      "year": 2024,
+      "total": 0
+    },
+    {
+      "year": 2025,
+      "total": 0
+    },
+    {
+      "year": 2026,
+      "total": 0
+    }
+  ],
+  "payments": [
+    {
+      "record_date": "2016-07-20",
+      "amount": 7.89
+    },
+    {
+      "record_date": "2017-07-20",
+      "amount": 8.0397
+    },
+    {
+      "record_date": "2018-07-19",
+      "amount": 8.04
+    },
+    {
+      "record_date": "2019-07-18",
+      "amount": 16.61
+    },
+    {
+      "record_date": "2020-07-16",
+      "amount": 15.24
+    },
+    {
+      "record_date": "2021-07-15",
+      "amount": 12.55
+    },
+    {
+      "record_date": "2022-10-11",
+      "amount": 51.03
+    }
+  ]
+}

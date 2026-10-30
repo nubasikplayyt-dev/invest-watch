@@ -1,0 +1,84 @@
+{
+  "asset_id": "HEAD",
+  "currency": "RUB",
+  "by_year": [
+    {
+      "year": 2016,
+      "total": 0
+    },
+    {
+      "year": 2017,
+      "total": 0
+    },
+    {
+      "year": 2018,
+      "total": 0
+    },
+    {
+      "year": 2019,
+      "total": 23.45
+    },
+    {
+      "year": 2020,
+      "total": 36.13
+    },
+    {
+      "year": 2021,
+      "total": 40.33
+    },
+    {
+      "year": 2022,
+      "total": 64.11
+    },
+    {
+      "year": 2023,
+      "total": 0
+    },
+    {
+      "year": 2024,
+      "total": 907
+    },
+    {
+      "year": 2025,
+      "total": 233
+    },
+    {
+      "year": 2026,
+      "total": 433
+    }
+  ],
+  "payments": [
+    {
+      "record_date": "2019-07-19",
+      "amount": 23.45
+    },
+    {
+      "record_date": "2020-09-10",
+      "amount": 36.13
+    },
+    {
+      "record_date": "2021-07-16",
+      "amount": 40.33
+    },
+    {
+      "record_date": "2022-02-10",
+      "amount": 64.11
+    },
+    {
+      "record_date": "2024-12-17",
+      "amount": 907
+    },
+    {
+      "record_date": "2025-09-27",
+      "amount": 233
+    },
+    {
+      "record_date": "2026-05-12",
+      "amount": 233
+    },
+    {
+      "record_date": "2026-09-28",
+      "amount": 200
+    }
+  ]
+}

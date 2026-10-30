@@ -1,0 +1,72 @@
+{
+  "asset_id": "YDEX",
+  "currency": "RUB",
+  "by_year": [
+    {
+      "year": 2016,
+      "total": 0
+    },
+    {
+      "year": 2017,
+      "total": 0
+    },
+    {
+      "year": 2018,
+      "total": 0
+    },
+    {
+      "year": 2019,
+      "total": 0
+    },
+    {
+      "year": 2020,
+      "total": 0
+    },
+    {
+      "year": 2021,
+      "total": 0
+    },
+    {
+      "year": 2022,
+      "total": 0
+    },
+    {
+      "year": 2023,
+      "total": 0
+    },
+    {
+      "year": 2024,
+      "total": 80
+    },
+    {
+      "year": 2025,
+      "total": 160
+    },
+    {
+      "year": 2026,
+      "total": 220
+    }
+  ],
+  "payments": [
+    {
+      "record_date": "2024-09-20",
+      "amount": 80
+    },
+    {
+      "record_date": "2025-04-28",
+      "amount": 80
+    },
+    {
+      "record_date": "2025-09-29",
+      "amount": 80
+    },
+    {
+      "record_date": "2026-04-27",
+      "amount": 110
+    },
+    {
+      "record_date": "2026-09-21",
+      "amount": 110
+    }
+  ]
+}

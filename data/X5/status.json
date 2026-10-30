@@ -1,0 +1,87 @@
+{
+  "asset_id": "X5",
+  "status": {
+    "verdict": "watch",
+    "updated": "2026-10-30"
+  },
+  "criteria": {
+    "C1": {
+      "status": "pass",
+      "note": "Продуктовая розница — вечная тема"
+    },
+    "C2": {
+      "status": "pass",
+      "note": "Сети магазинов у дома, супермаркеты и дискаунтеры («Пятёрочка», «Перекрёсток», «Чижик»)"
+    },
+    "C3": {
+      "status": "n/a",
+      "note": "нет фактов для оценки"
+    },
+    "C4": {
+      "status": "n/a",
+      "note": "нет фактов для оценки"
+    },
+    "C5": {
+      "status": "n/a",
+      "note": "нет фактов для оценки"
+    },
+    "C6": {
+      "status": "warn",
+      "note": "Выплат не было 2022–2024; дивиденды снижаются: 648 ₽ (07.2025) → 368 ₽ (01.2026) → 245 ₽ (07.2026); ЧД/EBITDA выросло с 0,84x (конец 2025) до 1,20x (30.09.2026); прибыль 3К 2026 29,3 млрд ₽ (+3,8%)"
+    },
+    "C7": {
+      "status": "pass",
+      "note": "Валовая маржа 3К 2026 +73 б.п. до 24,4% при LFL-продажах +7,4%; скорр. маржа EBITDA 6,7%"
+    },
+    "C8": {
+      "status": "n/a",
+      "note": "не экспортёр"
+    },
+    "P1": {
+      "status": "pass",
+      "note": "25,93%: 613 ₽ за 12 мес. (отсечки 06.01 и 07.07.2026) при цене 2364,5 ₽ (30.10.2026)"
+    },
+    "P2": {
+      "status": "n/a",
+      "note": "не сырьевик"
+    },
+    "P3": {
+      "status": "n/a",
+      "note": "не фонд недвижимости"
+    }
+  },
+  "watch": [
+    "Рекомендация наблюдательного совета по дивидендам за 9М 2026",
+    "ЧД/EBITDA за 2026 г. (1,20x на 30.09.2026)"
+  ],
+  "metrics": {
+    "price_rub": 2364.5,
+    "price_date": "2026-10-30",
+    "div_ttm_rub": 613,
+    "yield_pct": 25.93,
+    "net_debt_to_ebitda": 1.2,
+    "net_debt_to_ebitda_period": "30.09.2026"
+  },
+  "sources": [
+    {
+      "title": "Retail.ru: X5, финрезультаты 3К 2026 (29.10.2026)",
+      "url": "https://www.retail.ru/news/vyruchka-x5-za-kvartal-vyrosla-na-13-do-1-31-trln-rubley-29-oktyabrya-2026-283830/"
+    },
+    {
+      "title": "X5 (блог компании на smart-lab): МСФО 3К 2026",
+      "url": "https://smart-lab.ru/company/x5retailgroup/blog/1368173.php"
+    },
+    {
+      "title": "The Moscow Times: набсовет X5 рекомендовал 245 ₽ (19.05.2026)",
+      "url": "https://ru.themoscowtimes.com/2026/05/19/nablyudatelnyy-sovet-x5-rekomendovaldividendy-v-245-rub-na-aktsiyu-a195616"
+    },
+    {
+      "title": "Mail Финансы: X5 МСФО 1П 2026, ЧД/EBITDA",
+      "url": "https://finance.mail.ru/article/analitiki-market-power-snizhenie-ebitda-x5-mozhet-ogranichit-potentsial-dividendov-69222562/"
+    },
+    {
+      "title": "Investmint: история дивидендов и цена X5 — сверка",
+      "url": "https://investmint.ru/x5/divs/"
+    }
+  ]
+}

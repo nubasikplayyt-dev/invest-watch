@@ -1,0 +1,128 @@
+{
+  "asset_id": "ROSN",
+  "currency": "RUB",
+  "by_year": [
+    {
+      "year": 2016,
+      "total": 11.75
+    },
+    {
+      "year": 2017,
+      "total": 9.81
+    },
+    {
+      "year": 2018,
+      "total": 21.23
+    },
+    {
+      "year": 2019,
+      "total": 26.67
+    },
+    {
+      "year": 2020,
+      "total": 18.07
+    },
+    {
+      "year": 2021,
+      "total": 24.97
+    },
+    {
+      "year": 2022,
+      "total": 23.63
+    },
+    {
+      "year": 2023,
+      "total": 38.36
+    },
+    {
+      "year": 2024,
+      "total": 59.78
+    },
+    {
+      "year": 2025,
+      "total": 51.15
+    },
+    {
+      "year": 2026,
+      "total": 13.83
+    }
+  ],
+  "payments": [
+    {
+      "record_date": "2016-06-27",
+      "amount": 11.75
+    },
+    {
+      "record_date": "2017-07-03",
+      "amount": 5.98
+    },
+    {
+      "record_date": "2017-10-10",
+      "amount": 3.83
+    },
+    {
+      "record_date": "2018-07-02",
+      "amount": 6.65
+    },
+    {
+      "record_date": "2018-10-09",
+      "amount": 14.58
+    },
+    {
+      "record_date": "2019-06-17",
+      "amount": 11.33
+    },
+    {
+      "record_date": "2019-10-11",
+      "amount": 15.34
+    },
+    {
+      "record_date": "2020-06-15",
+      "amount": 18.07
+    },
+    {
+      "record_date": "2021-06-15",
+      "amount": 6.94
+    },
+    {
+      "record_date": "2021-10-11",
+      "amount": 18.03
+    },
+    {
+      "record_date": "2022-07-11",
+      "amount": 23.63
+    },
+    {
+      "record_date": "2023-01-12",
+      "amount": 20.39
+    },
+    {
+      "record_date": "2023-07-11",
+      "amount": 17.97
+    },
+    {
+      "record_date": "2024-01-11",
+      "amount": 30.77
+    },
+    {
+      "record_date": "2024-07-09",
+      "amount": 29.01
+    },
+    {
+      "record_date": "2025-01-10",
+      "amount": 36.47
+    },
+    {
+      "record_date": "2025-07-20",
+      "amount": 14.68
+    },
+    {
+      "record_date": "2026-01-12",
+      "amount": 11.56
+    },
+    {
+      "record_date": "2026-07-09",
+      "amount": 2.27
+    }
+  ]
+}

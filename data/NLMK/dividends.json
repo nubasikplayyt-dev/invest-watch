@@ -1,0 +1,152 @@
+{
+  "asset_id": "NLMK",
+  "currency": "RUB",
+  "by_year": [
+    {
+      "year": 2016,
+      "total": 4.64
+    },
+    {
+      "year": 2017,
+      "total": 12.56
+    },
+    {
+      "year": 2018,
+      "total": 19.46
+    },
+    {
+      "year": 2019,
+      "total": 22.86
+    },
+    {
+      "year": 2020,
+      "total": 20.73
+    },
+    {
+      "year": 2021,
+      "total": 41.91
+    },
+    {
+      "year": 2022,
+      "total": 0
+    },
+    {
+      "year": 2023,
+      "total": 0
+    },
+    {
+      "year": 2024,
+      "total": 25.43
+    },
+    {
+      "year": 2025,
+      "total": 0
+    },
+    {
+      "year": 2026,
+      "total": 0
+    }
+  ],
+  "payments": [
+    {
+      "record_date": "2016-06-14",
+      "amount": 1.13
+    },
+    {
+      "record_date": "2016-06-14",
+      "amount": 2.43
+    },
+    {
+      "record_date": "2016-10-12",
+      "amount": 1.08
+    },
+    {
+      "record_date": "2017-01-09",
+      "amount": 3.63
+    },
+    {
+      "record_date": "2017-06-14",
+      "amount": 2.35
+    },
+    {
+      "record_date": "2017-06-14",
+      "amount": 3.38
+    },
+    {
+      "record_date": "2017-10-12",
+      "amount": 3.2
+    },
+    {
+      "record_date": "2018-01-09",
+      "amount": 5.13
+    },
+    {
+      "record_date": "2018-06-20",
+      "amount": 3.36
+    },
+    {
+      "record_date": "2018-06-20",
+      "amount": 5.73
+    },
+    {
+      "record_date": "2018-10-12",
+      "amount": 5.24
+    },
+    {
+      "record_date": "2019-01-09",
+      "amount": 6.04
+    },
+    {
+      "record_date": "2019-05-06",
+      "amount": 5.8
+    },
+    {
+      "record_date": "2019-06-19",
+      "amount": 7.34
+    },
+    {
+      "record_date": "2019-10-10",
+      "amount": 3.68
+    },
+    {
+      "record_date": "2020-01-09",
+      "amount": 3.22
+    },
+    {
+      "record_date": "2020-06-09",
+      "amount": 3.12
+    },
+    {
+      "record_date": "2020-07-13",
+      "amount": 3.21
+    },
+    {
+      "record_date": "2020-10-12",
+      "amount": 4.75
+    },
+    {
+      "record_date": "2020-12-29",
+      "amount": 6.43
+    },
+    {
+      "record_date": "2021-05-11",
+      "amount": 7.25
+    },
+    {
+      "record_date": "2021-06-23",
+      "amount": 7.71
+    },
+    {
+      "record_date": "2021-09-07",
+      "amount": 13.62
+    },
+    {
+      "record_date": "2021-12-07",
+      "amount": 13.33
+    },
+    {
+      "record_date": "2024-05-27",
+      "amount": 25.43
+    }
+  ]
+}

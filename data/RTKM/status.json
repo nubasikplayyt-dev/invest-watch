@@ -1,0 +1,88 @@
+{
+  "asset_id": "RTKM",
+  "status": {
+    "verdict": "watch",
+    "updated": "2026-10-30"
+  },
+  "criteria": {
+    "C1": {
+      "status": "warn",
+      "note": "Связь — базовая инфраструктура, но значимая часть бизнеса — цифровые/IT-сервисы, которые C1 исключает"
+    },
+    "C2": {
+      "status": "warn",
+      "note": "Капиталоёмкий телеком: свободный денежный поток 1П 2026 −12,2 млрд ₽"
+    },
+    "C3": {
+      "status": "n/a",
+      "note": "нет фактов для оценки"
+    },
+    "C4": {
+      "status": "n/a",
+      "note": "нет фактов для оценки"
+    },
+    "C5": {
+      "status": "n/a",
+      "note": "нет фактов для оценки"
+    },
+    "C6": {
+      "status": "warn",
+      "note": "Дивиденд снижен с 6,06 ₽ (за 2023) до 2,71 ₽ (за 2024 и 2025; 50,6% скорр. прибыли МСФО); ЧД/OIBDA 2,1x, чистый долг 731,6 млрд ₽ (30.06.2026); FCF отрицательный"
+    },
+    "C7": {
+      "status": "n/a",
+      "note": "не потребительская компания в смысле C7"
+    },
+    "C8": {
+      "status": "n/a",
+      "note": "не экспортёр"
+    },
+    "P1": {
+      "status": "pass",
+      "note": "2,71 ₽ за 12 мес. (отсечка 20.07.2026) / 43,35 ₽ (30.10.2026) ≈ 6,3%"
+    },
+    "P2": {
+      "status": "n/a",
+      "note": "не сырьевик"
+    },
+    "P3": {
+      "status": "n/a",
+      "note": "не фонд недвижимости"
+    }
+  },
+  "watch": [
+    "МСФО за 9М 2026 (FCF, чистый долг)",
+    "Рекомендация дивидендов за 2026 г. — последний год действующей политики 2024–2026",
+    "Новая дивидендная политика с 2027 г."
+  ],
+  "metrics": {
+    "price_rub": 43.35,
+    "price_date": "2026-10-30",
+    "div_ttm_rub": 2.71,
+    "yield_pct": 6.25,
+    "net_debt_to_ebitda": 2.1,
+    "net_debt_to_ebitda_period": "30.06.2026 (ЧД/OIBDA)",
+    "payout_pct": 50.6,
+    "payout_period": "2025 (скорр. прибыль МСФО)",
+    "net_debt_bn_rub": 731.6,
+    "fcf_1h2026_bn_rub": -12.2
+  },
+  "sources": [
+    {
+      "title": "ComNews: СД Ростелекома рекомендовал дивиденды за 2025 г. 2,71 ₽, 28.05.2026",
+      "url": "https://www.comnews.ru/content/245564/2026-05-28/2026-w22/1010/sovet-direktorov-rostelekoma-dal-rekomendacii-dividendam-za-2025-g"
+    },
+    {
+      "title": "Fomag: Ростелеком МСФО 1П 2026, 28.08.2026",
+      "url": "https://fomag.ru/news/rostelekom-tsifrovye-servisy-uskoryayut-rost-vyruchki-no-denezhnyy-potok-ostaetsya-odnoy-iz-glavnykh/"
+    },
+    {
+      "title": "dohod.ru: история дивидендов Ростелекома (сверка)",
+      "url": "https://www.dohod.ru/ik/analytics/dividend/rtkm"
+    },
+    {
+      "title": "investmint: Ростелеком (цена)",
+      "url": "https://investmint.ru/rtkm/"
+    }
+  ]
+}

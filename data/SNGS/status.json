@@ -1,0 +1,99 @@
+{
+  "asset_id": "SNGS",
+  "status": {
+    "verdict": "sell_candidate",
+    "updated": "2026-10-30"
+  },
+  "criteria": {
+    "C1": {
+      "status": "pass",
+      "note": "Добыча и переработка нефти"
+    },
+    "C2": {
+      "status": "pass",
+      "note": "Нефтедобыча и НПЗ — простая сырьевая модель"
+    },
+    "C3": {
+      "status": "n/a",
+      "note": "нет фактов для оценки; с 10.01.2025 в блокирующих санкциях США"
+    },
+    "C4": {
+      "status": "n/a",
+      "note": "нет фактов для оценки"
+    },
+    "C5": {
+      "status": "n/a",
+      "note": "нет фактов для оценки; конечные владельцы не раскрыты"
+    },
+    "C6": {
+      "status": "fail",
+      "note": "Чистый убыток РСБУ 2025 251,2 млрд ₽ (2024: прибыль 923,3 млрд); дивиденд по обыкн. акциям малый — 0,85 ₽ за 2025 г. (4,8% к цене); финпоказатели раскрываются ограниченно"
+    },
+    "C7": {
+      "status": "n/a",
+      "note": "не потребительская компания"
+    },
+    "C8": {
+      "status": "pass",
+      "note": "Экспортёр нефти и нефтепродуктов"
+    },
+    "P1": {
+      "status": "fail",
+      "note": "LTM 0,85 ₽ (отсечка 16.07.2026) / 17,85 ₽ (30.10.2026) = 4,8% < 5%"
+    },
+    "P2": {
+      "status": "warn",
+      "note": "Brent >106$ (12.10.2026, ICE) против ~82$ в среднем за 2024 и ~69$ за 2025 — высокая фаза цикла"
+    },
+    "P3": {
+      "status": "n/a",
+      "note": "не фонд недвижимости"
+    }
+  },
+  "watch": [
+    "РСБУ за 9М 2026 и 2026 г. (знак переоценки валютных активов)",
+    "Рекомендация СД по дивидендам за 2026 г. (май 2027)",
+    "Санкции США и цена Urals"
+  ],
+  "metrics": {
+    "price_rub": 17.85,
+    "price_date": "2026-10-30",
+    "div_ttm_rub": 0.85,
+    "yield_pct": 4.76,
+    "net_profit_2025_ras_bn_rub": -251.2
+  },
+  "sources": [
+    {
+      "title": "The Moscow Times: убыток Сургутнефтегаза по РСБУ за 2025 г. (31.03.2026)",
+      "url": "https://ru.themoscowtimes.com/2026/03/31/surgutneftegaz-v-25g-poluchil-ubytok-po-rsbu-v-razmere-2512-mlrd-r-a191352"
+    },
+    {
+      "title": "Эксперт: СД Сургутнефтегаза рекомендовал 0,85 ₽ за 2025 г. (15.05.2026)",
+      "url": "https://expert.ru/news/sovet-direktorov-surgutneftegaza-rekomendoval-dividendy-za-2025-god"
+    },
+    {
+      "title": "Интерфакс: дивиденды SNGS",
+      "url": "https://www.interfax.ru/quote/SNGS/Dividends"
+    },
+    {
+      "title": "investmint: цена SNGS (30.10.2026)",
+      "url": "https://investmint.ru/sngs/"
+    },
+    {
+      "title": "dohod.ru: история дивидендов SNGS (сверка)",
+      "url": "https://dohod.ru/ik/analytics/dividend/sngs"
+    },
+    {
+      "title": "Санкции США против Сургутнефтегаза и Газпром нефти (10.01.2025)",
+      "url": "https://www.kelleydrye.com/viewpoints/blogs/trade-and-manufacturing-monitor/ofac-issues-new-determinations-sanctions-targeting-russian-energy-and-petroleum"
+    },
+    {
+      "title": "Financial One: Brent превысила 106$ (12.10.2026)",
+      "url": "https://fomag.ru/news-streem/tsena-brent-na-birzhe-ice-prevyshala-106-za-barrel-vpervye-s-29-sentyabrya/"
+    },
+    {
+      "title": "Т—Ж: цены на нефть (средние 2024–2025)",
+      "url": "https://t-j.ru/oil-price-2026/"
+    }
+  ]
+}

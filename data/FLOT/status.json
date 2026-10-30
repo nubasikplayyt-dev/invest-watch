@@ -1,0 +1,90 @@
+{
+  "asset_id": "FLOT",
+  "status": {
+    "verdict": "sell_candidate",
+    "updated": "2026-10-30"
+  },
+  "criteria": {
+    "C1": {
+      "status": "pass",
+      "note": "Морские перевозки"
+    },
+    "C2": {
+      "status": "pass",
+      "note": "Танкерные перевозки нефти и газа, долгосрочные контракты"
+    },
+    "C3": {
+      "status": "warn",
+      "note": "Под санкциями США (с 02.2024), UK, ЕС; убыток 2025 г. связан с санкциями против флота; государство 82,8%"
+    },
+    "C4": {
+      "status": "n/a",
+      "note": "нет фактов для оценки"
+    },
+    "C5": {
+      "status": "n/a",
+      "note": "нет фактов для оценки"
+    },
+    "C6": {
+      "status": "fail",
+      "note": "Убыток МСФО 2025 г. 53,55 млрд ₽; дивиденд 4,87 ₽ за 2025 г. из нераспределённой прибыли прошлых лет; за 2024 г. дивидендов не было; 1П26 прибыль $284 млн"
+    },
+    "C7": {
+      "status": "n/a",
+      "note": "не потребительская компания"
+    },
+    "C8": {
+      "status": "pass",
+      "note": "Международные перевозки, выручка в USD"
+    },
+    "P1": {
+      "status": "pass",
+      "note": "LTM 4,87 ₽ (отсечка 16.07.2026) = 5,4% при цене 89,47 ₽ (30.10.2026)"
+    },
+    "P2": {
+      "status": "n/a",
+      "note": "нет данных о фазе фрахтового цикла"
+    },
+    "P3": {
+      "status": "n/a",
+      "note": "не фонд недвижимости"
+    }
+  },
+  "watch": [
+    "МСФО за 9М 2026",
+    "Изменения санкций против компании и флота",
+    "Рекомендация дивидендов за 2026 г. (май 2027)"
+  ],
+  "metrics": {
+    "price_rub": 89.47,
+    "price_date": "2026-10-30",
+    "div_ttm_rub": 4.87,
+    "yield_pct": 5.4
+  },
+  "sources": [
+    {
+      "title": "Smart-lab: котировки акций Мосбиржи (30.10.2026, ~19:08 МСК)",
+      "url": "https://smart-lab.ru/q/shares/"
+    },
+    {
+      "title": "Эксперт: СД Совкомфлота рекомендовал дивиденды впервые с 2024 года (25.05.2026)",
+      "url": "https://expert.ru/news/sovet-direktorov-sovkomflota-rekomendoval-dividendy-vpervye-s-2024-goda"
+    },
+    {
+      "title": "The Moscow Times (Reuters): Совкомфлот получил прибыль в 1П 2026",
+      "url": "https://ru.themoscowtimes.com/2026/08/28/sovkomflot-poluchil-190-mln-pribyli-protiv-ubytka-v-proshlom-godu-a204597"
+    },
+    {
+      "title": "Finmarket: ГОСА Совкомфлота, доля РФ 82,8% (26.06.2026)",
+      "url": "https://www.finmarket.ru/news/6651551"
+    },
+    {
+      "title": "Lloyd's List: US sanctions Sovcomflot",
+      "url": "https://www.lloydslist.com/LL1148365/US-sanctions-Russias-Sovcomflot-and-14-crude-tankers-in-next-step-of-price-cap-enforcement"
+    },
+    {
+      "title": "Investmint: история дивидендов FLOT",
+      "url": "https://investmint.ru/flot/divs/"
+    }
+  ]
+}

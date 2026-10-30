@@ -1,0 +1,100 @@
+{
+  "asset_id": "TRNFP",
+  "currency": "RUB",
+  "by_year": [
+    {
+      "year": 2016,
+      "total": 8.23
+    },
+    {
+      "year": 2017,
+      "total": 81.71
+    },
+    {
+      "year": 2018,
+      "total": 75.78
+    },
+    {
+      "year": 2019,
+      "total": 107.06
+    },
+    {
+      "year": 2020,
+      "total": 116.12
+    },
+    {
+      "year": 2021,
+      "total": 92.24
+    },
+    {
+      "year": 2022,
+      "total": 104.97
+    },
+    {
+      "year": 2023,
+      "total": 166.65
+    },
+    {
+      "year": 2024,
+      "total": 177.2
+    },
+    {
+      "year": 2025,
+      "total": 198.25
+    },
+    {
+      "year": 2026,
+      "total": 204.17
+    }
+  ],
+  "payments": [
+    {
+      "record_date": "2016-07-20",
+      "amount": 8.23
+    },
+    {
+      "record_date": "2017-07-20",
+      "amount": 42.96
+    },
+    {
+      "record_date": "2017-09-19",
+      "amount": 38.75
+    },
+    {
+      "record_date": "2018-07-10",
+      "amount": 75.78
+    },
+    {
+      "record_date": "2019-07-20",
+      "amount": 107.06
+    },
+    {
+      "record_date": "2020-10-20",
+      "amount": 116.12
+    },
+    {
+      "record_date": "2021-07-19",
+      "amount": 92.24
+    },
+    {
+      "record_date": "2022-07-20",
+      "amount": 104.97
+    },
+    {
+      "record_date": "2023-07-20",
+      "amount": 166.65
+    },
+    {
+      "record_date": "2024-07-18",
+      "amount": 177.2
+    },
+    {
+      "record_date": "2025-07-17",
+      "amount": 198.25
+    },
+    {
+      "record_date": "2026-07-20",
+      "amount": 204.17
+    }
+  ]
+}

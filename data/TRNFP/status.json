@@ -1,0 +1,90 @@
+{
+  "asset_id": "TRNFP",
+  "status": {
+    "verdict": "buy_zone",
+    "updated": "2026-10-30"
+  },
+  "criteria": {
+    "C1": {
+      "status": "pass",
+      "note": "Транспортировка нефти и нефтепродуктов — инфраструктура торговых путей"
+    },
+    "C2": {
+      "status": "pass",
+      "note": "Трубопроводная монополия с тарифом: тариф 2026 +5,1%, ФАС предложила +4,99% с 01.01.2027"
+    },
+    "C3": {
+      "status": "n/a",
+      "note": "нет фактов для оценки"
+    },
+    "C4": {
+      "status": "n/a",
+      "note": "нет фактов для оценки"
+    },
+    "C5": {
+      "status": "n/a",
+      "note": "нет фактов для оценки; мажоритарий — РФ; налог на прибыль 40% (учтено в C6)"
+    },
+    "C6": {
+      "status": "pass",
+      "note": "Чистая денежная позиция (на 30.06.2026 денежные средства и депозиты 442,5 млрд ₽ против долга 157,4 млрд ₽); дивиденды растут: 177,2 → 198,25 → 204,17 ₽; прибыль 1П 2026 148,3 млрд ₽ (−3,3%) при налоге 40%"
+    },
+    "C7": {
+      "status": "n/a",
+      "note": "не потребительская компания"
+    },
+    "C8": {
+      "status": "n/a",
+      "note": "не экспортёр (выручка — рублёвые тарифы)"
+    },
+    "P1": {
+      "status": "pass",
+      "note": "204,17 ₽ за 12 мес. (отсечка 20.07.2026) / 1067,8 ₽ (30.10.2026) ≈ 19,1%"
+    },
+    "P2": {
+      "status": "n/a",
+      "note": "не сырьевик"
+    },
+    "P3": {
+      "status": "n/a",
+      "note": "не фонд недвижимости"
+    }
+  },
+  "watch": [
+    "РСБУ/МСФО за 2026 г. (МСФО за 9М компания не публикует)",
+    "Решение по дивидендам за 2026 г. (июнь 2027)",
+    "Налог на прибыль 40% и индексация тарифов 2027"
+  ],
+  "metrics": {
+    "price_rub": 1067.8,
+    "price_date": "2026-10-30",
+    "div_ttm_rub": 204.17,
+    "yield_pct": 19.12,
+    "net_debt_to_ebitda": "чистая денежная позиция",
+    "net_debt_to_ebitda_period": "30.06.2026",
+    "net_profit_1h2026_bn_rub": 148.3,
+    "ebitda_1h2026_bn_rub": 294.9
+  },
+  "sources": [
+    {
+      "title": "Reuters/The Moscow Times: Транснефть выплатит дивиденды за 2025 г. 204,17 ₽, 17.07.2026",
+      "url": "https://ru.themoscowtimes.com/2026/07/17/transneft-vyplatit-dividendy-za-25g-v-razmere-20417-rakts-a201157"
+    },
+    {
+      "title": "Reuters/The Moscow Times: МСФО Транснефти за 2 кв. 2026, 28.08.2026",
+      "url": "https://ru.themoscowtimes.com/2026/08/28/transneft-narastila-chistuyu-pribyl-aktsionerov-po-msfovo-2-kv-na-3-gg-a204660"
+    },
+    {
+      "title": "Fomag: Транснефть МСФО 1П 2026 (EBITDA, долг, налог 40%)",
+      "url": "https://fomag.ru/news/transneft-rost-vyruchki-ne-kompensiruet-uvelichenie-raskhodov-dividendy-ostayutsya-glavnym-drayverom/"
+    },
+    {
+      "title": "dohod.ru: история дивидендов Транснефти ап (сверка, с учётом сплита 1:100)",
+      "url": "https://www.dohod.ru/ik/analytics/dividend/trnfp"
+    },
+    {
+      "title": "investmint: Транснефть ап (цена)",
+      "url": "https://investmint.ru/trnfp/"
+    }
+  ]
+}

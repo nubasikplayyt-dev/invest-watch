@@ -1,0 +1,60 @@
+{
+  "asset_id": "T",
+  "currency": "RUB",
+  "by_year": [
+    {
+      "year": 2022,
+      "total": 0
+    },
+    {
+      "year": 2023,
+      "total": 0
+    },
+    {
+      "year": 2024,
+      "total": 9.25
+    },
+    {
+      "year": 2025,
+      "total": 10.0
+    },
+    {
+      "year": 2026,
+      "total": 17.4
+    }
+  ],
+  "payments": [
+    {
+      "record_date": "2024-11-25",
+      "amount": 9.25
+    },
+    {
+      "record_date": "2025-05-16",
+      "amount": 3.2
+    },
+    {
+      "record_date": "2025-07-17",
+      "amount": 3.3
+    },
+    {
+      "record_date": "2025-10-06",
+      "amount": 3.5
+    },
+    {
+      "record_date": "2026-01-08",
+      "amount": 3.6
+    },
+    {
+      "record_date": "2026-05-25",
+      "amount": 4.5
+    },
+    {
+      "record_date": "2026-08-10",
+      "amount": 4.6
+    },
+    {
+      "record_date": "2026-10-12",
+      "amount": 4.7
+    }
+  ]
+}

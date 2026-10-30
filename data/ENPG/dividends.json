@@ -1,0 +1,56 @@
+{
+  "asset_id": "ENPG",
+  "currency": "RUB",
+  "by_year": [
+    {
+      "year": 2017,
+      "total": 12.93
+    },
+    {
+      "year": 2018,
+      "total": 6.84
+    },
+    {
+      "year": 2019,
+      "total": 0.0
+    },
+    {
+      "year": 2020,
+      "total": 0.0
+    },
+    {
+      "year": 2021,
+      "total": 0.0
+    },
+    {
+      "year": 2022,
+      "total": 0.0
+    },
+    {
+      "year": 2023,
+      "total": 0.0
+    },
+    {
+      "year": 2024,
+      "total": 0.0
+    },
+    {
+      "year": 2025,
+      "total": 0.0
+    },
+    {
+      "year": 2026,
+      "total": 0.0
+    }
+  ],
+  "payments": [
+    {
+      "record_date": "2017-11-30",
+      "amount": 12.93
+    },
+    {
+      "record_date": "2018-03-21",
+      "amount": 6.84
+    }
+  ]
+}
