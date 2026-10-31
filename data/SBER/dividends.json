@@ -1,6 +1,102 @@
 {
   "asset_id": "SBER",
   "currency": "RUB",
-  "by_year": [],
-  "payments": []
+  "basis": "год по дате закрытия реестра",
+  "by_year": [
+    {
+      "year": 2026,
+      "total": 37.64
+    },
+    {
+      "year": 2025,
+      "total": 34.84
+    },
+    {
+      "year": 2024,
+      "total": 33.3
+    },
+    {
+      "year": 2023,
+      "total": 25
+    },
+    {
+      "year": 2021,
+      "total": 18.7
+    },
+    {
+      "year": 2020,
+      "total": 18.7
+    },
+    {
+      "year": 2019,
+      "total": 16
+    },
+    {
+      "year": 2018,
+      "total": 12
+    },
+    {
+      "year": 2017,
+      "total": 6
+    },
+    {
+      "year": 2016,
+      "total": 1.97
+    }
+  ],
+  "payments": [
+    {
+      "record_date": "2026-07-20",
+      "period": "2025",
+      "amount": 37.64
+    },
+    {
+      "record_date": "2025-07-18",
+      "period": "2024",
+      "amount": 34.84
+    },
+    {
+      "record_date": "2024-07-11",
+      "period": "2023",
+      "amount": 33.3
+    },
+    {
+      "record_date": "2023-05-11",
+      "period": "2022",
+      "amount": 25
+    },
+    {
+      "record_date": "2021-05-12",
+      "period": "2020",
+      "amount": 18.7
+    },
+    {
+      "record_date": "2020-10-05",
+      "period": "2019",
+      "amount": 18.7
+    },
+    {
+      "record_date": "2019-06-13",
+      "period": "2018",
+      "amount": 16
+    },
+    {
+      "record_date": "2018-06-26",
+      "period": "2017",
+      "amount": 12
+    },
+    {
+      "record_date": "2017-06-14",
+      "period": "2016",
+      "amount": 6
+    },
+    {
+      "record_date": "2016-06-14",
+      "period": "2015",
+      "amount": 1.97
+    }
+  ],
+  "source": "https://investmint.ru/sber/divs/",
+  "updated": "2026-11-01",
+  "note": "За 2021 г. дивиденды не выплачивались (решение 2022 г.)."
 }

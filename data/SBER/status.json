@@ -1,7 +1,7 @@
 {
   "status": {
     "verdict": "buy_zone",
-    "updated": "2026-10-30"
+    "updated": "2026-11-01"
   },
   "criteria": {
     "C1": {
@@ -45,8 +45,68 @@
     }
   },
   "watch": [
-    "Резервы и стоимость риска во 2П 2026 и 2027",
-    "Рекомендация дивидендов за 2026 г. (весна 2027)"
+    "Резервы и стоимость риска (4К 2026, 2027)",
+    "Достаточность капитала",
+    "Рекомендация дивидендов за 2026 г. (весна 2027), политика 50% прибыли",
+    "Цель по прибыли ~2 трлн ₽ за 2026"
   ],
-  "asset_id": "SBER"
+  "asset_id": "SBER",
+  "metrics": {
+    "as_of": "2026-10-31",
+    "price_rub": {
+      "value": 300,
+      "note": "акции преодолели 300 ₽ 28.10.2026",
+      "source": "https://ru.themoscowtimes.com/2026/10/28/update-1-sberbank-uvelichil-pribyl-v-3-kv-do-511-mlrd-r-aktsii-rastut-a209808"
+    },
+    "last_dividend_rub": {
+      "value": 37.64,
+      "period": "2025",
+      "record_date": "2026-07-20",
+      "source": "https://investmint.ru/sber/divs/"
+    },
+    "dividend_yield_pct": {
+      "value": 12.5,
+      "note": "37,64 / ~300 ₽; порог RU 5% — пройден"
+    },
+    "payout_policy": {
+      "value": "50% чистой прибыли МСФО",
+      "source": "https://fomag.ru/news-streem/sber-zavershil-vyplatu-rekordnykh-dividendov-za-2025-g-v-razmere-850-2-mlrd-rubley/"
+    },
+    "net_profit_9m2026_trn_rub": {
+      "value": 1.53,
+      "yoy_pct": 17.0,
+      "source": "https://ru.themoscowtimes.com/2026/10/28/update-1-sberbank-uvelichil-pribyl-v-3-kv-do-511-mlrd-r-aktsii-rastut-a209808"
+    },
+    "net_profit_3q2026_bn_rub": {
+      "value": 510.8,
+      "yoy_pct": 13.9
+    },
+    "net_profit_2025_trn_rub": {
+      "value": 1.7,
+      "note": ">1,7 трлн, +7,9% г/г",
+      "source": "https://expert.ru/news/nabsovet-sberbanka-rekomendoval-dividendy-za-2025-god-v-razmere-37-64-rublya-na-aktsiyu"
+    },
+    "roe_pct": {
+      "q3_2026": 23.5,
+      "9m_2026": 24.0
+    },
+    "cost_of_risk_pct": {
+      "q3_2026": 1.1,
+      "note": "−0,3 п.п. г/г"
+    },
+    "loans": {
+      "corporate_trn_rub": 34.2,
+      "retail_trn_rub": 20.9,
+      "mortgage_trn_rub": 13.6,
+      "note": "на 30.09.2026; корпоративный +9,6%, розничный +8,6% с начала года"
+    },
+    "company_guidance_2026": {
+      "value": "чистая прибыль около 2 трлн ₽ (заявление банка)",
+      "note": "ориентир самой компании, не прогноз аналитиков"
+    },
+    "capital_adequacy": {
+      "value": null,
+      "note": "не найдено в открытых источниках этого запуска — агент дополнит"
+    }
+  }
 }

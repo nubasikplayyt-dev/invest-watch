@@ -1,6 +1,160 @@
 {
   "asset_id": "SIBN",
   "currency": "RUB",
-  "by_year": [],
-  "payments": []
+  "basis": "год по дате закрытия реестра",
+  "by_year": [
+    {
+      "year": 2026,
+      "total": 70.62
+    },
+    {
+      "year": 2025,
+      "total": 44.51
+    },
+    {
+      "year": 2024,
+      "total": 71.45
+    },
+    {
+      "year": 2023,
+      "total": 95.1
+    },
+    {
+      "year": 2022,
+      "total": 85.78
+    },
+    {
+      "year": 2021,
+      "total": 50
+    },
+    {
+      "year": 2020,
+      "total": 24.82
+    },
+    {
+      "year": 2019,
+      "total": 26.09
+    },
+    {
+      "year": 2018,
+      "total": 27.05
+    },
+    {
+      "year": 2017,
+      "total": 20.68
+    },
+    {
+      "year": 2016,
+      "total": 0.55
+    }
+  ],
+  "payments": [
+    {
+      "record_date": "2026-10-13",
+      "period": "1П 2026",
+      "amount": 42.51
+    },
+    {
+      "record_date": "2026-07-06",
+      "period": "2025",
+      "amount": 28.11
+    },
+    {
+      "record_date": "2025-10-13",
+      "period": "1П 2025",
+      "amount": 17.3
+    },
+    {
+      "record_date": "2025-07-08",
+      "period": "2024",
+      "amount": 27.21
+    },
+    {
+      "record_date": "2024-10-14",
+      "period": "1П 2024",
+      "amount": 51.96
+    },
+    {
+      "record_date": "2024-07-08",
+      "period": "2023",
+      "amount": 19.49
+    },
+    {
+      "record_date": "2023-12-27",
+      "period": "9М 2023",
+      "amount": 82.94
+    },
+    {
+      "record_date": "2023-07-10",
+      "period": "2022",
+      "amount": 12.16
+    },
+    {
+      "record_date": "2022-12-30",
+      "period": "9М 2022",
+      "amount": 69.78
+    },
+    {
+      "record_date": "2022-07-08",
+      "period": "2021",
+      "amount": 16
+    },
+    {
+      "record_date": "2021-12-28",
+      "period": "9М 2021",
+      "amount": 40
+    },
+    {
+      "record_date": "2021-06-25",
+      "period": "2020",
+      "amount": 10
+    },
+    {
+      "record_date": "2020-12-29",
+      "period": "9М 2020",
+      "amount": 5
+    },
+    {
+      "record_date": "2020-06-26",
+      "period": "2019",
+      "amount": 19.82
+    },
+    {
+      "record_date": "2019-10-18",
+      "period": "6М 2019",
+      "amount": 18.14
+    },
+    {
+      "record_date": "2019-07-01",
+      "period": "2018",
+      "amount": 7.95
+    },
+    {
+      "record_date": "2018-12-28",
+      "period": "9М 2018",
+      "amount": 22.05
+    },
+    {
+      "record_date": "2018-06-26",
+      "period": "2017",
+      "amount": 5
+    },
+    {
+      "record_date": "2017-12-29",
+      "period": "9М 2017",
+      "amount": 10
+    },
+    {
+      "record_date": "2017-06-26",
+      "period": "2016",
+      "amount": 10.68
+    },
+    {
+      "record_date": "2016-06-27",
+      "period": "2015",
+      "amount": 0.55
+    }
+  ],
+  "source": "https://investmint.ru/sibn/",
+  "updated": "2026-11-01"
 }

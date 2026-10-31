@@ -1,6 +1,227 @@
 {
   "asset_id": "PHOR",
   "currency": "RUB",
-  "by_year": [],
-  "payments": []
+  "basis": "год по дате закрытия реестра",
+  "by_year": [
+    {
+      "year": 2025,
+      "total": 360
+    },
+    {
+      "year": 2024,
+      "total": 552
+    },
+    {
+      "year": 2023,
+      "total": 1020
+    },
+    {
+      "year": 2022,
+      "total": 1098
+    },
+    {
+      "year": 2021,
+      "total": 558
+    },
+    {
+      "year": 2020,
+      "total": 300
+    },
+    {
+      "year": 2019,
+      "total": 249
+    },
+    {
+      "year": 2018,
+      "total": 105
+    },
+    {
+      "year": 2017,
+      "total": 114
+    },
+    {
+      "year": 2016,
+      "total": 153
+    }
+  ],
+  "payments": [
+    {
+      "record_date": "2025-10-01",
+      "period": "1П 2025",
+      "amount": 273
+    },
+    {
+      "record_date": "2025-06-09",
+      "period": "4КВ 2024",
+      "amount": 87
+    },
+    {
+      "record_date": "2024-12-22",
+      "period": "3КВ 2024",
+      "amount": 126
+    },
+    {
+      "record_date": "2024-09-22",
+      "period": "2КВ 2024",
+      "amount": 117
+    },
+    {
+      "record_date": "2024-07-11",
+      "period": "1КВ 2024",
+      "amount": 15
+    },
+    {
+      "record_date": "2024-07-11",
+      "period": "4КВ 2023",
+      "amount": 294
+    },
+    {
+      "record_date": "2023-12-25",
+      "period": "3КВ 2023",
+      "amount": 291
+    },
+    {
+      "record_date": "2023-07-11",
+      "period": "1КВ 2023",
+      "amount": 264
+    },
+    {
+      "record_date": "2023-04-04",
+      "period": "4КВ 2022",
+      "amount": 465
+    },
+    {
+      "record_date": "2022-12-19",
+      "period": "3КВ 2022",
+      "amount": 318
+    },
+    {
+      "record_date": "2022-10-03",
+      "period": "1П 2022",
+      "amount": 780
+    },
+    {
+      "record_date": "2021-12-20",
+      "period": "3КВ 2021",
+      "amount": 234
+    },
+    {
+      "record_date": "2021-09-24",
+      "period": "2КВ 2021",
+      "amount": 156
+    },
+    {
+      "record_date": "2021-07-05",
+      "period": "1КВ 2021",
+      "amount": 105
+    },
+    {
+      "record_date": "2021-06-07",
+      "period": "4КВ 2020",
+      "amount": 63
+    },
+    {
+      "record_date": "2020-12-25",
+      "period": "3КВ 2020",
+      "amount": 123
+    },
+    {
+      "record_date": "2020-10-15",
+      "period": "2КВ 2020",
+      "amount": 33
+    },
+    {
+      "record_date": "2020-07-06",
+      "period": "1КВ 2020",
+      "amount": 78
+    },
+    {
+      "record_date": "2020-06-02",
+      "period": "2019",
+      "amount": 18
+    },
+    {
+      "record_date": "2020-02-04",
+      "period": "4КВ 2019",
+      "amount": 48
+    },
+    {
+      "record_date": "2019-10-15",
+      "period": "2КВ 2019",
+      "amount": 54
+    },
+    {
+      "record_date": "2019-07-10",
+      "period": "1КВ 2019",
+      "amount": 72
+    },
+    {
+      "record_date": "2019-06-10",
+      "period": "2018",
+      "amount": 51
+    },
+    {
+      "record_date": "2019-02-04",
+      "period": "3КВ 2018",
+      "amount": 72
+    },
+    {
+      "record_date": "2018-10-12",
+      "period": "2КВ 2018",
+      "amount": 45
+    },
+    {
+      "record_date": "2018-07-23",
+      "period": "1КВ 2018",
+      "amount": 24
+    },
+    {
+      "record_date": "2018-06-13",
+      "period": "2017",
+      "amount": 15
+    },
+    {
+      "record_date": "2018-03-12",
+      "period": "4КВ 2017",
+      "amount": 21
+    },
+    {
+      "record_date": "2017-10-13",
+      "period": "2КВ 2017",
+      "amount": 24
+    },
+    {
+      "record_date": "2017-07-17",
+      "period": "1КВ 2017",
+      "amount": 21
+    },
+    {
+      "record_date": "2017-06-13",
+      "period": "2016",
+      "amount": 30
+    },
+    {
+      "record_date": "2017-01-27",
+      "period": "3КВ 2016",
+      "amount": 39
+    },
+    {
+      "record_date": "2016-10-14",
+      "period": "2КВ 2016",
+      "amount": 33
+    },
+    {
+      "record_date": "2016-08-10",
+      "period": "1КВ 2016",
+      "amount": 63
+    },
+    {
+      "record_date": "2016-06-11",
+      "period": "2015",
+      "amount": 57
+    }
+  ],
+  "source": "https://investmint.ru/phor/divs/",
+  "updated": "2026-11-01",
+  "note": "За 2025 г. финальные дивиденды не рекомендованы (СД, май 2026). Периоды до 2020 г. в источнике помечены «НП» — подставлены по смыслу, сверить с раскрытием. В источнике есть строка «309 ₽, реестр 13.12.2026» без подтверждения решением СД — не включена."
 }
