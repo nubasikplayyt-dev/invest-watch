@@ -2,7 +2,7 @@
   "asset_id": "SVCB",
   "status": {
     "verdict": "sell_candidate",
-    "updated": "2026-10-30"
+    "updated": "2026-10-31"
   },
   "criteria": {
     "C1": {
@@ -56,10 +56,10 @@
     "Требования ЦБ к капиталу"
   ],
   "metrics": {
-    "price_rub": 10.7,
+    "price_rub": 10.745,
     "price_date": "2026-10-30",
     "div_ttm_rub": 0.35,
-    "yield_pct": 3.27,
+    "yield_pct": 3.26,
     "payout_pct": 15
   },
   "sources": [

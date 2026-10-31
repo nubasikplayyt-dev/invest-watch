@@ -2,7 +2,7 @@
   "asset_id": "PLZL",
   "status": {
     "verdict": "sell_candidate",
-    "updated": "2026-10-30"
+    "updated": "2026-10-31"
   },
   "criteria": {
     "C1": {
@@ -56,10 +56,10 @@
     "Цена золота"
   ],
   "metrics": {
-    "price_rub": 1061.4,
-    "price_date": "2026-10-30",
+    "price_rub": 1046.8,
+    "price_date": "2026-10-29",
     "div_ttm_rub": 121.85,
-    "yield_pct": 11.48,
+    "yield_pct": 11.64,
     "net_profit_1h2026_mln_usd": 829,
     "gold_usd_oz": 4030.48,
     "gold_date": "2026-10-29"

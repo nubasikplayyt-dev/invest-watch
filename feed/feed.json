@@ -1,6 +1,489 @@
 {
-  "generated_at": "2026-10-30T19:45:00+03:00",
+  "generated_at": "2026-10-31T18:00:00+03:00",
   "items": [
+    {
+      "id": "PHOR-20261030-div-rec-309",
+      "asset_id": "PHOR",
+      "date": "2026-10-30",
+      "detected_at": "2026-10-31T18:00:00+03:00",
+      "type": "dividend",
+      "importance": "critical",
+      "title": "ФосАгро: СД рекомендовал 309 ₽ на акцию, отсечка 13.12.2026",
+      "summary": "Совет директоров ФосАгро 30.10.2026 рекомендовал внеочередному собранию акционеров выплатить 309 ₽ на акцию из нераспределённой прибыли прошлых лет; рекомендованная дата отсечки — 13.12.2026, дата ВОСА в сообщении не указана. Выплата прерывает паузу в дивидендах. При цене 5 498 ₽ (30.10) разовая доходность ~5,6% — выше порога 5% и выше нормализованного минимума 287 ₽ из статуса, но удобрения на пике цикла (P2 warn), поэтому P1 остаётся warn. C6 — решение владельца (warn), контроль — долг и дивиденды за 2026 г.",
+      "metrics": {
+        "dividend_rub": 309,
+        "record_date": "2026-12-13",
+        "price_rub": 5498,
+        "price_date": "2026-10-30",
+        "yield_pct": 5.62
+      },
+      "criteria": {
+        "C6": {
+          "status": "warn",
+          "note": "Решение владельца; рекомендована выплата 309 ₽ из прибыли прошлых лет"
+        },
+        "P1": {
+          "status": "warn",
+          "note": "309 ₽ ≈5,6% к 5 498 ₽ — выше порога, но пик цикла (P2)"
+        },
+        "P2": {
+          "status": "warn",
+          "note": "Удобрения на пике цикла"
+        }
+      },
+      "verdict": "watch",
+      "sources": [
+        {
+          "title": "ПРАЙМ: Совет директоров «Фосагро» рекомендовал дивиденды в 309 рублей на акцию",
+          "url": "https://1prime.ru/20261030/fosagro-874835169.html"
+        }
+      ],
+      "notify": true
+    },
+    {
+      "id": "SIBN-20261030-rsbu-9m2026",
+      "asset_id": "SIBN",
+      "date": "2026-10-30",
+      "detected_at": "2026-10-31T18:00:00+03:00",
+      "type": "financial_report",
+      "importance": "high",
+      "title": "Газпром нефть: РСБУ 9М 2026 — чистая прибыль 369,3 млрд ₽, выручка 2,4 трлн ₽",
+      "summary": "Газпром нефть опубликовала РСБУ за 9М 2026: чистая прибыль 369,27 млрд ₽, выручка 2,397 трлн ₽ (+10,2% г/г), валовая прибыль 621,7 млрд ₽. Темп роста прибыли источники приводят по-разному (+28% и +60%), поэтому в оценку не берётся. Параллельно 30.10 OFAC продлил операционную лицензию сербской NIS (44,85% у Газпром нефти) до 11.12.2026. Статусы критериев не меняются: C6 warn (долг), P2 warn (пик цикла).",
+      "metrics": {
+        "net_profit_9m_ras_bn_rub": 369.27,
+        "revenue_9m_ras_trn_rub": 2.397,
+        "price_rub": 567.15,
+        "price_date": "2026-10-31"
+      },
+      "criteria": {
+        "C6": {
+          "status": "warn",
+          "note": "Прибыль РСБУ 9М 369 млрд ₽; долг >1 трлн ₽"
+        },
+        "P1": {
+          "status": "pass",
+          "note": "≥12% LTM при ~567 ₽"
+        }
+      },
+      "verdict": "buy_zone",
+      "sources": [
+        {
+          "title": "ПРАЙМ: РСБУ Газпром нефти за 9 месяцев",
+          "url": "https://1prime.ru/20261030/rsb-874834551.html"
+        },
+        {
+          "title": "Smart-lab: Газпром нефть РСБУ 9М 2026",
+          "url": "https://smart-lab.ru/blog/news/1369100.php"
+        }
+      ],
+      "notify": true
+    },
+    {
+      "id": "TRNFP-20261030-rsbu-9m2026",
+      "asset_id": "TRNFP",
+      "date": "2026-10-30",
+      "detected_at": "2026-10-31T18:00:00+03:00",
+      "type": "financial_report",
+      "importance": "high",
+      "title": "Транснефть: РСБУ 9М 2026 — чистая прибыль 88,2 млрд ₽ (−16%)",
+      "summary": "Транснефть отчиталась по РСБУ за 9М 2026: чистая прибыль 88,2 млрд ₽ (−16% г/г), выручка 983,6 млрд ₽ (+3%). Снижение связывают с отрицательной переоценкой акций НМТП и процентными расходами. 28.10 НКР подтвердило рейтинг AAA.ru со стабильным прогнозом. Дивиденд считается от МСФО, C6 остаётся pass; доходность ~19% выше порога.",
+      "metrics": {
+        "net_profit_9m_ras_bn_rub": 88.2,
+        "revenue_9m_ras_bn_rub": 983.6,
+        "price_rub": 1070,
+        "price_date": "2026-10-31"
+      },
+      "criteria": {
+        "C6": {
+          "status": "pass",
+          "note": "Падение прибыли РСБУ из-за переоценки; рейтинг AAA.ru подтверждён"
+        },
+        "P1": {
+          "status": "pass",
+          "note": "~19% LTM"
+        }
+      },
+      "verdict": "buy_zone",
+      "sources": [
+        {
+          "title": "Инвестминт: новости Транснефти (Интерфакс, Прайм)",
+          "url": "https://investmint.ru/trnfp/news/"
+        }
+      ],
+      "notify": true
+    },
+    {
+      "id": "IRAO-20261030-rsbu-9m2026",
+      "asset_id": "IRAO",
+      "date": "2026-10-30",
+      "detected_at": "2026-10-31T18:00:00+03:00",
+      "type": "financial_report",
+      "importance": "high",
+      "title": "Интер РАО: РСБУ 9М 2026 — прибыль 16,6 млрд ₽ (+14,3%), чистая денежная позиция",
+      "summary": "Интер РАО опубликовала РСБУ за 9М 2026: чистая прибыль 16,6 млрд ₽ (+14,3% г/г), выручка 47,1 млрд ₽ (+10,1%). Кредиты и займы снизились до 201 млрд ₽ с 276 млрд, денежные средства 168,6 млрд ₽, чистый долг отрицательный (−47 млрд ₽). C6 подтверждается (pass), доходность ~11,4% выше порога.",
+      "metrics": {
+        "net_profit_9m_ras_bn_rub": 16.6,
+        "revenue_9m_ras_bn_rub": 47.1,
+        "debt_bn_rub": 201,
+        "net_debt_bn_rub": -47,
+        "price_rub": 2.812,
+        "price_date": "2026-10-31"
+      },
+      "criteria": {
+        "C6": {
+          "status": "pass",
+          "note": "Прибыль +14%, долг −27%, чистая денежная позиция"
+        },
+        "P1": {
+          "status": "pass",
+          "note": "~11,4% LTM"
+        }
+      },
+      "verdict": "buy_zone",
+      "sources": [
+        {
+          "title": "Инвестминт: новости Интер РАО (Интерфакс)",
+          "url": "https://investmint.ru/irao/news/"
+        }
+      ],
+      "notify": true
+    },
+    {
+      "id": "GMKN-20261030-rsbu-9m2026",
+      "asset_id": "GMKN",
+      "date": "2026-10-30",
+      "detected_at": "2026-10-31T18:00:00+03:00",
+      "type": "financial_report",
+      "importance": "high",
+      "title": "Норникель: РСБУ 9М 2026 — чистая прибыль 80,3 млрд ₽ (×3,6)",
+      "summary": "Норникель по РСБУ за 9М 2026: чистая прибыль 80,27 млрд ₽ (в 3,6 раза больше г/г), выручка 868,9 млрд ₽ (+31,7%). 26.10 опубликованы операционные итоги: никель за 3К ~61,1 тыс. т (+13% г/г), палладий 736 тыс. унций (+19%), годовой план производства подтверждён. Дивиденд за 1П 2026 1,85 ₽ — C6 и P1 остаются fail.",
+      "metrics": {
+        "net_profit_9m_ras_bn_rub": 80.27,
+        "revenue_9m_ras_bn_rub": 868.86
+      },
+      "criteria": {
+        "C6": {
+          "status": "fail",
+          "note": "Дивиденды малые (1,85 ₽ за 1П)"
+        },
+        "P1": {
+          "status": "fail",
+          "note": "~1,6% LTM"
+        }
+      },
+      "verdict": "sell_candidate",
+      "sources": [
+        {
+          "title": "Ведомости: Норникель нарастил прибыль",
+          "url": "https://www.vedomosti.ru/investments/news/2026/10/30/1241658-nornikel-narastil-pribil"
+        },
+        {
+          "title": "The Moscow Times/Reuters: Норникель в 3 кв. увеличил производство никеля",
+          "url": "https://ru.themoscowtimes.com/2026/10/26/update-1-nornikel-v-3-kv-uvelichil-proizvodstvo-nikelya-na-41-kvkv-a209590"
+        }
+      ],
+      "notify": true
+    },
+    {
+      "id": "PLZL-20261030-rsbu-9m2026",
+      "asset_id": "PLZL",
+      "date": "2026-10-30",
+      "detected_at": "2026-10-31T18:00:00+03:00",
+      "type": "financial_report",
+      "importance": "high",
+      "title": "Полюс: РСБУ 9М 2026 — чистая прибыль 109,9 млрд ₽ (−14%)",
+      "summary": "Головная компания Полюса по РСБУ за 9М 2026: чистая прибыль 109,9 млрд ₽ (−14% г/г), выручка 121,6 млрд ₽ (−11%). Цена 29.10 — 1 046,8 ₽. Дивиденды приостановлены до 2030 г. (решение июля 2026) — C6 остаётся fail.",
+      "metrics": {
+        "net_profit_9m_ras_bn_rub": 109.9,
+        "revenue_9m_ras_bn_rub": 121.64,
+        "price_rub": 1046.8,
+        "price_date": "2026-10-29"
+      },
+      "criteria": {
+        "C6": {
+          "status": "fail",
+          "note": "Дивиденды приостановлены до 2030 г."
+        }
+      },
+      "verdict": "sell_candidate",
+      "sources": [
+        {
+          "title": "Ведомости: прибыль Полюса",
+          "url": "https://www.vedomosti.ru/investments/news/2026/10/30/1241487-pribil-polyusa"
+        },
+        {
+          "title": "Smart-lab: Полюс РСБУ 9М 2026",
+          "url": "https://smart-lab.ru/blog/news/1368732.php"
+        }
+      ],
+      "notify": true
+    },
+    {
+      "id": "RUAL-20261030-london-claim-rsbu",
+      "asset_id": "RUAL",
+      "date": "2026-10-30",
+      "detected_at": "2026-10-31T18:00:00+03:00",
+      "type": "shareholder",
+      "importance": "high",
+      "title": "Русал: иск миноритариев в Лондоне к En+ и руководству; РСБУ 9М прибыль 0,64 млрд ₽",
+      "summary": "Коммерсантъ 30.10 сообщил о новом иске миноритариев Русала в Высоком суде Лондона (дело открыто 30.06.2026) к En+, Русалу, председателям советов директоров и гендиректору; требования не раскрыты. По РСБУ за 9М 2026 чистая прибыль Русала — 635,7 млн ₽, примерно в 300 раз меньше г/г. C5 остаётся warn (документированный конфликт акционеров), C6 fail.",
+      "metrics": {
+        "net_profit_9m_ras_mln_rub": 635.67
+      },
+      "criteria": {
+        "C5": {
+          "status": "warn",
+          "note": "Иск миноритариев против En+ и менеджмента"
+        },
+        "C6": {
+          "status": "fail",
+          "note": "Дивидендов нет, ЧД/EBITDA 5,8x"
+        }
+      },
+      "verdict": "sell_candidate",
+      "sources": [
+        {
+          "title": "ABN (по Коммерсанту): миноритарии Русала подали в Лондоне новый иск",
+          "url": "https://abn.agency/2026/10/30/minoritarii-rusala-podali-v-londone-novyj-isk-protiv-en-i-olega-deripaski/"
+        },
+        {
+          "title": "Проспект (по Коммерсанту): прибыль Русала по РСБУ",
+          "url": "https://prospect.com.ru/news/7137065/chistaya-pribyl-rusala-po-rsbu-za-devyat-mesyatsev-sokratilas-v-300-raz.html"
+        }
+      ],
+      "notify": true
+    },
+    {
+      "id": "ENPG-20261030-london-claim-rsbu",
+      "asset_id": "ENPG",
+      "date": "2026-10-30",
+      "detected_at": "2026-10-31T18:00:00+03:00",
+      "type": "shareholder",
+      "importance": "high",
+      "title": "ЭН+: ответчик по иску миноритариев Русала в Лондоне; C5 → warn",
+      "summary": "En+ названа ответчиком по иску миноритариев Русала в Высоком суде Лондона (сообщение Коммерсанта 30.10; дело открыто 30.06.2026, требования не раскрыты). Это документированный конфликт акционеров в группе — C5 меняется с n/a на warn. По РСБУ 9М 2026 ЭН+: выручка 14 млрд ₽ (−16,9%), чистая прибыль 12,68 млрд ₽ (−8,7%) — по форуму smart-lab. Дивидендов нет — C6 fail.",
+      "metrics": {
+        "net_profit_9m_ras_bn_rub": 12.68,
+        "revenue_9m_ras_bn_rub": 14.0,
+        "price_rub": 324.75,
+        "price_date": "2026-10-30"
+      },
+      "criteria": {
+        "C5": {
+          "status": "warn",
+          "note": "Ответчик по иску миноритариев Русала"
+        },
+        "C6": {
+          "status": "fail",
+          "note": "Дивидендов нет"
+        }
+      },
+      "verdict": "sell_candidate",
+      "sources": [
+        {
+          "title": "ABN (по Коммерсанту): иск миноритариев Русала",
+          "url": "https://abn.agency/2026/10/30/minoritarii-rusala-podali-v-londone-novyj-isk-protiv-en-i-olega-deripaski/"
+        },
+        {
+          "title": "Smart-lab: форум ЭН+",
+          "url": "https://smart-lab.ru/forum/ENPG"
+        }
+      ],
+      "notify": true
+    },
+    {
+      "id": "YDEX-20261029-msfo-3q2026",
+      "asset_id": "YDEX",
+      "date": "2026-10-29",
+      "detected_at": "2026-10-31T18:00:00+03:00",
+      "type": "financial_report",
+      "importance": "high",
+      "title": "Яндекс: МСФО 3К 2026 — выручка +12%, отозван прогноз на 2026 г.",
+      "summary": "Яндекс отчитался за 3К 2026: выручка 410,6 млрд ₽ (+12% г/г), скорр. EBITDA 87,8 млрд ₽ (+12%), чистая прибыль 42,5 млрд ₽ (+23%); скорр. ЧД/EBITDA ≈0. Компания отозвала прогноз на 2026 г. по выручке и EBITDA после атак БПЛА на несколько дата-центров в октябре. Статусы не меняются: C1/C2 fail (IT), вердикт sell_candidate.",
+      "metrics": {
+        "revenue_q3_bn_rub": 410.6,
+        "adj_ebitda_q3_bn_rub": 87.8,
+        "net_profit_q3_bn_rub": 42.5,
+        "net_debt_to_ebitda": 0.005,
+        "price_rub": 3463.5,
+        "price_date": "2026-10-29"
+      },
+      "criteria": {
+        "C1": {
+          "status": "fail",
+          "note": "IT"
+        },
+        "C6": {
+          "status": "warn",
+          "note": "Прибыль растёт; прогноз на 2026 г. отозван"
+        }
+      },
+      "verdict": "sell_candidate",
+      "sources": [
+        {
+          "title": "Яндекс: финансовые результаты за 3К 2026",
+          "url": "https://yandex.ru/company/news/29-10-2026-01"
+        }
+      ],
+      "notify": true
+    },
+    {
+      "id": "OZON-20261028-msfo-3q2026",
+      "asset_id": "OZON",
+      "date": "2026-10-28",
+      "detected_at": "2026-10-31T18:00:00+03:00",
+      "type": "financial_report",
+      "importance": "high",
+      "title": "Ozon: МСФО 3К 2026 — выручка +63%, EBITDA ×2,2, резерв 30 млрд ₽ на ущерб от БПЛА",
+      "summary": "Ozon за 3К 2026: оборот 1,6 трлн ₽ (+42%), выручка 421,2 млрд ₽ (+63%), скорр. EBITDA 93,0 млрд ₽ (+124%), чистая прибыль 3,7 млрд ₽. Начислен резерв 30,1 млрд ₽ под ущерб от атак БПЛА и пожаров на 11 логистических объектах. Статусы не меняются: C1 fail (e-commerce), вердикт sell_candidate.",
+      "metrics": {
+        "revenue_q3_bn_rub": 421.2,
+        "adj_ebitda_q3_bn_rub": 93.0,
+        "net_profit_q3_bn_rub": 3.7,
+        "price_rub": 3805,
+        "price_date": "2026-10-29"
+      },
+      "criteria": {
+        "C1": {
+          "status": "fail",
+          "note": "Не вечная тема"
+        }
+      },
+      "verdict": "sell_candidate",
+      "sources": [
+        {
+          "title": "Smart-lab: Ozon 3К 2026",
+          "url": "https://smart-lab.ru/blog/news/1367532.php"
+        },
+        {
+          "title": "Market Power: Ozon увеличил выручку на 63%",
+          "url": "https://marketpower.pro/publications/ozon-uvelichil-vyruchku-na-63-v-tretem-kvartale-2026-goda"
+        }
+      ],
+      "notify": true
+    },
+    {
+      "id": "FLOT-20261027-rsbu-9m2026",
+      "asset_id": "FLOT",
+      "date": "2026-10-27",
+      "detected_at": "2026-10-31T18:00:00+03:00",
+      "type": "financial_report",
+      "importance": "high",
+      "title": "Совкомфлот: РСБУ 9М 2026 — чистый убыток 0,79 млрд ₽ (+17%)",
+      "summary": "Совкомфлот по РСБУ за 9М 2026 показал чистый убыток 787,8 млн ₽ (+17% г/г) и убыток от продаж 2,17 млрд ₽ (+48%). Долгосрочные обязательства выросли до 58,2 млрд ₽ с 55,4 млрд. Ориентир дивполитики — не менее 50% скорр. прибыли МСФО — не менялся. C6 остаётся fail.",
+      "metrics": {
+        "net_loss_9m_ras_mln_rub": 787.8,
+        "lt_liabilities_bn_rub": 58.2,
+        "price_rub": 88.87,
+        "price_date": "2026-10-30"
+      },
+      "criteria": {
+        "C6": {
+          "status": "fail",
+          "note": "Убыток РСБУ растёт"
+        }
+      },
+      "verdict": "sell_candidate",
+      "sources": [
+        {
+          "title": "Ведомости: убыток Совкомфлота",
+          "url": "https://www.vedomosti.ru/investments/news/2026/10/27/1240591-ubitok-sovkomflota"
+        }
+      ],
+      "notify": true
+    },
+    {
+      "id": "CBOM-20261026-rsbu-9m2026",
+      "asset_id": "CBOM",
+      "date": "2026-10-26",
+      "detected_at": "2026-10-31T18:00:00+03:00",
+      "type": "financial_report",
+      "importance": "high",
+      "title": "МКБ: РСБУ 9М 2026 — чистая прибыль 19,5 млрд ₽ (≈−33%)",
+      "summary": "По отчётности МКБ по РСБУ, раскрытой ЦБ, чистая прибыль за 9М 2026 снизилась примерно в 1,5 раза г/г, до 19,48 млрд ₽. Дивидендов нет — C6 и P1 остаются fail.",
+      "metrics": {
+        "net_profit_9m_ras_bn_rub": 19.48
+      },
+      "criteria": {
+        "C6": {
+          "status": "fail",
+          "note": "Дивидендов нет, прибыль снижается"
+        }
+      },
+      "verdict": "sell_candidate",
+      "sources": [
+        {
+          "title": "Smart-lab: МКБ РСБУ 9М 2026",
+          "url": "https://smart-lab.ru/blog/news/1366835.php"
+        }
+      ],
+      "notify": true
+    },
+    {
+      "id": "SVCB-20261026-rsbu-9m2026",
+      "asset_id": "SVCB",
+      "date": "2026-10-26",
+      "detected_at": "2026-10-31T18:00:00+03:00",
+      "type": "financial_report",
+      "importance": "high",
+      "title": "Совкомбанк: РСБУ 9М 2026 — чистая прибыль 97,1 млрд ₽ (×4,2)",
+      "summary": "По данным отчётности РСБУ, раскрытой ЦБ, чистая прибыль Совкомбанка за 9М 2026 выросла в 4,2 раза, до 97,06 млрд ₽; Н1.0 на 1.10 — 11,49%. Цифры получены из пересказа (форум smart-lab), первоисточник не открыт. Дивидендная доходность ~3,3% ниже порога — C6 и P1 остаются fail. МСФО за 3К ожидается 13.11.",
+      "metrics": {
+        "net_profit_9m_ras_bn_rub": 97.06,
+        "n1_0_pct": 11.49,
+        "price_rub": 10.745,
+        "price_date": "2026-10-30"
+      },
+      "criteria": {
+        "C6": {
+          "status": "fail",
+          "note": "Payout ~15%"
+        },
+        "P1": {
+          "status": "fail",
+          "note": "~3,3%"
+        }
+      },
+      "verdict": "sell_candidate",
+      "sources": [
+        {
+          "title": "Smart-lab: форум Совкомбанка",
+          "url": "https://smart-lab.ru/forum/SVCB"
+        }
+      ],
+      "notify": true
+    },
+    {
+      "id": "ALRS-20261026-div-policy-edit",
+      "asset_id": "ALRS",
+      "date": "2026-10-26",
+      "detected_at": "2026-10-31T18:00:00+03:00",
+      "type": "dividend",
+      "importance": "medium",
+      "title": "АЛРОСА: наблюдательный совет утвердил новую редакцию дивполитики",
+      "summary": "Наблюдательный совет АЛРОСА утвердил новую редакцию дивидендной политики (сообщено 26.10). Правки технические, ключевые параметры прежние: выплата 50–100% FCF в зависимости от ЧД/EBITDA и только при ЧД/EBITDA не выше 1,5x. На конец 1П 2026 показатель 3,2x — выше порога, C6 остаётся fail.",
+      "metrics": {
+        "net_debt_to_ebitda": 3.2
+      },
+      "criteria": {
+        "C6": {
+          "status": "fail",
+          "note": "ЧД/EBITDA 3,2x > порога 1,5x по дивполитике"
+        }
+      },
+      "verdict": "sell_candidate",
+      "sources": [
+        {
+          "title": "Интерфакс",
+          "url": "https://www.interfax.ru/business/1125077"
+        },
+        {
+          "title": "Ведомости: АЛРОСА одобрила дивполитику",
+          "url": "https://www.vedomosti.ru/investments/news/2026/10/26/1240232-alrosi-odobril-divpolitiku"
+        }
+      ],
+      "notify": false
+    },
     {
       "id": "ALRS-20261030-rsbu-9m2026",
       "asset_id": "ALRS",

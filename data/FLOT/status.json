@@ -2,7 +2,7 @@
   "asset_id": "FLOT",
   "status": {
     "verdict": "sell_candidate",
-    "updated": "2026-10-30"
+    "updated": "2026-10-31"
   },
   "criteria": {
     "C1": {
@@ -56,10 +56,10 @@
     "Рекомендация дивидендов за 2026 г. (май 2027)"
   ],
   "metrics": {
-    "price_rub": 89.47,
+    "price_rub": 88.87,
     "price_date": "2026-10-30",
     "div_ttm_rub": 4.87,
-    "yield_pct": 5.4
+    "yield_pct": 5.48
   },
   "sources": [
     {

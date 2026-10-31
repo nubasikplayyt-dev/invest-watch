@@ -2,7 +2,7 @@
   "asset_id": "IRAO",
   "status": {
     "verdict": "buy_zone",
-    "updated": "2026-10-30"
+    "updated": "2026-10-31"
   },
   "criteria": {
     "C1": {
@@ -56,11 +56,13 @@
     "Капекс и снижение финансовых доходов"
   ],
   "metrics": {
-    "price_rub": 2.81,
-    "price_date": "2026-10-30",
+    "price_rub": 2.812,
+    "price_date": "2026-10-31",
     "div_ttm_rub": 0.3214,
-    "yield_pct": 11.44,
-    "payout_pct": 25
+    "yield_pct": 11.43,
+    "payout_pct": 25,
+    "net_debt_bn_rub": -47,
+    "net_debt_date": "30.09.2026 (РСБУ)"
   },
   "sources": [
     {

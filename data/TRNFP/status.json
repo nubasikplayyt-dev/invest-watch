@@ -2,7 +2,7 @@
   "asset_id": "TRNFP",
   "status": {
     "verdict": "buy_zone",
-    "updated": "2026-10-30"
+    "updated": "2026-10-31"
   },
   "criteria": {
     "C1": {
@@ -56,10 +56,10 @@
     "Налог на прибыль 40% и индексация тарифов 2027"
   ],
   "metrics": {
-    "price_rub": 1067.8,
-    "price_date": "2026-10-30",
+    "price_rub": 1070,
+    "price_date": "2026-10-31",
     "div_ttm_rub": 204.17,
-    "yield_pct": 19.12,
+    "yield_pct": 19.08,
     "net_debt_to_ebitda": "чистая денежная позиция",
     "net_debt_to_ebitda_period": "30.06.2026",
     "net_profit_1h2026_bn_rub": 148.3,

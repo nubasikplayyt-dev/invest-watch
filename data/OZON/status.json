@@ -2,7 +2,7 @@
   "asset_id": "OZON",
   "status": {
     "verdict": "sell_candidate",
-    "updated": "2026-10-30"
+    "updated": "2026-10-31"
   },
   "criteria": {
     "C1": {
@@ -55,10 +55,10 @@
     "Решение о второй части дивидендов 2026 (план ≥30 млрд ₽ за год, остаток — во 2П 2026)"
   ],
   "metrics": {
-    "price_rub": 3833,
-    "price_date": "2026-10-30",
+    "price_rub": 3805,
+    "price_date": "2026-10-29",
     "div_ttm_rub": 213.55,
-    "yield_pct": 5.57
+    "yield_pct": 5.61
   },
   "sources": [
     {

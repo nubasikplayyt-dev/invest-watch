@@ -2,7 +2,7 @@
   "asset_id": "ENPG",
   "status": {
     "verdict": "sell_candidate",
-    "updated": "2026-10-30"
+    "updated": "2026-10-31"
   },
   "criteria": {
     "C1": {
@@ -22,8 +22,8 @@
       "note": "нет фактов для оценки"
     },
     "C5": {
-      "status": "n/a",
-      "note": "нет фактов для оценки"
+      "status": "warn",
+      "note": "Ответчик по иску миноритариев Русала в Лондоне (сообщение 30.10.2026)"
     },
     "C6": {
       "status": "fail",
@@ -56,7 +56,7 @@
     "МСФО за 9М/2026"
   ],
   "metrics": {
-    "price_rub": 322.65,
+    "price_rub": 324.75,
     "price_date": "2026-10-30",
     "div_ttm_rub": 0,
     "yield_pct": 0.0

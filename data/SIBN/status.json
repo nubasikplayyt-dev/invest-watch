@@ -1,7 +1,7 @@
 {
   "status": {
     "verdict": "buy_zone",
-    "updated": "2026-10-30"
+    "updated": "2026-10-31"
   },
   "criteria": {
     "C1": {
@@ -45,5 +45,10 @@
     "Чистый долг",
     "Дивиденды за 9М/2026"
   ],
-  "asset_id": "SIBN"
+  "asset_id": "SIBN",
+  "metrics": {
+    "price_rub": 567.15,
+    "price_date": "2026-10-31",
+    "net_profit_9m_ras_bn_rub": 369.27
+  }
 }
