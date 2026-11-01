@@ -905,7 +905,7 @@
       "is_commodity": false,
       "domain": null,
       "in_universe": true,
-      "qualified_only": null,
+      "qualified_only": false,
       "isin": "RU000A1092L4"
     },
     {
@@ -1069,7 +1069,7 @@
       "is_commodity": false,
       "domain": null,
       "in_universe": true,
-      "qualified_only": null,
+      "qualified_only": false,
       "isin": "RU000A0JWCE7"
     },
     {
@@ -3880,6 +3880,54 @@
       "is_commodity": false,
       "domain": null,
       "in_universe": true
+    },
+    {
+      "id": "ZPIF-RU000A102N77",
+      "ticker": "RU000A102N77",
+      "name": "ЗПИФ РД",
+      "type": "real_estate_fund",
+      "isin": "RU000A102N77",
+      "is_commodity": false,
+      "qualified_only": false,
+      "market": "RU",
+      "kind": "real_estate",
+      "domain": "wimsavings.ru"
+    },
+    {
+      "id": "ZPIF-RU000A0JRHC0",
+      "ticker": "RU000A0JRHC0",
+      "name": "ЗПИФ Атриум",
+      "type": "real_estate_fund",
+      "isin": "RU000A0JRHC0",
+      "is_commodity": false,
+      "qualified_only": false,
+      "market": "RU",
+      "kind": "real_estate",
+      "domain": "veles-trust.ru"
+    },
+    {
+      "id": "ZPIF-RU000A10CLY1",
+      "ticker": "RU000A10CLY1",
+      "name": "ЗПИФ АКТИВО ДВАДЦАТЬ ОДИН",
+      "type": "real_estate_fund",
+      "isin": "RU000A10CLY1",
+      "is_commodity": false,
+      "qualified_only": false,
+      "market": "RU",
+      "kind": "real_estate",
+      "domain": "aktivo.ru"
+    },
+    {
+      "id": "ZPIF-RU000A10E3R7",
+      "ticker": "RU000A10E3R7",
+      "name": "ЗПИФ АКТИВО ДВАДЦАТЬ ДВА",
+      "type": "real_estate_fund",
+      "isin": "RU000A10E3R7",
+      "is_commodity": false,
+      "qualified_only": false,
+      "market": "RU",
+      "kind": "real_estate",
+      "domain": "aktivo.ru"
     }
   ]
 }
