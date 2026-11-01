@@ -8,15 +8,7 @@
     "ZPIF-XTRIUMF",
     "ZPIF-RU000A1068X9",
     "ZPIF-RU000A10CFM8",
-    "ZPIF-RU000A1034U7"
-  ],
-  "remaining": {
-    "ru_funds": 22,
-    "ru_stocks": 4,
-    "foreign_dividends": "не начато",
-    "total_ru": 26
-  },
-  "queue_ru_funds": [
+    "ZPIF-RU000A1034U7",
     "ZPIF-RU000A102AH5",
     "ZPIF-RU000A1099U0",
     "ZPIF-XSKLAD",
@@ -24,7 +16,15 @@
     "ZPIF-RU000A0ZZ5R2",
     "ZPIF-RU000A104YX8",
     "ZPIF-XACCSK",
-    "ZPIF-XAVIUM",
+    "ZPIF-XAVIUM"
+  ],
+  "remaining": {
+    "ru_funds": 14,
+    "ru_stocks": 4,
+    "foreign_dividends": "не начато",
+    "total_ru": 18
+  },
+  "queue_ru_funds": [
     "ZPIF-RU000A1092L4",
     "ZPIF-RU000A10CKQ9",
     "ZPIF-RU000A108751",
@@ -47,14 +47,14 @@
     "RENI"
   ],
   "last_ids": [
-    "ZPIF-RU000A1022Z1",
-    "ZPIF-RU000A10BBS6",
-    "ZPIF-RU000A105328",
-    "ZPIF-RU000A104KU3",
-    "ZPIF-XTRIUMF",
-    "ZPIF-RU000A1068X9",
-    "ZPIF-RU000A10CFM8",
-    "ZPIF-RU000A1034U7"
+    "ZPIF-RU000A102AH5",
+    "ZPIF-RU000A1099U0",
+    "ZPIF-XSKLAD",
+    "ZPIF-RU000A0ZYC64",
+    "ZPIF-RU000A0ZZ5R2",
+    "ZPIF-RU000A104YX8",
+    "ZPIF-XACCSK",
+    "ZPIF-XAVIUM"
   ],
-  "updated_at": "2026-11-01T08:30:00+03:00"
+  "updated_at": "2026-11-01T09:55:00+03:00"
 }
