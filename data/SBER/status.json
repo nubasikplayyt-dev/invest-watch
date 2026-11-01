@@ -1,7 +1,8 @@
 {
   "status": {
-    "verdict": "buy_zone",
-    "updated": "2026-11-01"
+    "verdict": "watch",
+    "updated": "2026-11-01",
+    "reason": "C2 = warn (банк с плечом) → по правилу AGENT.md verdict «watch» (ранее ошибочно buy_zone). C4/C5 pass — решение владельца"
   },
   "criteria": {
     "C1": {
@@ -37,11 +38,27 @@
     },
     "P1": {
       "status": "pass",
-      "note": "~12,7% при цене ~296 ₽ (26.10.2026)"
+      "note": "12,7% = 37,64 ₽ / 295,85 ₽ (30.10.2026) > 5%"
     },
     "P2": {
       "status": "n/a",
       "note": "Не сырьевик; учитывать кредитный цикл и рост резервов в 2026–2027"
+    },
+    "R1": {
+      "status": "pass",
+      "note": "Ежегодные дивиденды растут: 25 → 33,3 → 34,84 → 37,64 ₽ (2023–2026)"
+    },
+    "R2": {
+      "status": "warn",
+      "note": "Доход рублёвый, прокси на экономику РФ; прямой индексации/валютной выручки нет"
+    },
+    "R4": {
+      "status": "n/a",
+      "note": "Крупного «невидимого» проекта роста в раскрытии нет"
+    },
+    "R5": {
+      "status": "n/a",
+      "note": "Нет R4"
     }
   },
   "watch": [
@@ -52,11 +69,12 @@
   ],
   "asset_id": "SBER",
   "metrics": {
-    "as_of": "2026-10-31",
+    "as_of": "2026-11-01",
     "price_rub": {
-      "value": 300,
-      "note": "акции преодолели 300 ₽ 28.10.2026",
-      "source": "https://ru.themoscowtimes.com/2026/10/28/update-1-sberbank-uvelichil-pribyl-v-3-kv-do-511-mlrd-r-aktsii-rastut-a209808"
+      "value": 295.85,
+      "date": "2026-10-30",
+      "note": "последняя сделка по smart-lab (ISS Мосбиржи недоступен из сессии)",
+      "source": "https://smart-lab.ru/q/shares/"
     },
     "last_dividend_rub": {
       "value": 37.64,
@@ -65,8 +83,8 @@
       "source": "https://investmint.ru/sber/divs/"
     },
     "dividend_yield_pct": {
-      "value": 12.5,
-      "note": "37,64 / ~300 ₽; порог RU 5% — пройден"
+      "value": 12.7,
+      "note": "37,64 / 295,85 ₽; порог RU 5% — пройден"
     },
     "payout_policy": {
       "value": "50% чистой прибыли МСФО",
@@ -107,6 +125,29 @@
     "capital_adequacy": {
       "value": null,
       "note": "не найдено в открытых источниках этого запуска — агент дополнит"
+    },
+    "net_profit_9m2026_ras_bn_rub": {
+      "value": 1501.2,
+      "yoy_pct": 18.2,
+      "date": "2026-10-09",
+      "source": "https://finance.mail.ru/article/sberbank-za-devyat-mesyacev-uvelichil-chistuyu-pribyl-po-rsbu-do-1501-trln-rublej-69231703/"
+    },
+    "capital_adequacy_ras_pct": {
+      "n1_0": 13.2,
+      "n1_2": 10.3,
+      "n1_1": 10.0,
+      "date": "2026-09-30",
+      "source": "https://finance.mail.ru/article/sberbank-za-devyat-mesyacev-uvelichil-chistuyu-pribyl-po-rsbu-do-1501-trln-rublej-69231703/"
+    },
+    "company_targets_2026": {
+      "value": "Н20.0 ориентир 13,3%, CoR ниже 1,4%, ROE 22% (ориентиры банка)",
+      "date": "2026-10-28",
+      "source": "https://www.interfax.ru/business/1125444"
     }
+  },
+  "buy_priority": {
+    "value": "низкий",
+    "reason": "Проходит C/P с оговоркой C2 = warn; R1 pass, R2 warn (рублёвый доход). Вопрос «банк в консервативной части» владелец держит открытым",
+    "date": "2026-11-01"
   }
 }

@@ -1,7 +1,8 @@
 {
   "status": {
-    "verdict": "buy_zone",
-    "updated": "2026-10-31"
+    "verdict": "watch",
+    "updated": "2026-11-01",
+    "reason": "C5 и C6 = warn → по правилу AGENT.md «watch» (ранее buy_zone); P2 warn — пик цикла"
   },
   "criteria": {
     "C1": {
@@ -25,7 +26,7 @@
     },
     "C6": {
       "status": "warn",
-      "note": "Долг >1 трлн ₽ в 2025; дивиденд 1П 2026 — 42,51 ₽"
+      "note": "ЧД/EBITDA 1,14x (МСФО 1П 2026), но FCF 1П 2026 отрицательный (−105 млрд ₽, вторичный источник), капекс +22% г/г; дивиденды 1П 2026 — 42,51 ₽"
     },
     "C8": {
       "status": "pass",
@@ -33,11 +34,27 @@
     },
     "P1": {
       "status": "pass",
-      "note": "≥12% LTM при цене ~573 ₽"
+      "note": "12,5% LTM (70,62 ₽) при цене 565,4 ₽ (30.10.2026)"
     },
     "P2": {
       "status": "warn",
       "note": "Brent ~100$ на ближневосточном шоке — пик цикла; нормализованно ~8%"
+    },
+    "R1": {
+      "status": "pass",
+      "note": "Регулярные выплаты дважды в год, без пропусков"
+    },
+    "R2": {
+      "status": "pass",
+      "note": "Экспортная (валютная) выручка"
+    },
+    "R4": {
+      "status": "n/a",
+      "note": "Нового крупного проекта в окне нет"
+    },
+    "R5": {
+      "status": "n/a",
+      "note": "Нет R4"
     }
   },
   "watch": [
@@ -47,8 +64,42 @@
   ],
   "asset_id": "SIBN",
   "metrics": {
-    "price_rub": 567.15,
-    "price_date": "2026-10-31",
-    "net_profit_9m_ras_bn_rub": 369.27
+    "as_of": "2026-11-01",
+    "price_rub": {
+      "value": 565.4,
+      "date": "2026-10-30",
+      "source": "https://smart-lab.ru/q/shares/"
+    },
+    "div_ttm_rub": {
+      "value": 70.62,
+      "note": "28,11 ₽ (реестр 06.07.2026) + 42,51 ₽ (13.10.2026)"
+    },
+    "yield_pct": {
+      "value": 12.5,
+      "note": "70,62 / 565,4 ₽; порог RU 5%"
+    },
+    "net_profit_9m_ras_bn_rub": {
+      "value": 369.27,
+      "source": "см. events.jsonl SIBN 9М РСБУ"
+    },
+    "ifrs_1h2026": {
+      "net_profit_bn_rub": 286.1,
+      "revenue_bn_rub": 1880.2,
+      "adj_ebitda_bn_rub": 727.5,
+      "net_debt_to_ebitda": 1.14,
+      "capex_bn_rub": 398.6,
+      "date": "2026-08-28",
+      "source": "https://nangs.org/news/business/gazprom-neft-sushchestvenno-ukrepila-finansovye-rezultaty-v-pervom-polugodii-2026-goda"
+    },
+    "fcf_1h2026_bn_rub": {
+      "value": -105.4,
+      "note": "вторичный источник, сверить с релизом компании",
+      "source": "https://vc.ru/invest/3118059-gazpromneft-uvelichila-pribyl-i-vyiruchku-no-dolg-vyizivaet-opaseniya"
+    }
+  },
+  "buy_priority": {
+    "value": "низкий",
+    "reason": "Проходит с оговорками (C5, C6, P2 = warn); R1 и R2 в порядке",
+    "date": "2026-11-01"
   }
 }

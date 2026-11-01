@@ -1,0 +1,298 @@
+{
+  "asset_id": "ZPIF-RU000A104KU3",
+  "currency": "RUB",
+  "basis": "год по дате закрытия реестра",
+  "by_year": [
+    {
+      "year": 2026,
+      "total": 126.7
+    },
+    {
+      "year": 2025,
+      "total": 150.0
+    },
+    {
+      "year": 2024,
+      "total": 123.96
+    },
+    {
+      "year": 2023,
+      "total": 120.0
+    },
+    {
+      "year": 2022,
+      "total": 25.26
+    }
+  ],
+  "payments": [
+    {
+      "record_date": "2026-10-30",
+      "period": "окт 2026",
+      "amount": 12.67
+    },
+    {
+      "record_date": "2026-09-30",
+      "period": "сен 2026",
+      "amount": 12.67
+    },
+    {
+      "record_date": "2026-08-31",
+      "period": "авг 2026",
+      "amount": 12.67
+    },
+    {
+      "record_date": "2026-07-31",
+      "period": "июл 2026",
+      "amount": 12.67
+    },
+    {
+      "record_date": "2026-06-30",
+      "period": "июн 2026",
+      "amount": 12.67
+    },
+    {
+      "record_date": "2026-05-29",
+      "period": "май 2026",
+      "amount": 12.67
+    },
+    {
+      "record_date": "2026-04-30",
+      "period": "апр 2026",
+      "amount": 12.67
+    },
+    {
+      "record_date": "2026-03-31",
+      "period": "мар 2026",
+      "amount": 12.67
+    },
+    {
+      "record_date": "2026-02-27",
+      "period": "фев 2026",
+      "amount": 12.67
+    },
+    {
+      "record_date": "2026-01-30",
+      "period": "янв 2026",
+      "amount": 12.67
+    },
+    {
+      "record_date": "2025-12-30",
+      "period": "дек 2025",
+      "amount": 12.5
+    },
+    {
+      "record_date": "2025-11-28",
+      "period": "ноя 2025",
+      "amount": 12.5
+    },
+    {
+      "record_date": "2025-10-31",
+      "period": "окт 2025",
+      "amount": 12.5
+    },
+    {
+      "record_date": "2025-09-30",
+      "period": "сен 2025",
+      "amount": 12.5
+    },
+    {
+      "record_date": "2025-08-29",
+      "period": "авг 2025",
+      "amount": 12.5
+    },
+    {
+      "record_date": "2025-07-31",
+      "period": "июл 2025",
+      "amount": 12.5
+    },
+    {
+      "record_date": "2025-06-30",
+      "period": "июн 2025",
+      "amount": 12.5
+    },
+    {
+      "record_date": "2025-05-30",
+      "period": "май 2025",
+      "amount": 12.5
+    },
+    {
+      "record_date": "2025-04-30",
+      "period": "апр 2025",
+      "amount": 12.5
+    },
+    {
+      "record_date": "2025-03-31",
+      "period": "мар 2025",
+      "amount": 12.5
+    },
+    {
+      "record_date": "2025-02-28",
+      "period": "фев 2025",
+      "amount": 12.5
+    },
+    {
+      "record_date": "2025-01-31",
+      "period": "янв 2025",
+      "amount": 12.5
+    },
+    {
+      "record_date": "2024-12-28",
+      "period": "дек 2024",
+      "amount": 10.33
+    },
+    {
+      "record_date": "2024-11-29",
+      "period": "ноя 2024",
+      "amount": 10.33
+    },
+    {
+      "record_date": "2024-10-31",
+      "period": "окт 2024",
+      "amount": 10.33
+    },
+    {
+      "record_date": "2024-09-30",
+      "period": "сен 2024",
+      "amount": 10.33
+    },
+    {
+      "record_date": "2024-08-30",
+      "period": "авг 2024",
+      "amount": 10.33
+    },
+    {
+      "record_date": "2024-07-31",
+      "period": "июл 2024",
+      "amount": 10.33
+    },
+    {
+      "record_date": "2024-06-28",
+      "period": "июн 2024",
+      "amount": 10.33
+    },
+    {
+      "record_date": "2024-05-31",
+      "period": "май 2024",
+      "amount": 10.33
+    },
+    {
+      "record_date": "2024-04-27",
+      "period": "апр 2024",
+      "amount": 10.33
+    },
+    {
+      "record_date": "2024-03-29",
+      "period": "мар 2024",
+      "amount": 10.33
+    },
+    {
+      "record_date": "2024-02-29",
+      "period": "фев 2024",
+      "amount": 10.33
+    },
+    {
+      "record_date": "2024-01-31",
+      "period": "янв 2024",
+      "amount": 10.33
+    },
+    {
+      "record_date": "2023-12-29",
+      "period": "дек 2023",
+      "amount": 10.0
+    },
+    {
+      "record_date": "2023-11-30",
+      "period": "ноя 2023",
+      "amount": 10.0
+    },
+    {
+      "record_date": "2023-10-31",
+      "period": "окт 2023",
+      "amount": 10.0
+    },
+    {
+      "record_date": "2023-09-29",
+      "period": "сен 2023",
+      "amount": 10.0
+    },
+    {
+      "record_date": "2023-08-31",
+      "period": "авг 2023",
+      "amount": 10.0
+    },
+    {
+      "record_date": "2023-07-31",
+      "period": "июл 2023",
+      "amount": 10.0
+    },
+    {
+      "record_date": "2023-06-30",
+      "period": "июн 2023",
+      "amount": 10.0
+    },
+    {
+      "record_date": "2023-05-31",
+      "period": "май 2023",
+      "amount": 10.0
+    },
+    {
+      "record_date": "2023-04-28",
+      "period": "апр 2023",
+      "amount": 10.0
+    },
+    {
+      "record_date": "2023-03-31",
+      "period": "мар 2023",
+      "amount": 10.0
+    },
+    {
+      "record_date": "2023-02-28",
+      "period": "фев 2023",
+      "amount": 10.0
+    },
+    {
+      "record_date": "2023-01-31",
+      "period": "янв 2023",
+      "amount": 10.0
+    },
+    {
+      "record_date": "2022-12-30",
+      "period": "дек 2022",
+      "amount": 8.42
+    },
+    {
+      "record_date": "2022-11-30",
+      "period": "ноя 2022",
+      "amount": 8.42
+    },
+    {
+      "record_date": "2022-10-31",
+      "period": "окт 2022",
+      "amount": 8.42
+    }
+  ],
+  "announced": [
+    {
+      "record_date": "2026-11-30",
+      "amount": 12.67,
+      "status": "план УК"
+    },
+    {
+      "record_date": "2026-12-30",
+      "amount": 12.67,
+      "status": "план УК"
+    }
+  ],
+  "note": "Ежемесячные выплаты, суммы до НДФЛ, по таблице УК. Первая выплата в таблице УК — реестр 31.10.2022 (выход на биржу — октябрь 2022; правила зарегистрированы 25.08.2021). Расхождение: investmint показывает ещё выплату 8,42 ₽ по реестру 30.09.2022, которой нет в таблице УК — не включена, требует проверки по отчётам на parus-am.ru (сайт из сессии недоступен). Выплата по реестру 30.10.2026 (12,67 ₽) — дата выплаты 12.11.2026.",
+  "sources": [
+    {
+      "title": "Страница фонда ПАРУС-НОРДВЕЙ на сайте УК PARUS (parus.properties): таблица выплат на пай до НДФЛ",
+      "url": "https://parus.properties/funds/nordway/"
+    },
+    {
+      "title": "investmint.ru — история выплат ПАРУС-НОРД (только сверка)",
+      "url": "https://investmint.ru/ru000a104ku3/"
+    }
+  ],
+  "updated": "2026-11-01"
+}

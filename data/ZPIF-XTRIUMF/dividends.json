@@ -1,0 +1,114 @@
+{
+  "asset_id": "ZPIF-XTRIUMF",
+  "currency": "RUB",
+  "basis": "год по дате закрытия реестра",
+  "by_year": [
+    {
+      "year": 2026,
+      "total": 78.3
+    },
+    {
+      "year": 2025,
+      "total": 34.5
+    }
+  ],
+  "payments": [
+    {
+      "record_date": "2026-09-30",
+      "period": "сен 2026",
+      "amount": 8.7
+    },
+    {
+      "record_date": "2026-08-31",
+      "period": "авг 2026",
+      "amount": 8.7
+    },
+    {
+      "record_date": "2026-07-31",
+      "period": "июл 2026",
+      "amount": 8.7
+    },
+    {
+      "record_date": "2026-06-30",
+      "period": "июн 2026",
+      "amount": 8.7
+    },
+    {
+      "record_date": "2026-05-29",
+      "period": "май 2026",
+      "amount": 8.7
+    },
+    {
+      "record_date": "2026-04-30",
+      "period": "апр 2026",
+      "amount": 8.7
+    },
+    {
+      "record_date": "2026-03-31",
+      "period": "мар 2026",
+      "amount": 8.7
+    },
+    {
+      "record_date": "2026-02-27",
+      "period": "фев 2026",
+      "amount": 8.7
+    },
+    {
+      "record_date": "2026-01-30",
+      "period": "янв 2026",
+      "amount": 8.7
+    },
+    {
+      "record_date": "2025-12-30",
+      "period": "дек 2025",
+      "amount": 8.62
+    },
+    {
+      "record_date": "2025-11-28",
+      "period": "ноя 2025",
+      "amount": 8.63
+    },
+    {
+      "record_date": "2025-10-31",
+      "period": "окт 2025",
+      "amount": 8.62
+    },
+    {
+      "record_date": "2025-09-30",
+      "period": "сен 2025",
+      "amount": 8.63
+    }
+  ],
+  "announced": [
+    {
+      "record_date": "2026-10-30",
+      "period": "окт 2026",
+      "amount": "n/a",
+      "note": "Реестр закрыт; сумма в найденных источниках не опубликована. План УК: 8,33–9,08 ₽ (выплата ~12.11.2026)"
+    },
+    {
+      "record_date": "2026-11-30",
+      "period": "ноя 2026",
+      "amount": "n/a",
+      "note": "План УК 8,33–9,08 ₽"
+    },
+    {
+      "record_date": "2026-12-30",
+      "period": "дек 2026",
+      "amount": "n/a",
+      "note": "План УК 8,33–9,08 ₽"
+    }
+  ],
+  "sources": [
+    {
+      "title": "PARUS AM — страница фонда «ПАРУС-ТРИУМФ» (parus.properties)",
+      "url": "https://parus.properties/funds/triumph"
+    },
+    {
+      "title": "investmint.ru — ПАРУС-ТРМ (агрегатор, сверка дат реестра и цены)",
+      "url": "https://investmint.ru/xtriumf/"
+    }
+  ],
+  "updated": "2026-11-01",
+  "note": "Суммы до НДФЛ, ежемесячно. Фонд вышел на биржу в сентябре 2025; первая выплата — за сентябрь 2025 (реестр 30.09.2025), история полная по данным страницы УК (13 выплат). Даты реестра — по таблице УК, сверены с investmint (там ноябрь 2025 указан как 30.11). Сумма за октябрь 2026 не найдена. Прямой доступ к parus-am.ru, iss.moex.com/moex.com, e-disclosure.ru, investfunds.ru (curl) из среды заблокирован прокси (403) 01.11.2026; отчёты УК, правила ДУ и ISS-история цен/оборотов не получены."
+}

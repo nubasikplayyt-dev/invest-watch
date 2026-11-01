@@ -1,6 +1,267 @@
 {
-  "generated_at": "2026-10-31T18:00:00+03:00",
+  "generated_at": "2026-11-01T08:30:00+03:00",
   "items": [
+    {
+      "id": "PARUS-SBL-20261101-tenant-ozon",
+      "asset_id": "PARUS-SBL",
+      "date": "2026-11-01",
+      "detected_at": "2026-11-01T08:30:00+03:00",
+      "type": "nav_rent",
+      "importance": "high",
+      "title": "Парус-СБЛ: по данным УК арендатор — Ozon; выплата за октябрь 16,25 ₽ подтверждена",
+      "summary": "На странице фонда УК «Парус» арендатор 100% площади — ООО «Интернет Решения» (Ozon), а не структура Сбера, как было записано ранее. УК подтвердила выплату 16,25 ₽ на пай по реестру 30.10.2026 (+18,9% к 13,67 ₽), выплата ~12.11; план на ноябрь–декабрь — 16,25 ₽. Долга нет, есть финмодель УК. Срок договора и механизм индексации у УК не раскрыты. C3 pass → warn, verdict buy_zone → watch, приоритет «низкий».",
+      "metrics": {
+        "last_payout_rub": 16.25,
+        "price_rub": 1830,
+        "premium_to_nav_pct": 28.9,
+        "yield_pct": 10.7
+      },
+      "criteria": {
+        "C3": {
+          "status": "warn",
+          "note": "Арендатор Ozon, фактов о крыше нет"
+        },
+        "C6": {
+          "status": "pass",
+          "note": "Выплата +18,9%, долг 0"
+        },
+        "P3": {
+          "status": "pass",
+          "note": "Решение владельца; премия ~29% к СЧА"
+        },
+        "Z1": {
+          "status": "pass",
+          "note": "Core Plus"
+        },
+        "Z3": {
+          "status": "warn",
+          "note": "Срок и индексация у УК не раскрыты"
+        },
+        "Z9": {
+          "status": "pass",
+          "note": "Рост выплаты 13,67 → 16,25 ₽"
+        }
+      },
+      "verdict": "watch",
+      "sources": [
+        {
+          "title": "УК «Парус»: ПАРУС-СБЛ",
+          "url": "https://parus.properties/funds/sberlogistika/"
+        },
+        {
+          "title": "УК «Парус»: фонды на бирже (цена 29.10.2026)",
+          "url": "https://parus.properties/"
+        }
+      ],
+      "notify": true
+    },
+    {
+      "id": "MDMG-20261101-c3-projects",
+      "asset_id": "MDMG",
+      "date": "2026-11-01",
+      "detected_at": "2026-11-01T08:30:00+03:00",
+      "type": "other",
+      "importance": "high",
+      "title": "MD Medical: C3 → warn по журналу; проекты роста — R4+R5",
+      "summary": "Пересмотр по скиллу: в журнале владельца («Русский список 2025») у MD Medical нет федеральной политической крыши — C3 n/a → warn, verdict buy_zone → watch. Крупные проекты (ранее не записаны): покупка Ильинской больницы за 8,5 млрд ₽ с учётом ~1,1 млрд долга (ФАС одобрила, закрытие не подтверждено); «Лапино-3» перенесён на 2028, «Лапино-Юг» — на 2029, госпиталь в Зубаревом пер. — 2028, по словам компании без допфинансирования и с сохранением дивполитики. R4 и R5 (дивдоходность 6,6%) выполнены. Выручка 9М 2026 — 39,21 млрд ₽ (+27%).",
+      "metrics": {
+        "deal_bn_rub": 8.5,
+        "yield_pct": 6.6,
+        "revenue_9m_bn_rub": 39.21
+      },
+      "criteria": {
+        "C3": {
+          "status": "warn",
+          "note": "Нет федеральной крыши (журнал)"
+        },
+        "C6": {
+          "status": "pass",
+          "note": "ЧД/EBITDA 0,4x, payout 60%"
+        },
+        "P1": {
+          "status": "pass",
+          "note": "6,6%"
+        }
+      },
+      "verdict": "watch",
+      "sources": [
+        {
+          "title": "Ведомости, 24.06.2026: «Мать и дитя» покупает Ильинскую больницу",
+          "url": "https://www.vedomosti.ru/society/news/2026/06/24/1208598-mat-ditya-ilinskuyu-bolnitsu"
+        },
+        {
+          "title": "Перенос сроков Лапино-3 и Лапино-Юг",
+          "url": "https://investfuture.ru/articles/mat-i-ditya-perenesla-sroki-otkrytiya-lapino-3-i-gospitalya-lapino-yug"
+        },
+        {
+          "title": "Выручка 9М 2026",
+          "url": "https://smart-lab.ru/blog/news/1368722.php"
+        }
+      ],
+      "notify": true
+    },
+    {
+      "id": "RTKM-20261030-ras-9m2026",
+      "asset_id": "RTKM",
+      "date": "2026-10-30",
+      "detected_at": "2026-11-01T08:30:00+03:00",
+      "type": "financial_report",
+      "importance": "high",
+      "title": "Ростелеком: РСБУ 9М 2026 — чистый убыток 15,4 млрд ₽ (год назад прибыль 13,5 млрд)",
+      "summary": "Выручка по РСБУ за 9М 2026 — 368,24 млрд ₽ (+6,6% г/г). Чистый убыток 15,41 млрд ₽ против прибыли 13,52 млрд ₽ годом ранее. Данных о долге в публикации нет. C6 остаётся warn.",
+      "metrics": {
+        "revenue_bn_rub": 368.24,
+        "net_profit_bn_rub": -15.41
+      },
+      "criteria": {
+        "C6": {
+          "status": "warn",
+          "note": "Убыток по РСБУ 9М 2026, высокий долг"
+        }
+      },
+      "verdict": "watch",
+      "sources": [
+        {
+          "title": "Ростелеком: РСБУ 9М 2026 (раскрытие)",
+          "url": "https://smartlab.news/read/209351-rostelekom-rsbu-9-mes-2026-g-vyrucka-rub36824-mlrd-66-gg-cistyi-ubytok-rub1541-mlrd-protiv-pribyli-rub1352-mlrd-gg"
+        }
+      ],
+      "notify": true
+    },
+    {
+      "id": "VTBR-20261030-ras-9m2026",
+      "asset_id": "VTBR",
+      "date": "2026-10-30",
+      "detected_at": "2026-11-01T08:30:00+03:00",
+      "type": "financial_report",
+      "importance": "high",
+      "title": "ВТБ: РСБУ 9М 2026 — чистая прибыль 412,9 млрд ₽ (×1,6); payout за 2026 >25% маловероятен",
+      "summary": "Чистая прибыль ВТБ по РСБУ за 9М 2026 — 412,9 млрд ₽ (в 1,6 раза больше г/г). Первый зампред Д. Пьянов 30.10 сказал, что выплата больше 25% прибыли за 2026 г. маловероятна (за 2025 г. — 25%, 9,71 ₽), сделка с RWB может выйти за 2026 г., допэмиссия не повлияет на достаточность капитала. C6 остаётся warn.",
+      "metrics": {
+        "net_profit_bn_rub": 412.9
+      },
+      "criteria": {
+        "C6": {
+          "status": "warn",
+          "note": "Payout 25% вместо 50% и в 2027 г."
+        }
+      },
+      "verdict": "watch",
+      "sources": [
+        {
+          "title": "ВТБ: РСБУ 9М 2026",
+          "url": "https://smartlab.news/read/209284-bank-vtb-pao-rsbu-9m2026-cistaia-pribyl-rub4129-mlrd-uvelicenie-v-16-raz-gg"
+        },
+        {
+          "title": "Пьянов о дивидендах",
+          "url": "https://smartlab.news/read/209300-vyplata-bankom-vtb-bolse-25-pribyli-na-dividendy-v-2027-g-maloveroiatna-pianov"
+        }
+      ],
+      "notify": true
+    },
+    {
+      "id": "LKOH-20261030-ras-9m2026",
+      "asset_id": "LKOH",
+      "date": "2026-10-30",
+      "detected_at": "2026-11-01T08:30:00+03:00",
+      "type": "financial_report",
+      "importance": "high",
+      "title": "ЛУКОЙЛ: РСБУ 9М 2026 — чистая прибыль 457,4 млрд ₽ (+29,8%)",
+      "summary": "Чистая прибыль ЛУКОЙЛа по РСБУ за 9М 2026 — 457,4 млрд ₽ (+29,8% г/г), выручка около 1,96 трлн ₽. В тот же день созван совет директоров; повестка не проверена. C6 остаётся pass.",
+      "metrics": {
+        "net_profit_bn_rub": 457.4
+      },
+      "criteria": {
+        "C6": {
+          "status": "pass",
+          "note": "Прибыль растёт"
+        }
+      },
+      "verdict": "watch",
+      "sources": [
+        {
+          "title": "ЛУКОЙЛ: РСБУ 9М 2026",
+          "url": "https://smartlab.news/read/209269-cistaia-pribyl-lukoila-po-rsbu-za-9-mes-2026g-vyrosla-na-298-gg-do-rub4574-mlrd-vyrucka-rub196-trln-09-gg"
+        },
+        {
+          "title": "ЛУКОЙЛ: созыв СД",
+          "url": "https://smartlab.news/read/209282-lukoil-provedenie-zasedaniia-soveta-direktorov-i-ego-povestka-dnia"
+        }
+      ],
+      "notify": true
+    },
+    {
+      "id": "T-20261030-egm-div-9m2026",
+      "asset_id": "T",
+      "date": "2026-10-30",
+      "detected_at": "2026-11-01T08:30:00+03:00",
+      "type": "dividend",
+      "importance": "high",
+      "title": "Т-Технологии: ВОСА 03.12.2026 по дивидендам за 9М 2026",
+      "summary": "СД Т-Технологий созвал внеочередное собрание акционеров 03.12.2026 с вопросом о дивидендах за 9 месяцев 2026 г. Сумма на акцию и дата отсечки в найденном раскрытии не указаны.",
+      "criteria": {
+        "C6": {
+          "status": "warn",
+          "note": "Без изменений"
+        }
+      },
+      "verdict": "watch",
+      "sources": [
+        {
+          "title": "Т-Технологии: ВОСА 3 декабря",
+          "url": "https://smartlab.news/read/209332-t-texnologii-provedut-vosa-3-dekabria-po-dividendam-za-9m-2026-g"
+        }
+      ],
+      "notify": true
+    },
+    {
+      "id": "VTBR-20261030-chairman-left",
+      "asset_id": "VTBR",
+      "date": "2026-10-30",
+      "detected_at": "2026-11-01T08:30:00+03:00",
+      "type": "management",
+      "importance": "medium",
+      "title": "ВТБ: Д. Григоренко покинул пост председателя набсовета",
+      "summary": "Дмитрий Григоренко, возглавлявший набсовет ВТБ с 2020 г., вышел из него 22.10.2026 (раскрытие 30.10). Нового председателя выберут после директивы правительства. Статусы критериев не меняются.",
+      "criteria": {
+        "C4": {
+          "status": "n/a",
+          "note": "нет фактов для оценки"
+        }
+      },
+      "verdict": "watch",
+      "sources": [
+        {
+          "title": "ВТБ: раскрытие о составе набсовета",
+          "url": "https://smartlab.news/read/209346-dmitrii-grigorenko-pokinul-post-glavy-nabsoveta-vtb-kotoryi-on-zanimal-s-2020-goda-raskrytie"
+        }
+      ],
+      "notify": false
+    },
+    {
+      "id": "MOEX-20261031-crypto-trading",
+      "asset_id": "MOEX",
+      "date": "2026-10-31",
+      "detected_at": "2026-11-01T08:30:00+03:00",
+      "type": "other",
+      "importance": "medium",
+      "title": "Мосбиржа планирует торги Bitcoin, Ethereum и USDT с 1 декабря 2026",
+      "summary": "Новое направление: управляющий директор Б. Блохин заявил о планах запустить торги BTC, ETH и USDT на рынке ценных бумаг с 01.12.2026 (стакан и свопы, 07:00–24:00, хранение у цифровых депозитариев партнёров). Это план, решения СД нет; объём инвестиций и финансирование не раскрыты, влияния на долг и дивиденды не видно. R4: n/a (до запуска меньше 2 кварталов).",
+      "criteria": {
+        "C2": {
+          "status": "pass",
+          "note": "Без изменений"
+        }
+      },
+      "verdict": "buy_zone",
+      "sources": [
+        {
+          "title": "Ведомости, 31.10.2026",
+          "url": "https://www.vedomosti.ru/investments/news/2026/10/31/1241773-mosbirzha-zapustit-torgi"
+        }
+      ],
+      "notify": false
+    },
     {
       "id": "PHOR-20261030-div-rec-309",
       "asset_id": "PHOR",

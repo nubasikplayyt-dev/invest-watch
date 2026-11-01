@@ -1,0 +1,389 @@
+{
+  "asset_id": "ZPIF-RU000A1022Z1",
+  "currency": "RUB",
+  "basis": "год по дате закрытия реестра",
+  "by_year": [
+    {
+      "year": 2026,
+      "total": 652.05
+    },
+    {
+      "year": 2025,
+      "total": 850.46
+    },
+    {
+      "year": 2024,
+      "total": 825.36
+    },
+    {
+      "year": 2023,
+      "total": 798.36
+    },
+    {
+      "year": 2022,
+      "total": 573.64
+    },
+    {
+      "year": 2021,
+      "total": 423.57
+    }
+  ],
+  "payments": [
+    {
+      "record_date": "2026-09-30",
+      "period": "сен 2026",
+      "amount": 72.45
+    },
+    {
+      "record_date": "2026-08-31",
+      "period": "авг 2026",
+      "amount": 72.45
+    },
+    {
+      "record_date": "2026-07-31",
+      "period": "июл 2026",
+      "amount": 72.45
+    },
+    {
+      "record_date": "2026-06-30",
+      "period": "июн 2026",
+      "amount": 72.45
+    },
+    {
+      "record_date": "2026-05-29",
+      "period": "май 2026",
+      "amount": 72.45
+    },
+    {
+      "record_date": "2026-04-30",
+      "period": "апр 2026",
+      "amount": 72.45
+    },
+    {
+      "record_date": "2026-03-31",
+      "period": "мар 2026",
+      "amount": 72.45
+    },
+    {
+      "record_date": "2026-02-27",
+      "period": "фев 2026",
+      "amount": 72.45
+    },
+    {
+      "record_date": "2026-01-30",
+      "period": "янв 2026",
+      "amount": 72.45
+    },
+    {
+      "record_date": "2025-12-30",
+      "period": "дек 2025",
+      "amount": 70.87
+    },
+    {
+      "record_date": "2025-11-30",
+      "period": "ноя 2025",
+      "amount": 70.87
+    },
+    {
+      "record_date": "2025-10-31",
+      "period": "окт 2025",
+      "amount": 70.87
+    },
+    {
+      "record_date": "2025-09-30",
+      "period": "сен 2025",
+      "amount": 70.87
+    },
+    {
+      "record_date": "2025-08-31",
+      "period": "авг 2025",
+      "amount": 70.87
+    },
+    {
+      "record_date": "2025-07-31",
+      "period": "июл 2025",
+      "amount": 70.87
+    },
+    {
+      "record_date": "2025-06-30",
+      "period": "июн 2025",
+      "amount": 70.87
+    },
+    {
+      "record_date": "2025-05-31",
+      "period": "май 2025",
+      "amount": 70.87
+    },
+    {
+      "record_date": "2025-04-30",
+      "period": "апр 2025",
+      "amount": 70.87
+    },
+    {
+      "record_date": "2025-03-31",
+      "period": "мар 2025",
+      "amount": 70.87
+    },
+    {
+      "record_date": "2025-02-28",
+      "period": "фев 2025",
+      "amount": 70.88
+    },
+    {
+      "record_date": "2025-01-31",
+      "period": "янв 2025",
+      "amount": 70.88
+    },
+    {
+      "record_date": "2024-12-31",
+      "period": "дек 2024",
+      "amount": 68.78
+    },
+    {
+      "record_date": "2024-11-30",
+      "period": "ноя 2024",
+      "amount": 68.78
+    },
+    {
+      "record_date": "2024-10-31",
+      "period": "окт 2024",
+      "amount": 68.78
+    },
+    {
+      "record_date": "2024-09-30",
+      "period": "сен 2024",
+      "amount": 68.78
+    },
+    {
+      "record_date": "2024-08-31",
+      "period": "авг 2024",
+      "amount": 68.78
+    },
+    {
+      "record_date": "2024-07-31",
+      "period": "июл 2024",
+      "amount": 68.78
+    },
+    {
+      "record_date": "2024-06-30",
+      "period": "июн 2024",
+      "amount": 68.78
+    },
+    {
+      "record_date": "2024-05-31",
+      "period": "май 2024",
+      "amount": 68.78
+    },
+    {
+      "record_date": "2024-04-30",
+      "period": "апр 2024",
+      "amount": 68.78
+    },
+    {
+      "record_date": "2024-03-31",
+      "period": "мар 2024",
+      "amount": 68.78
+    },
+    {
+      "record_date": "2024-02-29",
+      "period": "фев 2024",
+      "amount": 68.78
+    },
+    {
+      "record_date": "2024-01-31",
+      "period": "янв 2024",
+      "amount": 68.78
+    },
+    {
+      "record_date": "2023-12-31",
+      "period": "дек 2023",
+      "amount": 66.53
+    },
+    {
+      "record_date": "2023-11-30",
+      "period": "ноя 2023",
+      "amount": 66.53
+    },
+    {
+      "record_date": "2023-10-31",
+      "period": "окт 2023",
+      "amount": 66.53
+    },
+    {
+      "record_date": "2023-09-30",
+      "period": "сен 2023",
+      "amount": 66.53
+    },
+    {
+      "record_date": "2023-08-31",
+      "period": "авг 2023",
+      "amount": 66.53
+    },
+    {
+      "record_date": "2023-07-31",
+      "period": "июл 2023",
+      "amount": 66.53
+    },
+    {
+      "record_date": "2023-06-30",
+      "period": "июн 2023",
+      "amount": 66.53
+    },
+    {
+      "record_date": "2023-05-31",
+      "period": "май 2023",
+      "amount": 66.53
+    },
+    {
+      "record_date": "2023-04-30",
+      "period": "апр 2023",
+      "amount": 66.53
+    },
+    {
+      "record_date": "2023-03-31",
+      "period": "мар 2023",
+      "amount": 66.53
+    },
+    {
+      "record_date": "2023-02-28",
+      "period": "фев 2023",
+      "amount": 66.53
+    },
+    {
+      "record_date": "2023-01-31",
+      "period": "янв 2023",
+      "amount": 66.53
+    },
+    {
+      "record_date": "2022-12-31",
+      "period": "дек 2022",
+      "amount": 48.83
+    },
+    {
+      "record_date": "2022-11-30",
+      "period": "ноя 2022",
+      "amount": 48.83
+    },
+    {
+      "record_date": "2022-10-31",
+      "period": "окт 2022",
+      "amount": 48.83
+    },
+    {
+      "record_date": "2022-09-30",
+      "period": "сен 2022",
+      "amount": 50.41
+    },
+    {
+      "record_date": "2022-08-31",
+      "period": "авг 2022",
+      "amount": 47.25
+    },
+    {
+      "record_date": "2022-07-31",
+      "period": "июл 2022",
+      "amount": 47.07
+    },
+    {
+      "record_date": "2022-06-30",
+      "period": "июн 2022",
+      "amount": 47.07
+    },
+    {
+      "record_date": "2022-05-31",
+      "period": "май 2022",
+      "amount": 47.07
+    },
+    {
+      "record_date": "2022-04-30",
+      "period": "апр 2022",
+      "amount": 47.07
+    },
+    {
+      "record_date": "2022-03-31",
+      "period": "мар 2022",
+      "amount": 47.07
+    },
+    {
+      "record_date": "2022-02-28",
+      "period": "фев 2022",
+      "amount": 47.07
+    },
+    {
+      "record_date": "2022-01-31",
+      "period": "янв 2022",
+      "amount": 47.07
+    },
+    {
+      "record_date": "2021-12-30",
+      "period": "дек 2021",
+      "amount": 47.07
+    },
+    {
+      "record_date": "2021-11-30",
+      "period": "ноя 2021",
+      "amount": 47.07
+    },
+    {
+      "record_date": "2021-10-29",
+      "period": "окт 2021",
+      "amount": 47.07
+    },
+    {
+      "record_date": "2021-09-30",
+      "period": "сен 2021",
+      "amount": 47.07
+    },
+    {
+      "record_date": "2021-08-31",
+      "period": "авг 2021",
+      "amount": 47.04
+    },
+    {
+      "record_date": "2021-07-30",
+      "period": "июл 2021",
+      "amount": 47.04
+    },
+    {
+      "record_date": "2021-06-30",
+      "period": "июн 2021",
+      "amount": 47.04
+    },
+    {
+      "record_date": "2021-05-31",
+      "period": "май 2021",
+      "amount": 47.04
+    },
+    {
+      "record_date": "2021-04-30",
+      "period": "апр 2021",
+      "amount": 47.13
+    }
+  ],
+  "announced": [
+    {
+      "record_date": "n/a (конец окт 2026)",
+      "period": "окт 2026",
+      "amount": 72.45,
+      "note": "план УК, выплата ~12.11.2026; не подтверждено"
+    },
+    {
+      "record_date": "n/a (конец ноя 2026)",
+      "period": "ноя 2026",
+      "amount": 72.45,
+      "note": "план УК, выплата ~10.12.2026; не подтверждено"
+    }
+  ],
+  "sources": [
+    {
+      "title": "PARUS Properties — страница фонда ПАРУС-ОЗН (объект, договор, кредит, выплаты, финмодель)",
+      "url": "https://parus.properties/funds/ozon/"
+    },
+    {
+      "title": "investmint.ru — выплаты и цена RU000A1022Z1 (агрегатор, сверка дат реестра и цены)",
+      "url": "https://investmint.ru/ru000a1022z1/"
+    }
+  ],
+  "updated": "2026-11-01",
+  "note": "Ежемесячные выплаты с апреля 2021 (первая — за апр 2021), 66 выплат по сен 2026 включительно; 2026 — неполный год (янв–сен). Суммы — по таблице УК (parus.properties), даты закрытия реестра — по investmint (у УК даны даты выплаты и месяц). Расхождения УК vs investmint: авг 2022 47,25 vs 48,84 и сен 2022 50,41 vs 48,83 (сумма за 2 мес. совпадает с точностью 0,01); мар–дек 2025 70,87 vs 70,88; у investmint дубль июля 2021 (30.07 — 47,04 и 31.07 — 47,07), у УК одна выплата 47,04. Первичные сообщения о выплате (раскрытие parus-am.ru) и ISS Мосбиржи недоступны из среды (прокси/разрешения)."
+}
